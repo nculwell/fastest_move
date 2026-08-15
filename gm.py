@@ -31,13 +31,20 @@ with open(GMFILE) as f:
     gm = json.load(f)
 
 moves = { move["moveId"]: move for move in gm["moves"] if not move.get("unlisted") == True }
+
+# Here we filter out any Pokemon that we want to exclude.
 pokemon = {
         mon["speciesId"]: mon
+
         for mon in gm["pokemon"]
-        if (not "tags" in mon)
-            or ("shadow" not in mon["tags"] 
-                and "mega" not in mon["tags"])
+
+        if mon["released"]
+            and ((not "tags" in mon)
+                or ("shadow" not in mon["tags"] 
+                    and "mega" not in mon["tags"]))
 }
+
+print([ mon for mon in gm["pokemon"] if mon["speciesId"].startswith("maushold") ], file=sys.stderr)
 
 # These print statements are exploratory and should be turned off "in production"
 if False:
