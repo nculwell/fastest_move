@@ -119,10 +119,14 @@
   <h1>Fastest Charged Moves</h1>
   <p class="subtitle">
     Pokemon Go PVP movesets ranked by how few turns it takes to reach a charged
-    move, then by damage per cycle (STAB included, attack-weighted).
+    move, then by damage per turn over three charged-move cycles, in HP against a
+    level 40 defender with 100 base defense. <b>Blocks</b> is the same figure when
+    the first two charged moves are shielded, as at the start of a Rocket leader
+    battle. Type effectiveness is not included &mdash; check the move types.
     Data loaded live from
     <a href="https://github.com/pvpoke/pvpoke">pvpoke</a>.
-    A <span class="star">*</span> marks a moveset that is not that Pokemon's own fastest.
+    A <span class="star">*</span> after a Pokemon marks a moveset that is not its own
+    fastest; before a move, that the move needs an Elite TM.
   </p>
 
   <div class="controls">
@@ -148,7 +152,8 @@
         <th>Fast Move</th>
         <th>Charged Move</th>
         <th class="num">Turns</th>
-        <th class="num">Damage</th>
+        <th class="num" title="Damage per turn, in HP, against a level 40 defender with 100 base defense">Damage</th>
+        <th class="num" title="Damage per turn if the first two charged moves are blocked by shields">Blocks</th>
       </tr>
     </thead>
     <tbody id="results"></tbody>

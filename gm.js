@@ -5,8 +5,34 @@
 
 const GM_URL =
   "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/gamemaster.json";
+const CPM_URL = "cpm.txt";
 
 const DEFAULT_TURNS_THRESHOLD = 10;
+
+// The reference matchup we score every moveset against. Attacker and defender are
+// both level 40 with IV 15, so the CPM cancels out of the attack/defense ratio and
+// the ranking doesn't depend on the level we picked; the constants are here so the
+// assumption is visible and easy to change.
+const ATTACKER_LEVEL = 40;
+const DEFENDER_LEVEL = 40;
+const DEFENDER_BASE_DEF = 100;
+const IV = 15;
+
+// The trainer-battle damage bonus, part of the damage formula.
+const PVP_BONUS = 1.3;
+
+// A Protect Shield reduces a charged move to 1 damage, it doesn't nullify it.
+const SHIELDED_DAMAGE = 1;
+
+const STAB_MULTIPLIER = 1.2;
+
+// We score three charged-move cycles, which is about as far as a Rocket battle
+// gets. The "blocks" figure assumes the leader shields the first two of them.
+const CYCLE_COUNT = 3;
+const SHIELDS = 2;
+
+// The defender's defense stat, filled in once cpm.txt has loaded.
+let defense = 0;
 
 const TYPE_ABBR = {
   normal: "nrm",
@@ -58,6 +84,16 @@ function formatTurns(turns) {
   return turns.toFixed(2).replace(/0$/, "");
 }
 
+// cpm.txt holds the CP multiplier for each level, one "<level> <cpm>" pair per line.
+function parseCpm(text) {
+  const cpm = new Map();
+  for (const line of text.trim().split("\n")) {
+    const [level, mult] = line.trim().split(/\s+/);
+    cpm.set(Number(level), Number(mult));
+  }
+  return cpm;
+}
+
 function indexGamemaster(gm) {
   const moves = new Map();
   for (const move of gm.moves) {
@@ -66,16 +102,77 @@ function indexGamemaster(gm) {
 
   const pokemon = [];
   for (const mon of gm.pokemon) {
+    if (!mon.released) continue;
     const tags = mon.tags;
     if (tags && (tags.includes("shadow") || tags.includes("mega"))) continue;
-    if (mon.speciesId === "smeargle") continue; // learns everything; not useful
+    if (mon.speciesId === "smeargle") continue; // skip Smeargle, it's goofy
     pokemon.push(mon);
   }
 
   return { moves, pokemon };
 }
 
-function findMovesets({ moves, pokemon }, turnsThreshold) {
+function stab(mon, move) {
+  return mon.types.includes(move.type) ? STAB_MULTIPLIER : 1.0;
+}
+
+function moveDamage(move, moveStab, attack) {
+  // The game's damage formula. Type effectiveness is deliberately left out: it's
+  // situational, and we show the move types so players can account for it. Note
+  // that the flooring and the +1 happen per hit, so this is not a simple scaling
+  // of the move's power -- low-power fast moves gain proportionally more.
+  return Math.floor((0.5 * PVP_BONUS * move.power * moveStab * attack) / defense) + 1;
+}
+
+function doMoveCycle(fm, fmStab, cm, cmStab, attack, residualEnergy, block) {
+  let turns = 0;
+  let energy = residualEnergy;
+  let damage = 0;
+  // Apply fast moves until enough energy is generated to fire a charged move
+  while (energy < cm.energy) {
+    turns += fm.turns;
+    energy += fm.energyGain;
+    damage += moveDamage(fm, fmStab, attack);
+  }
+  // Apply the charged move. A blocked move still costs its energy and its turn.
+  damage += block ? SHIELDED_DAMAGE : moveDamage(cm, cmStab, attack);
+  turns += 1;
+  energy -= cm.energy;
+  return { turns, damage, energy };
+}
+
+function doMoveCycles(mon, fm, cm, cycleCount, block, cpm) {
+  const fmStab = stab(mon, fm);
+  const cmStab = stab(mon, cm);
+  const attack = (mon.baseStats.atk + IV) * cpm.get(ATTACKER_LEVEL);
+  let turns = 0;
+  let damage = 0;
+  let residualEnergy = 0;
+  let blocksLeft = block ? SHIELDS : 0;
+  for (let i = 0; i < cycleCount; i++) {
+    let blockNext = false;
+    if (blocksLeft > 0) {
+      blockNext = true;
+      blocksLeft -= 1;
+    }
+    const cycle = doMoveCycle(fm, fmStab, cm, cmStab, attack, residualEnergy, blockNext);
+    turns += cycle.turns;
+    damage += cycle.damage;
+    residualEnergy = cycle.energy;
+  }
+  return { turns, damage };
+}
+
+function calcDamage(mon, fm, cm, block, cpm) {
+  // We calculate damage across three charged moves. This allows us to account
+  // for different move counts due to residual energy left over from the first
+  // move.
+  const { turns, damage } = doMoveCycles(mon, fm, cm, CYCLE_COUNT, block, cpm);
+  // The result is damage per turn, in HP, against our reference defender.
+  return damage / turns;
+}
+
+function findMovesets({ moves, pokemon, cpm }, turnsThreshold) {
   const results = [];
 
   for (const mon of pokemon) {
@@ -83,6 +180,7 @@ function findMovesets({ moves, pokemon }, turnsThreshold) {
       .map((m) => moves.get(m))
       .filter((m) => m && m.energyGain > 0);
     const cms = mon.chargedMoves.map((m) => moves.get(m)).filter((m) => m);
+    const eliteMoves = mon.eliteMoves || [];
 
     const movesets = [];
     for (const fm of fms) {
@@ -90,17 +188,15 @@ function findMovesets({ moves, pokemon }, turnsThreshold) {
         const turns = (cm.energy / fm.energyGain) * fm.turns;
         if (turns > turnsThreshold) continue;
 
-        let fmPower = (fm.power * turns) / (turns + 1);
-        let cmPower = cm.power / (turns + 1);
-        if (mon.types.includes(fm.type)) fmPower *= 1.25; // STAB
-        if (mon.types.includes(cm.type)) cmPower *= 1.25; // STAB
-
         movesets.push({
           mon,
           fm,
           cm,
           turns,
-          damage: (fmPower + cmPower) * mon.baseStats.atk,
+          fmElite: eliteMoves.includes(fm.moveId),
+          cmElite: eliteMoves.includes(cm.moveId),
+          damage: calcDamage(mon, fm, cm, false, cpm),
+          damageWithBlocks: calcDamage(mon, fm, cm, true, cpm),
         });
       }
     }
@@ -114,15 +210,12 @@ function findMovesets({ moves, pokemon }, turnsThreshold) {
   }
 
   // Fastest first, then hardest-hitting, then by species for a stable order.
-  for (const ms of results) {
-    ms.sortKey =
-      ms.turns.toFixed(2).padStart(5, "0") +
-      "--" +
-      Math.trunc(1000000 - ms.damage) +
-      "--" +
-      ms.mon.speciesId;
-  }
-  results.sort((a, b) => (a.sortKey < b.sortKey ? -1 : a.sortKey > b.sortKey ? 1 : 0));
+  results.sort(
+    (a, b) =>
+      a.turns - b.turns ||
+      b.damage - a.damage ||
+      (a.mon.speciesId < b.mon.speciesId ? -1 : a.mon.speciesId > b.mon.speciesId ? 1 : 0)
+  );
 
   return results;
 }
@@ -147,9 +240,16 @@ function isLight(hex) {
   return 0.2126 * r + 0.7152 * g + 0.0722 * b > 150;
 }
 
-function moveCell(move, mon) {
+function moveCell(move, mon, elite) {
   const td = document.createElement("td");
   td.className = "move";
+  if (elite) {
+    const star = document.createElement("span");
+    star.className = "star";
+    star.textContent = "*";
+    star.title = "Needs an Elite TM";
+    td.append(star);
+  }
   const name = document.createElement("span");
   name.textContent = move.name;
   if (mon.types.includes(move.type)) {
@@ -157,6 +257,13 @@ function moveCell(move, mon) {
     name.title = "STAB";
   }
   td.append(name, " ", typeBadge(move.type));
+  return td;
+}
+
+function numCell(value) {
+  const td = document.createElement("td");
+  td.className = "num";
+  td.textContent = value;
   return td;
 }
 
@@ -186,7 +293,7 @@ function render(movesets, opts) {
       const tr = document.createElement("tr");
       tr.className = "group";
       const td = document.createElement("td");
-      td.colSpan = 5;
+      td.colSpan = 6;
       td.textContent = "TURNS: " + label;
       tr.append(td);
       frag.append(tr);
@@ -207,15 +314,14 @@ function render(movesets, opts) {
       name.append(star);
     }
 
-    const turns = document.createElement("td");
-    turns.className = "num";
-    turns.textContent = label;
-
-    const damage = document.createElement("td");
-    damage.className = "num";
-    damage.textContent = Math.trunc(ms.damage).toLocaleString();
-
-    tr.append(name, moveCell(ms.fm, ms.mon), moveCell(ms.cm, ms.mon), turns, damage);
+    tr.append(
+      name,
+      moveCell(ms.fm, ms.mon, ms.fmElite),
+      moveCell(ms.cm, ms.mon, ms.cmElite),
+      numCell(label),
+      numCell(ms.damage.toFixed(2)),
+      numCell(ms.damageWithBlocks.toFixed(2))
+    );
     frag.append(tr);
   }
 
@@ -232,6 +338,12 @@ function setStatus(text, isError) {
   el.classList.toggle("error", !!isError);
 }
 
+async function fetchText(url) {
+  const resp = await fetch(url, { cache: "no-cache" });
+  if (!resp.ok) throw new Error("HTTP " + resp.status + " " + resp.statusText);
+  return resp.text();
+}
+
 async function main() {
   const thresholdEl = document.getElementById("threshold");
   const bestOnlyEl = document.getElementById("bestOnly");
@@ -239,23 +351,25 @@ async function main() {
 
   setStatus("Loading gamemaster.json from pvpoke…");
 
-  let gm;
+  let gm, cpm;
   try {
-    const resp = await fetch(GM_URL, { cache: "no-cache" });
-    if (!resp.ok) throw new Error("HTTP " + resp.status + " " + resp.statusText);
-    gm = await resp.json();
+    const [gmText, cpmText] = await Promise.all([fetchText(GM_URL), fetchText(CPM_URL)]);
+    gm = JSON.parse(gmText);
+    cpm = parseCpm(cpmText);
   } catch (err) {
     setStatus(
-      "Could not load the gamemaster: " +
+      "Could not load the gamemaster or cpm.txt: " +
         err.message +
         ". If you opened this file directly, try serving it instead " +
-        "(python3 -m http.server) so the browser allows the request.",
+        "(python3 -m http.server) so the browser allows the requests.",
       true
     );
     return;
   }
 
-  const indexed = indexGamemaster(gm);
+  defense = (DEFENDER_BASE_DEF + IV) * cpm.get(DEFENDER_LEVEL);
+
+  const indexed = { ...indexGamemaster(gm), cpm };
   const updated = gm.timestamp ? new Date(gm.timestamp).toLocaleString() : "unknown";
   setStatus(
     `${indexed.pokemon.length.toLocaleString()} Pokemon and ` +
