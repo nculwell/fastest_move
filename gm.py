@@ -146,24 +146,14 @@ def calc_damage(mon, fm, cm, block):
 
 for mon in pokemon.values():
     if mon["speciesId"] == "smeargle":
-        continue
-    tags = mon.get("tags")
-    if tags:
-        if "shadow" in tags or "mega" in tags:
-            continue
+        continue # skip Smeargle, it's goofy
     fast_moves = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
     chrg_moves = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
     eliteMoves = mon.get("eliteMoves") or []
     movesets = []
     for fm in fast_moves:
         for cm in chrg_moves:
-            try:
-                turns = (cm["energy"] / fm["energyGain"]) * fm["turns"]
-            except ZeroDivisionError:
-                # We don't expect this to happen, but if it does we want to see
-                # which pokemon triggered it so we can fix the problem.
-                print("ZeroDivisionError for fm:", fm, file=sys.stderr)
-                sys.exit(1)
+            turns = (cm["energy"] / fm["energyGain"]) * fm["turns"]
             if turns <= TURNS_THRESHOLD:
                 damage = calc_damage(mon, fm, cm, False)
                 damage_with_blocks = calc_damage(mon, fm, cm, True)
