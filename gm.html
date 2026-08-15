@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fastest Charged Moves — Pokemon Go PVP</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #fbfbfa;
+    --fg: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e2e2df;
+    --panel: #fff;
+    --group: #efefec;
+    --accent: #2f6fed;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16171a;
+      --fg: #e8e8e6;
+      --muted: #9a9a97;
+      --line: #2c2e33;
+      --panel: #1d1f23;
+      --group: #24262b;
+      --accent: #7aa2f7;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 1.5rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--fg);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 60rem; margin: 0 auto; }
+
+  h1 { font-size: 1.4rem; margin: 0 0 .25rem; }
+  .subtitle { color: var(--muted); margin: 0 0 1.25rem; font-size: .9rem; }
+  #status { color: var(--muted); font-size: .85rem; margin: .75rem 0 0; }
+  #status.error { color: #d33; }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: .75rem 1rem;
+  }
+  .controls label { display: flex; align-items: center; gap: .4rem; font-size: .9rem; }
+  input[type="number"] { width: 5rem; }
+  input[type="number"], input[type="search"] {
+    background: var(--bg);
+    color: var(--fg);
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    padding: .3rem .5rem;
+    font: inherit;
+    font-size: .9rem;
+  }
+  input[type="search"] { min-width: 12rem; }
+  input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  #count { color: var(--muted); font-size: .85rem; margin-left: auto; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1.25rem;
+    font-size: .9rem;
+  }
+  thead th {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+    padding: .5rem .6rem;
+    font-size: .78rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: var(--muted);
+  }
+  th.num, td.num { text-align: right; }
+  tbody td { padding: .35rem .6rem; border-bottom: 1px solid var(--line); }
+  tbody tr:hover td { background: var(--panel); }
+
+  tr.group td {
+    background: var(--group);
+    font-weight: 600;
+    font-size: .8rem;
+    letter-spacing: .06em;
+    padding: .5rem .6rem;
+    border-bottom: 1px solid var(--line);
+  }
+  tr.notbest td.mon, tr.notbest td.move { opacity: .68; }
+  .star { color: var(--muted); cursor: help; }
+  td.mon { font-weight: 500; }
+  .stab { font-weight: 600; }
+  .type {
+    display: inline-block;
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: .03em;
+    padding: .05rem .32rem;
+    border-radius: 3px;
+    vertical-align: 1px;
+    cursor: help;
+  }
+  td.num { font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Fastest Charged Moves</h1>
+  <p class="subtitle">
+    Pokemon Go PVP movesets ranked by how few turns it takes to reach a charged
+    move, then by damage per cycle (STAB included, attack-weighted).
+    Data loaded live from
+    <a href="https://github.com/pvpoke/pvpoke">pvpoke</a>.
+    A <span class="star">*</span> marks a moveset that is not that Pokemon's own fastest.
+  </p>
+
+  <div class="controls">
+    <label>Max turns
+      <input type="number" id="threshold" value="10" min="1" max="60" step="0.5">
+    </label>
+    <label>
+      <input type="checkbox" id="bestOnly">
+      Fastest moveset per Pokemon only
+    </label>
+    <label>Filter
+      <input type="search" id="search" placeholder="name, move, or type">
+    </label>
+    <span id="count"></span>
+  </div>
+
+  <p id="status"></p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Pokemon</th>
+        <th>Fast Move</th>
+        <th>Charged Move</th>
+        <th class="num">Turns</th>
+        <th class="num">Damage</th>
+      </tr>
+    </thead>
+    <tbody id="results"></tbody>
+  </table>
+</main>
+<script src="gm.js"></script>
+</body>
+</html>
