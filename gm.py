@@ -118,7 +118,7 @@ for ms in mon_fastest_movesets:
           end=''
           )
     if fmt == cmt:
-        print(" [%s]" % fmt, end='')
+        print(" (SAME)", end='')
     print()
 
 
