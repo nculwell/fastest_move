@@ -4,6 +4,27 @@ import json, sys
 
 GMFILE = "gamemaster.json"
 
+TYPE_ABBR = {
+        'normal': 'nrm',
+        'fighting': 'fig',
+        'flying': 'fly',
+        'poison': 'poi',
+        'ground': 'grd',
+        'rock': 'rck',
+        'bug': 'bug',
+        'ghost': 'gho',
+        'steel': 'stl',
+        'fire': 'fir',
+        'water': 'wtr',
+        'grass': 'grs',
+        'electric': 'elc',
+        'psychic': 'psy',
+        'ice': 'ice',
+        'dragon': 'drg',
+        'dark': 'drk',
+        'fairy': 'fai',
+        }
+
 with open(GMFILE) as f:
     gm = json.load(f)
 
@@ -16,7 +37,7 @@ pokemon = {
                 and "mega" not in mon["tags"])
 }
 
-if False:
+if True:
     print(gm.keys(), file=sys.stderr)
     print(gm["moves"][0].keys(), file=sys.stderr)
 
@@ -53,13 +74,17 @@ for mon in pokemon.values():
                 best_movesets = []
                 best_turns = turns
             if turns <= best_turns:
-                power = (fm["power"] * turns + cm["power"]) / (turns + 1)
+                fm_power = fm["power"] * turns / (turns + 1)
+                cm_power = cm["power"] / (turns + 1)
+                if fm["type"] in mon["types"]: fm_power *= 1.25 # STAB
+                if cm["type"] in mon["types"]: cm_power *= 1.25 # STAB
+                power = fm_power + cm_power
                 attack = mon["baseStats"]["atk"]
                 best_movesets.append( (fm, cm, power * attack) )
     if best_movesets:
         for ms in best_movesets:
             mon_fastest_movesets.append({
-                "speciesId": mon["speciesId"],
+                "mon": mon,
                 "fm": ms[0],
                 "cm": ms[1],
                 "damage": ms[2],
@@ -67,7 +92,7 @@ for mon in pokemon.values():
                 })
 
 def sort_key(moveset):
-    return "%05.2f--%d--%s" % (moveset["turns"], 1000000-moveset["damage"], moveset["speciesId"])
+    return "%05.2f--%d--%s" % (moveset["turns"], 1000000-moveset["damage"], moveset["mon"]["speciesId"])
 mon_fastest_movesets.sort(key=sort_key)
 
 count = 0
@@ -83,11 +108,16 @@ for ms in mon_fastest_movesets:
         print("TURNS:", turns)
         print()
         prev_turns = turns
-    print(ms["speciesId"],
-          ms["fm"]["moveId"],
-          ms["cm"]["moveId"],
-          "; Turns:", turns,
-          "; Damage:", int(ms["damage"]),
+    print("%s:" % ms["mon"]["speciesName"],
+          "%s [%s] / %s [%s];" % (
+              ms["fm"]["name"], TYPE_ABBR[ms["fm"]["type"]],
+              ms["cm"]["name"], TYPE_ABBR[ms["cm"]["type"]]),
+          "Turns: %s;" % str(turns),
+          "Damage: %d" % int(ms["damage"]),
+          end=''
           )
+    if ms["fm"]["type"] == ms["cm"]["type"]:
+        print(" (*)", end='')
+    print()
 
 
