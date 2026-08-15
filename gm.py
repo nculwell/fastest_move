@@ -2,6 +2,8 @@
 
 import json, sys
 
+TURNS_THRESHOLD = 10
+
 GMFILE = "gamemaster.json"
 
 TYPE_ABBR = {
@@ -61,8 +63,7 @@ for mon in pokemon.values():
             continue
     fms = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
     cms = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
-    best_movesets = None
-    best_turns = 100
+    movesets = []
     for fm in fms:
         for cm in cms:
             try:
@@ -70,26 +71,27 @@ for mon in pokemon.values():
             except ZeroDivisionError:
                 print("ZeroDivisionError for fm:", fm, file=sys.stderr)
                 sys.exit(1)
-            if turns < best_turns:
-                best_movesets = []
-                best_turns = turns
-            if turns <= best_turns:
+            if turns <= TURNS_THRESHOLD:
                 fm_power = fm["power"] * turns / (turns + 1)
                 cm_power = cm["power"] / (turns + 1)
                 if fm["type"] in mon["types"]: fm_power *= 1.25 # STAB
                 if cm["type"] in mon["types"]: cm_power *= 1.25 # STAB
                 power = fm_power + cm_power
                 attack = mon["baseStats"]["atk"]
-                best_movesets.append( (fm, cm, power * attack) )
-    if best_movesets:
-        for ms in best_movesets:
-            mon_fastest_movesets.append({
-                "mon": mon,
-                "fm": ms[0],
-                "cm": ms[1],
-                "damage": ms[2],
-                "turns": best_turns,
-                })
+                movesets.append({
+                    "mon": mon,
+                    "turns": turns,
+                    "fm": fm,
+                    "cm": cm,
+                    "damage": power * attack
+                    })
+    if len(movesets) == 0:
+        continue
+    movesets.sort(key = lambda ms: ms["turns"])
+    best_turns = movesets[0]["turns"]
+    for ms in movesets:
+        ms["best"] = (ms["turns"] == best_turns)
+    mon_fastest_movesets.extend(movesets)
 
 def sort_key(moveset):
     return "%05.2f--%d--%s" % (moveset["turns"], 1000000-moveset["damage"], moveset["mon"]["speciesId"])
@@ -109,8 +111,10 @@ for ms in mon_fastest_movesets:
         print()
         prev_turns = turns
     (fmt, cmt) = ( TYPE_ABBR[ms[x]["type"]] for x in ["fm","cm"] )
-    print("%s:" % ms["mon"]["speciesName"],
-          "%s [%s] / %s [%s];" % (
+    print("%s" % ms["mon"]["speciesName"], end='')
+    if not ms["best"]:
+        print("*", end='')
+    print(": %s [%s] / %s [%s];" % (
               ms["fm"]["name"], fmt,
               ms["cm"]["name"], cmt),
           "Turns: %s;" % str(turns),
@@ -118,7 +122,7 @@ for ms in mon_fastest_movesets:
           end=''
           )
     if fmt == cmt:
-        print(" (SAME)", end='')
+        print(" (both %s)" % ms["fm"]["type"], end='')
     print()
 
 
