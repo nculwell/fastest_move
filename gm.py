@@ -1,10 +1,27 @@
 #!/usr/bin/python3
 
 import json, sys
+from math import floor
 
 TURNS_THRESHOLD = 10
 
 GMFILE = "gamemaster.json"
+CPMFILE = "cpm.txt"
+
+# The reference matchup we score every moveset against. Attacker and defender are
+# both level 40 with IV 15, so the CPM cancels out of the attack/defense ratio and
+# the ranking doesn't depend on the level we picked; the constants are here so the
+# assumption is visible and easy to change.
+ATTACKER_LEVEL = 40
+DEFENDER_LEVEL = 40
+DEFENDER_BASE_DEF = 100
+IV = 15
+
+# The trainer-battle damage bonus, part of the damage formula.
+PVP_BONUS = 1.3
+
+# A Protect Shield reduces a charged move to 1 damage, it doesn't nullify it.
+SHIELDED_DAMAGE = 1
 
 TYPE_ABBR = {
         'normal': 'nrm',
@@ -29,6 +46,12 @@ TYPE_ABBR = {
 
 with open(GMFILE) as f:
     gm = json.load(f)
+
+# The CP multiplier for each level, one "<level> <cpm>" pair per line.
+with open(CPMFILE) as f:
+    cpm = { int(level): float(mult) for level, mult in (line.split() for line in f) }
+
+defense = (DEFENDER_BASE_DEF + IV) * cpm[DEFENDER_LEVEL]
 
 moves = { move["moveId"]: move for move in gm["moves"] if not move.get("unlisted") == True }
 
@@ -62,7 +85,14 @@ if False:
 
 mon_fastest_movesets = []
 
-def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy, block):
+def move_damage(move, move_stab, attack):
+    # The game's damage formula. Type effectiveness is deliberately left out: it's
+    # situational, and we show the move types so players can account for it. Note
+    # that the flooring and the +1 happen per hit, so this is not a simple scaling
+    # of the move's power -- low-power fast moves gain proportionally more.
+    return floor(0.5 * PVP_BONUS * move["power"] * move_stab * attack / defense) + 1
+
+def do_move_cycle(fm, fm_stab, cm, cm_stab, attack, residual_energy, block):
     turns = 0
     energy = residual_energy
     damage = 0
@@ -70,10 +100,12 @@ def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy, block):
     while energy < cm["energy"]:
         turns += fm["turns"]
         energy += fm["energyGain"]
-        damage += fm["power"] * fm_stab
-    # Apply the charged move
-    if not block:
-        damage += cm["power"] * cm_stab
+        damage += move_damage(fm, fm_stab, attack)
+    # Apply the charged move. A blocked move still costs its energy and its turn.
+    if block:
+        damage += SHIELDED_DAMAGE
+    else:
+        damage += move_damage(cm, cm_stab, attack)
     turns += 1
     energy -= cm["energy"]
     return (turns, damage, energy)
@@ -87,6 +119,7 @@ def stab(mon, move):
 def do_move_cycles(mon, fm, cm, cycle_count, block):
     fm_stab = stab(mon, fm)
     cm_stab = stab(mon, cm)
+    attack = (mon["baseStats"]["atk"] + IV) * cpm[ATTACKER_LEVEL]
     turns = 0
     damage = 0
     residual_energy = 0
@@ -96,7 +129,8 @@ def do_move_cycles(mon, fm, cm, cycle_count, block):
         if blocks_left > 0:
             block_next = True
             blocks_left -= 1
-        (t, d, e) = do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy, block_next)
+        (t, d, e) = do_move_cycle(fm, fm_stab, cm, cm_stab, attack,
+                                  residual_energy, block_next)
         turns += t
         damage += d
         residual_energy = e
@@ -107,10 +141,8 @@ def calc_damage(mon, fm, cm, block):
     # for different move counts due to residual energy left over from the first
     # move.
     (turns, damage) = do_move_cycles(mon, fm, cm, 3, block)
-    # We calculate damage per turn, then scale it by the attacking mon's attack
-    # stat.
-    attack = mon["baseStats"]["atk"]
-    return attack * damage / turns
+    # The result is damage per turn, in HP, against our reference defender.
+    return damage / turns
 
 for mon in pokemon.values():
     if mon["speciesId"] == "smeargle":
@@ -183,8 +215,8 @@ for ms in mon_fastest_movesets:
               ms["cm"]["name"],
               cmt),
           "Turns: %s;" % str(turns),
-          "Damage: %d;" % int(ms["damage"]),
-          "Damage (blocks): %d;" % int(ms["damage_with_blocks"]),
+          "Damage: %.2f;" % ms["damage"],
+          "Damage (blocks): %.2f;" % ms["damage_with_blocks"],
           end=''
           )
     if fmt == cmt:
