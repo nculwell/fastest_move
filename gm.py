@@ -62,7 +62,7 @@ if False:
 
 mon_fastest_movesets = []
 
-def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy):
+def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy, block):
     turns = 0
     energy = residual_energy
     damage = 0
@@ -72,7 +72,8 @@ def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy):
         energy += fm["energyGain"]
         damage += fm["power"] * fm_stab
     # Apply the charged move
-    damage += cm["power"] * cm_stab
+    if not block:
+        damage += cm["power"] * cm_stab
     turns += 1
     energy -= cm["energy"]
     return (turns, damage, energy)
@@ -83,24 +84,29 @@ def stab(mon, move):
     else:
         return 1.0
 
-def do_move_cycles(mon, fm, cm, cycle_count):
+def do_move_cycles(mon, fm, cm, cycle_count, block):
     fm_stab = stab(mon, fm)
     cm_stab = stab(mon, cm)
     turns = 0
     damage = 0
     residual_energy = 0
+    blocks_left = 2 if block else 0
     for i in range(cycle_count):
-        (t, d, e) = do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy)
+        block_next = False
+        if blocks_left > 0:
+            block_next = True
+            blocks_left -= 1
+        (t, d, e) = do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy, block_next)
         turns += t
         damage += d
         residual_energy = e
     return (turns, damage)
 
-def calc_damage(mon, fm, cm):
+def calc_damage(mon, fm, cm, block):
     # We calculate damage across three charged moves. This allows us to account
     # for different move counts due to residual energy left over from the first
     # move.
-    (turns, damage) = do_move_cycles(mon, fm, cm, 3)
+    (turns, damage) = do_move_cycles(mon, fm, cm, 3, block)
     # We calculate damage per turn, then scale it by the attacking mon's attack
     # stat.
     attack = mon["baseStats"]["atk"]
@@ -127,7 +133,8 @@ for mon in pokemon.values():
                 print("ZeroDivisionError for fm:", fm, file=sys.stderr)
                 sys.exit(1)
             if turns <= TURNS_THRESHOLD:
-                damage = calc_damage(mon, fm, cm)
+                damage = calc_damage(mon, fm, cm, False)
+                damage_with_blocks = calc_damage(mon, fm, cm, True)
                 movesets.append({
                     "mon": mon,
                     "turns": turns,
@@ -136,6 +143,7 @@ for mon in pokemon.values():
                     "fm_elite": fm["moveId"] in eliteMoves,
                     "cm_elite": cm["moveId"] in eliteMoves,
                     "damage": damage,
+                    "damage_with_blocks": damage_with_blocks,
                     })
     if len(movesets) == 0:
         continue
@@ -175,7 +183,8 @@ for ms in mon_fastest_movesets:
               ms["cm"]["name"],
               cmt),
           "Turns: %s;" % str(turns),
-          "Damage: %d" % int(ms["damage"]),
+          "Damage: %d;" % int(ms["damage"]),
+          "Damage (blocks): %d;" % int(ms["damage_with_blocks"]),
           end=''
           )
     if fmt == cmt:
