@@ -44,10 +44,10 @@ pokemon = {
                     and "mega" not in mon["tags"]))
 }
 
-print([ mon for mon in gm["pokemon"] if mon["speciesId"].startswith("maushold") ], file=sys.stderr)
-
 # These print statements are exploratory and should be turned off "in production"
 if False:
+    print([ mon for mon in gm["pokemon"] if mon["speciesId"].startswith("maushold") ], file=sys.stderr)
+
     print(gm.keys(), file=sys.stderr)
     print(gm["moves"][0].keys(), file=sys.stderr)
 
@@ -79,7 +79,7 @@ def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy):
 
 def stab(mon, move):
     if move["type"] in mon["types"]:
-        return 1.25
+        return 1.2
     else:
         return 1.0
 
@@ -115,6 +115,7 @@ for mon in pokemon.values():
             continue
     fast_moves = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
     chrg_moves = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
+    eliteMoves = mon.get("eliteMoves") or []
     movesets = []
     for fm in fast_moves:
         for cm in chrg_moves:
@@ -132,6 +133,8 @@ for mon in pokemon.values():
                     "turns": turns,
                     "fm": fm,
                     "cm": cm,
+                    "fm_elite": fm["moveId"] in eliteMoves,
+                    "cm_elite": cm["moveId"] in eliteMoves,
                     "damage": damage,
                     })
     if len(movesets) == 0:
@@ -164,9 +167,13 @@ for ms in mon_fastest_movesets:
     print("%s" % ms["mon"]["speciesName"], end='')
     if not ms["best"]:
         print("*", end='')
-    print(": %s [%s] / %s [%s];" % (
-              ms["fm"]["name"], fmt,
-              ms["cm"]["name"], cmt),
+    print(": %s%s [%s] / %s%s [%s];" % (
+              '*' if ms["fm_elite"] else '',
+              ms["fm"]["name"],
+              fmt,
+              '*' if ms["cm_elite"] else '',
+              ms["cm"]["name"],
+              cmt),
           "Turns: %s;" % str(turns),
           "Damage: %d" % int(ms["damage"]),
           end=''
