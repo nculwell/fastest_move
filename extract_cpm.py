@@ -9,7 +9,6 @@ with urllib.request.urlopen(GAME_MASTER_URL) as response:
 
 player_level_settings = [ t for t in gm if t["templateId"] == 'PLAYER_LEVEL_SETTINGS' ][0]
 
-print(player_level_settings["data"])
 cpm_list = player_level_settings["data"]['playerLevel']["cpMultiplier"]
 
 level = 0
