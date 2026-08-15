@@ -108,16 +108,17 @@ for ms in mon_fastest_movesets:
         print("TURNS:", turns)
         print()
         prev_turns = turns
+    (fmt, cmt) = ( TYPE_ABBR[ms[x]["type"]] for x in ["fm","cm"] )
     print("%s:" % ms["mon"]["speciesName"],
           "%s [%s] / %s [%s];" % (
-              ms["fm"]["name"], TYPE_ABBR[ms["fm"]["type"]],
-              ms["cm"]["name"], TYPE_ABBR[ms["cm"]["type"]]),
+              ms["fm"]["name"], fmt,
+              ms["cm"]["name"], cmt),
           "Turns: %s;" % str(turns),
           "Damage: %d" % int(ms["damage"]),
           end=''
           )
-    if ms["fm"]["type"] == ms["cm"]["type"]:
-        print(" (*)", end='')
+    if fmt == cmt:
+        print(" [%s]" % fmt, end='')
     print()
 
 
