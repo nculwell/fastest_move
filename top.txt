@@ -1,86 +1,86 @@
 
 TURNS: 7.5
 
-Greninja: Water Shuriken [wtr] / Night Slash [drk]; Turns: 7.5; Damage: 3115
+Greninja: Water Shuriken [wtr] / Night Slash [drk]; Turns: 7.5; Damage: 2044
 
 TURNS: 7.78
 
-Machamp: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 3128 (both fighting)
-Gallade: Psycho Cut [psy] / Leaf Blade [grs]; Turns: 7.78; Damage: 2939
-Pangoro: Karate Chop [fig] / Night Slash [drk]; Turns: 7.78; Damage: 2860
-Absol: Psycho Cut [psy] / Brutal Swing [drk]; Turns: 7.78; Damage: 2798
-Primeape: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 2767 (both fighting)
-Roserade: Poison Sting [poi] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 2737
-Melmetal: Thunder Shock [elc] / Double Iron Bash [stl]; Turns: 7.78; Damage: 2571
-Charizard: Ember [fir] / Air Cutter [fly]; Turns: 7.78; Damage: 2417
-Overqwil: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 2374
-Machoke: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 2366 (both fighting)
-Primeape: Karate Chop [fig] / Night Slash [drk]; Turns: 7.78; Damage: 2325
-Primeape: Karate Chop [fig] / Rage Fist [gho]; Turns: 7.78; Damage: 2325
-Qwilfish: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 2256
-Rapidash (Galarian): Psycho Cut [psy] / Body Slam [nrm]; Turns: 7.78; Damage: 2214
-Rapidash (Galarian): Fairy Wind [fai] / Body Slam [nrm]; Turns: 7.78; Damage: 2214
-Ninetales: Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 2192 (both fire)
-Scolipede: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 2171
-Mankey: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 1978 (both fighting)
-Qwilfish (Hisuian): Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1968
-Doublade: Psycho Cut [psy] / Sacred Sword [fig]; Turns: 7.78; Damage: 1951
-Politoed: Mud Shot [grd] / Weather Ball (Water) [wtr]; Turns: 7.78; Damage: 1949
-Drapion: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1925
-Clefable: Fairy Wind [fai] / Swift [nrm]; Turns: 7.78; Damage: 1903
-Electrode (Hisuian): Thunder Shock [elc] / Swift [nrm]; Turns: 7.78; Damage: 1882
-Weezing (Galarian): Fairy Wind [fai] / Brutal Swing [drk]; Turns: 7.78; Damage: 1861
-Ariados: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 1859 (both poison)
-Kingler: Mud Shot [grd] / Razor Shell [wtr]; Turns: 7.78; Damage: 1834
-Machop: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 1831 (both fighting)
-Ponyta (Galarian): Psycho Cut [psy] / Swift [nrm]; Turns: 7.78; Damage: 1818
-Castform (Sunny): Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 1803 (both fire)
-Turtonator: Ember [fir] / Brutal Swing [drk]; Turns: 7.78; Damage: 1764
-Swampert: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1727
-Morpeko (Full Belly): Thunder Shock [elc] / Psychic Fangs [psy]; Turns: 7.78; Damage: 1725
-Morpeko (Hangry): Thunder Shock [elc] / Psychic Fangs [psy]; Turns: 7.78; Damage: 1725
-Klinklang: Thunder Shock [elc] / Mirror Shot [stl]; Turns: 7.78; Damage: 1697
-Quagsire: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1695
-Greedent: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 1678
-Maushold: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1667
-Maushold_family_of_four: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1667
-Maushold_family_of_three: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1667
-Sandslash: Mud Shot [grd] / Night Slash [drk]; Turns: 7.78; Damage: 1641
-Seismitoad: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1561
-Growlithe: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 1454
-Krabby: Mud Shot [grd] / Razor Shell [wtr]; Turns: 7.78; Damage: 1383
-Goldeen: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1290
-Togedemaru: Thunder Shock [elc] / Fell Stinger [bug]; Turns: 7.78; Damage: 1274
-Vulpix: Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 1245 (both fire)
-Cyndaquil: Ember [fir] / Swift [nrm]; Turns: 7.78; Damage: 1240
-Qwilfish: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 1234
-Nidorino: Poison Sting [poi] / Horn Attack [nrm]; Turns: 7.78; Damage: 1231
-Beedrill: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 1230
-Tepig: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 1230
-Mareep: Thunder Shock [elc] / Body Slam [nrm]; Turns: 7.78; Damage: 1219
-Spinarak: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 1212 (both poison)
-Stunfisk: Thunder Shock [elc] / Muddy Water [wtr]; Turns: 7.78; Damage: 1212
-Drapion: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 1207
-Gible: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 1188
-Nidoran Male: Poison Sting [poi] / Body Slam [nrm]; Turns: 7.78; Damage: 1123
-Skorupi: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 1074 (both poison)
-Spinarak: Poison Sting [poi] / Night Slash [drk]; Turns: 7.78; Damage: 1063
-Stunfisk: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1052
-Stunfisk (Galarian): Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1052
-Mawile: Fairy Wind [fai] / Power-Up Punch [fig]; Turns: 7.78; Damage: 1039
-Barboach: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1037
-Tandemaus: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1028
-Vulpix: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 1026
-Poliwrath: Mud Shot [grd] / Power-Up Punch [fig]; Turns: 7.78; Damage: 1002
-Skorupi: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 994
-Vespiquen: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 952
-Nidoran Male: Poison Sting [poi] / Horn Attack [nrm]; Turns: 7.78; Damage: 943
-Nidoran Female: Poison Sting [poi] / Body Slam [nrm]; Turns: 7.78; Damage: 919
-Poliwag: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 901
-Goldeen: Mud Shot [grd] / Horn Attack [nrm]; Turns: 7.78; Damage: 887
-Medicham: Psycho Cut [psy] / Power-Up Punch [fig]; Turns: 7.78; Damage: 880
-Wooper: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 719
-Wooper (Paldean): Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 719
+Machamp: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 2437 (both fighting)
+Gallade: Psycho Cut [psy] / Leaf Blade [grs]; Turns: 7.78; Damage: 2370
+Absol: Psycho Cut [psy] / Brutal Swing [drk]; Turns: 7.78; Damage: 2316
+Pangoro: Karate Chop [fig] / Night Slash [drk]; Turns: 7.78; Damage: 2197
+Roserade: Poison Sting [poi] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 2160
+Primeape: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 2156 (both fighting)
+Melmetal: Thunder Shock [elc] / Double Iron Bash [stl]; Turns: 7.78; Damage: 2128
+Charizard: Ember [fir] / Air Cutter [fly]; Turns: 7.78; Damage: 1889
+Overqwil: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1850
+Machoke: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 1843 (both fighting)
+Qwilfish: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1814
+Ninetales: Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 1783 (both fire)
+Primeape: Karate Chop [fig] / Night Slash [drk]; Turns: 7.78; Damage: 1725
+Primeape: Karate Chop [fig] / Rage Fist [gho]; Turns: 7.78; Damage: 1725
+Rapidash (Galarian): Psycho Cut [psy] / Body Slam [nrm]; Turns: 7.78; Damage: 1725
+Rapidash (Galarian): Fairy Wind [fai] / Body Slam [nrm]; Turns: 7.78; Damage: 1725
+Scolipede: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1691
+Politoed: Mud Shot [grd] / Weather Ball (Water) [wtr]; Turns: 7.78; Damage: 1682
+Doublade: Psycho Cut [psy] / Sacred Sword [fig]; Turns: 7.78; Damage: 1587
+Mankey: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 1541 (both fighting)
+Qwilfish (Hisuian): Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1533
+Drapion: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1500
+Kingler: Mud Shot [grd] / Razor Shell [wtr]; Turns: 7.78; Damage: 1486
+Clefable: Fairy Wind [fai] / Swift [nrm]; Turns: 7.78; Damage: 1483
+Ariados: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 1475 (both poison)
+Castform (Sunny): Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 1467 (both fire)
+Electrode (Hisuian): Thunder Shock [elc] / Swift [nrm]; Turns: 7.78; Damage: 1466
+Weezing (Galarian): Fairy Wind [fai] / Brutal Swing [drk]; Turns: 7.78; Damage: 1450
+Greedent: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 1435
+Machop: Karate Chop [fig] / Cross Chop [fig]; Turns: 7.78; Damage: 1427 (both fighting)
+Maushold: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1426
+Maushold_family_of_four: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1426
+Maushold_family_of_three: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 1426
+Ponyta (Galarian): Psycho Cut [psy] / Swift [nrm]; Turns: 7.78; Damage: 1416
+Quagsire: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1414
+Turtonator: Ember [fir] / Brutal Swing [drk]; Turns: 7.78; Damage: 1375
+Swampert: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1357
+Klinklang: Thunder Shock [elc] / Mirror Shot [stl]; Turns: 7.78; Damage: 1321
+Sandslash: Mud Shot [grd] / Night Slash [drk]; Turns: 7.78; Damage: 1314
+Morpeko (Full Belly): Thunder Shock [elc] / Psychic Fangs [psy]; Turns: 7.78; Damage: 1280
+Morpeko (Hangry): Thunder Shock [elc] / Psychic Fangs [psy]; Turns: 7.78; Damage: 1280
+Seismitoad: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 1227
+Growlithe: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 1133
+Krabby: Mud Shot [grd] / Razor Shell [wtr]; Turns: 7.78; Damage: 1121
+Goldeen: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 1103
+Vulpix: Ember [fir] / Weather Ball (Fire) [fir]; Turns: 7.78; Damage: 1013 (both fire)
+Cyndaquil: Ember [fir] / Swift [nrm]; Turns: 7.78; Damage: 966
+Gible: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 964
+Spinarak: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 962 (both poison)
+Tepig: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 958
+Mareep: Thunder Shock [elc] / Body Slam [nrm]; Turns: 7.78; Damage: 950
+Nidorino: Poison Sting [poi] / Horn Attack [nrm]; Turns: 7.78; Damage: 913
+Stunfisk: Thunder Shock [elc] / Muddy Water [wtr]; Turns: 7.78; Damage: 880
+Tandemaus: Mud Shot [grd] / Swift [nrm]; Turns: 7.78; Damage: 879
+Nidoran Male: Poison Sting [poi] / Body Slam [nrm]; Turns: 7.78; Damage: 875
+Barboach: Mud Shot [grd] / Aqua Tail [wtr]; Turns: 7.78; Damage: 865
+Skorupi: Poison Sting [poi] / Cross Poison [poi]; Turns: 7.78; Damage: 852 (both poison)
+Beedrill: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 845
+Togedemaru: Thunder Shock [elc] / Fell Stinger [bug]; Turns: 7.78; Damage: 844
+Qwilfish: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 817
+Spinarak: Poison Sting [poi] / Night Slash [drk]; Turns: 7.78; Damage: 816
+Drapion: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 800
+Stunfisk: Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 800
+Stunfisk (Galarian): Mud Shot [grd] / Muddy Water [wtr]; Turns: 7.78; Damage: 800
+Vulpix: Ember [fir] / Body Slam [nrm]; Turns: 7.78; Damage: 800
+Skorupi: Poison Sting [poi] / Aqua Tail [wtr]; Turns: 7.78; Damage: 775
+Poliwag: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 751
+Poliwrath: Mud Shot [grd] / Power-Up Punch [fig]; Turns: 7.78; Damage: 748
+Nidoran Female: Poison Sting [poi] / Body Slam [nrm]; Turns: 7.78; Damage: 716
+Goldeen: Mud Shot [grd] / Horn Attack [nrm]; Turns: 7.78; Damage: 710
+Nidoran Male: Poison Sting [poi] / Horn Attack [nrm]; Turns: 7.78; Damage: 700
+Mawile: Fairy Wind [fai] / Power-Up Punch [fig]; Turns: 7.78; Damage: 688
+Vespiquen: Poison Sting [poi] / Fell Stinger [bug]; Turns: 7.78; Damage: 678
+Medicham: Psycho Cut [psy] / Power-Up Punch [fig]; Turns: 7.78; Damage: 605
+Wooper: Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 583
+Wooper (Paldean): Mud Shot [grd] / Body Slam [nrm]; Turns: 7.78; Damage: 583
 
 TURNS: 8.0
 
@@ -89,421 +89,421 @@ Regieleki: Lock On [nrm] / Thunder Cage [elc]; Turns: 8.0; Damage: 2305
 
 TURNS: 8.08
 
-Gengar: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 4009 (both ghost)
-Sceptile: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 3389 (both grass)
-Leafeon: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 3283 (both grass)
-Absol*: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 3231 (both dark)
-Shiftry: Snarl [drk] / Leaf Blade [grs]; Turns: 8.08; Damage: 3040
-Shiftry: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 3040 (both grass)
-Roserade*: Bullet Seed [grs] / Weather Ball (Fire) [fir]; Turns: 8.08; Damage: 2957
-Pangoro*: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 2813 (both dark)
-Incineroar: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 2811 (both dark)
-Crawdaunt: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 2788 (both dark)
-Dusknoir: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 2764 (both ghost)
-Samurott (Hisuian): Snarl [drk] / Sacred Sword [fig]; Turns: 8.08; Damage: 2653
-Grovyle: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 2614 (both grass)
-Dudunsparce: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 2594
-Bellossom: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 2569 (both grass)
-Guzzlord: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 2469 (both dark)
-Crawdaunt: Snarl [drk] / Razor Shell [wtr]; Turns: 8.08; Damage: 2325
-Samurott (Hisuian): Snarl [drk] / Razor Shell [wtr]; Turns: 8.08; Damage: 2263
-Lickilicky: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 2222
-Miltank: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 2167
-Thievul: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 2140 (both dark)
-Cherrim (Sunshine): Bullet Seed [grs] / Weather Ball (Fire) [fir]; Turns: 8.08; Damage: 2069
-Luxray: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 2054
-Castform: Hex [gho] / Weather Ball (Normal) [nrm]; Turns: 8.08; Damage: 2014
-Arcanine: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 2010
-Marowak (Alolan): Hex [gho] / Bone Club [grd]; Turns: 8.08; Damage: 1993
-Greedent*: Bullet Seed [grs] / Body Slam [nrm]; Turns: 8.08; Damage: 1923
-Maushold*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1911
-Maushold_family_of_four*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1911
-Maushold_family_of_three*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1911
-Dusclops: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 1904 (both ghost)
-Manectric: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 1904
-Linoone (Galarian): Snarl [drk] / Body Slam [nrm]; Turns: 8.08; Damage: 1865
-Castform: Hex [gho] / Weather Ball (Rock) [rck]; Turns: 8.08; Damage: 1784
-Wailmer: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 1671
-Ferrothorn: Bullet Seed [grs] / Mirror Shot [stl]; Turns: 8.08; Damage: 1640
-Scrafty: Snarl [drk] / Power-Up Punch [fig]; Turns: 8.08; Damage: 1355
-Tandemaus*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1178
-Skwovet: Bullet Seed [grs] / Body Slam [nrm]; Turns: 8.08; Damage: 1142
-Nickit: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 1057 (both dark)
+Gengar: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 2479 (both ghost)
+Sceptile: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 2369 (both grass)
+Leafeon: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 2295 (both grass)
+Absol*: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 2152 (both dark)
+Shiftry: Snarl [drk] / Leaf Blade [grs]; Turns: 8.08; Damage: 2125
+Shiftry: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 2125 (both grass)
+Roserade*: Bullet Seed [grs] / Weather Ball (Fire) [fir]; Turns: 8.08; Damage: 1913
+Incineroar: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 1872 (both dark)
+Pangoro*: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 1836 (both dark)
+Grovyle: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 1827 (both grass)
+Crawdaunt: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 1820 (both dark)
+Bellossom: Bullet Seed [grs] / Leaf Blade [grs]; Turns: 8.08; Damage: 1795 (both grass)
+Samurott (Hisuian): Snarl [drk] / Sacred Sword [fig]; Turns: 8.08; Damage: 1716
+Dusknoir: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 1710 (both ghost)
+Dudunsparce: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 1687
+Guzzlord: Snarl [drk] / Brutal Swing [drk]; Turns: 8.08; Damage: 1645 (both dark)
+Lickilicky: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 1444
+Miltank: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 1409
+Crawdaunt: Snarl [drk] / Razor Shell [wtr]; Turns: 8.08; Damage: 1400
+Thievul: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 1397 (both dark)
+Samurott (Hisuian): Snarl [drk] / Razor Shell [wtr]; Turns: 8.08; Damage: 1362
+Greedent*: Bullet Seed [grs] / Body Slam [nrm]; Turns: 8.08; Damage: 1340
+Cherrim (Sunshine): Bullet Seed [grs] / Weather Ball (Fire) [fir]; Turns: 8.08; Damage: 1338
+Castform: Hex [gho] / Weather Ball (Normal) [nrm]; Turns: 8.08; Damage: 1334
+Maushold*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1331
+Maushold_family_of_four*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1331
+Maushold_family_of_three*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 1331
+Luxray: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 1276
+Arcanine: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 1248
+Linoone (Galarian): Snarl [drk] / Body Slam [nrm]; Turns: 8.08; Damage: 1242
+Manectric: Snarl [drk] / Psychic Fangs [psy]; Turns: 8.08; Damage: 1182
+Dusclops: Hex [gho] / Shadow Punch [gho]; Turns: 8.08; Damage: 1178 (both ghost)
+Marowak (Alolan): Hex [gho] / Bone Club [grd]; Turns: 8.08; Damage: 1170
+Castform: Hex [gho] / Weather Ball (Rock) [rck]; Turns: 8.08; Damage: 1125
+Wailmer: Rollout [rck] / Body Slam [nrm]; Turns: 8.08; Damage: 1033
+Ferrothorn: Bullet Seed [grs] / Mirror Shot [stl]; Turns: 8.08; Damage: 987
+Tandemaus*: Bullet Seed [grs] / Swift [nrm]; Turns: 8.08; Damage: 820
+Skwovet: Bullet Seed [grs] / Body Slam [nrm]; Turns: 8.08; Damage: 795
+Scrafty: Snarl [drk] / Power-Up Punch [fig]; Turns: 8.08; Damage: 713
+Nickit: Snarl [drk] / Night Slash [drk]; Turns: 8.08; Damage: 690 (both dark)
 
 TURNS: 8.57
 
-Greninja*: Water Shuriken [wtr] / Hydro Cannon [wtr]; Turns: 8.57; Damage: 3827 (both water)
+Greninja*: Water Shuriken [wtr] / Hydro Cannon [wtr]; Turns: 8.57; Damage: 2731 (both water)
 
 TURNS: 8.75
 
-Blacephalon: Incinerate [fir] / Mind Blown [fir]; Turns: 8.75; Damage: 10701 (both fire)
-Zeraora: Volt Switch [elc] / Plasma Fists [elc]; Turns: 8.75; Damage: 5896 (both electric)
-Palkia (Origin): Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 4904
-Magnezone: Volt Switch [elc] / Mirror Shot [stl]; Turns: 8.75; Damage: 4805
-Palkia: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 4801
-Turtonator*: Incinerate [fir] / Brutal Swing [drk]; Turns: 8.75; Damage: 4632
-Ampharos: Volt Switch [elc] / Brutal Swing [drk]; Turns: 8.75; Damage: 4504
-Salamence: Dragon Tail [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 4359
-Terrakion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 4333 (both fighting)
-Haxorus: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 4323
-Galvantula: Volt Switch [elc] / Cross Poison [poi]; Turns: 8.75; Damage: 4187
-Keldeo (Resolute): Low Kick [fig] / Secret Sword [fig]; Turns: 8.75; Damage: 3791 (both fighting)
-Kartana: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 3768
-Gengar*: Shadow Claw [gho] / Shadow Punch [gho]; Turns: 8.75; Damage: 3597 (both ghost)
-Gyarados: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 3585
-Cyclizar: Dragon Tail [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 3515
-Keldeo (Ordinary): Low Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 3458 (both fighting)
-Virizion: Double Kick [fig] / Leaf Blade [grs]; Turns: 8.75; Damage: 3446
-Fraxure: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 3336
-Victreebel: Acid [poi] / Leaf Blade [grs]; Turns: 8.75; Damage: 3250
-Druddigon: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 3242
-Fraxure: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 3227
-Guzzlord*: Dragon Tail [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 3223
-Cobalion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 3200 (both fighting)
-Virizion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 3200 (both fighting)
-Haunter: Shadow Claw [gho] / Shadow Punch [gho]; Turns: 8.75; Damage: 3073 (both ghost)
-Meowscarada: Leafage [grs] / Night Slash [drk]; Turns: 8.75; Damage: 3061
-Incineroar*: Double Kick [fig] / Brutal Swing [drk]; Turns: 8.75; Damage: 3045
-Gallade*: Low Kick [fig] / Leaf Blade [grs]; Turns: 8.75; Damage: 3030
-Lurantis: Leafage [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 3015 (both grass)
-Palkia (Origin): Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2979
-Leavanny: Shadow Claw [gho] / Leaf Blade [grs]; Turns: 8.75; Damage: 2943
-Ursaring: Shadow Claw [gho] / Swift [nrm]; Turns: 8.75; Damage: 2934
-Palkia: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2916
-Leafeon*: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 2907
-Milotic: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2904
-Mienshao: Low Kick [fig] / Brutal Swing [drk]; Turns: 8.75; Damage: 2902
-Dhelmise: Shadow Claw [gho] / Brutal Swing [drk]; Turns: 8.75; Damage: 2882
-Gogoat: Vine Whip [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 2858 (both grass)
-Kartana: Fury Cutter [bug] / Sacred Sword [fig]; Turns: 8.75; Damage: 2857
-Dudunsparce*: Dragon Tail [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 2844
-Dragalge: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2785
-Forretress: Volt Switch [elc] / Mirror Shot [stl]; Turns: 8.75; Damage: 2745
-Dodrio: Peck [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 2725 (both flying)
-Pangoro*: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 2716
-Aurorus: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2682 (both ice)
-Hydreigon: Dragon Breath [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 2666
-Annihilape: Low Kick [fig] / Rage Fist [gho]; Turns: 8.75; Damage: 2644
-Primeape*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 2620 (both fighting)
-Sceptile*: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2601
-Sawk: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 2598
-Virizion: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 2584
-Cetitan: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 2573
-Farigiraf: Double Kick [fig] / Psychic Fangs [psy]; Turns: 8.75; Damage: 2572
-Abomasnow: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2567 (both ice)
-Abomasnow: Leafage [grs] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2567
-Charizard*: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 2537 (both flying)
-Kartana: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 2526
-Eiscue (Noice): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2495 (both ice)
-Meowscarada: Leafage [grs] / Flower Trick [grs]; Turns: 8.75; Damage: 2464 (both grass)
-Ninetales (Alolan): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2451 (both ice)
-Sirfetch'd: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2448
-Tyranitar: Dragon Breath [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 2445
-Bellossom*: Acid [poi] / Leaf Blade [grs]; Turns: 8.75; Damage: 2426
-Doublade*: Shadow Claw [gho] / Sacred Sword [fig]; Turns: 8.75; Damage: 2422
-Drampa: Dragon Breath [drg] / Swift [nrm]; Turns: 8.75; Damage: 2406
-Magnezone: Metal Sound [stl] / Mirror Shot [stl]; Turns: 8.75; Damage: 2402 (both steel)
-Masquerain: Infestation [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 2400
-Annihilape: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 2362
-Beautifly: Infestation [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 2362
-Dhelmise: Metal Sound [stl] / Brutal Swing [drk]; Turns: 8.75; Damage: 2359
-Virizion: Quick Attack [nrm] / Sacred Sword [fig]; Turns: 8.75; Damage: 2338
-Zangoose: Shadow Claw [gho] / Night Slash [drk]; Turns: 8.75; Damage: 2333
-Pelipper: Wing Attack [fly] / Weather Ball (Water) [wtr]; Turns: 8.75; Damage: 2327
-Grovyle*: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 2315
-Gyarados: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2309
-Dubwool: Double Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 2262
-Machoke*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 2240 (both fighting)
-Girafarig: Double Kick [fig] / Psychic Fangs [psy]; Turns: 8.75; Damage: 2240
-Lurantis: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2240
-Primeape*: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 2222
-Primeape*: Low Kick [fig] / Rage Fist [gho]; Turns: 8.75; Damage: 2222
-Dragalge: Acid [poi] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2189
-Doduo: Peck [fly] / Swift [nrm]; Turns: 8.75; Damage: 2177
-Golisopod: Shadow Claw [gho] / Razor Shell [wtr]; Turns: 8.75; Damage: 2152
-Golisopod: Shadow Claw [gho] / Razor Shell [wtr]; Turns: 8.75; Damage: 2152
-Eiscue: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2134 (both ice)
-Eiscue (Ice): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2134 (both ice)
-Ariados*: Infestation [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 2115
-Rapidash (Galarian)*: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 2096
-Runerigus: Shadow Claw [gho] / Brutal Swing [drk]; Turns: 8.75; Damage: 2016
-Klinklang*: Metal Sound [stl] / Mirror Shot [stl]; Turns: 8.75; Damage: 2009 (both steel)
-Castform (Snowy): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 2004 (both ice)
-Scizor: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 2004
-Doduo: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 2000 (both normal)
-Garbodor: Infestation [bug] / Body Slam [nrm]; Turns: 8.75; Damage: 1995
-Gliscor: Wing Attack [fly] / Night Slash [drk]; Turns: 8.75; Damage: 1986
-Drapion*: Infestation [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1984
-Goodra: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1981
-Toxtricity: Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1967
-Toxtricity (Amped): Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1967
-Toxtricity (Low Key): Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1967
-Sirfetch'd: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1939
-Throh: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1935
-Samurott (Hisuian)*: Fury Cutter [bug] / Sacred Sword [fig]; Turns: 8.75; Damage: 1928
-Bronzong: Metal Sound [stl] / Weather Ball (Water) [wtr]; Turns: 8.75; Damage: 1893
-Pidgeot: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1888 (both flying)
-Charizard*: Dragon Breath [drg] / Air Cutter [fly]; Turns: 8.75; Damage: 1886
-Armaldo: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1885
-Thievul*: Quick Attack [nrm] / Night Slash [drk]; Turns: 8.75; Damage: 1874
-Furret: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1873 (both normal)
-Scyther: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1851
-Golbat: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1831 (both flying)
-Steelix: Dragon Tail [drg] / Psychic Fangs [psy]; Turns: 8.75; Damage: 1802
-Amaura: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1788 (both ice)
-Lairon: Metal Sound [stl] / Body Slam [nrm]; Turns: 8.75; Damage: 1777
-Linoone: Shadow Claw [gho] / Swift [nrm]; Turns: 8.75; Damage: 1765
-Kingdra: Dragon Breath [drg] / Swift [nrm]; Turns: 8.75; Damage: 1747
-Zangoose: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1736
-Machop*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 1734 (both fighting)
-Ponyta (Galarian)*: Low Kick [fig] / Swift [nrm]; Turns: 8.75; Damage: 1721
-Farfetch'd (Galarian): Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1717
-Golisopod: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1711
-Golisopod: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1711
-Galvantula: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1707
-Lunatone: Psywave [psy] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1694
-Sealeo: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1694
-Solrock: Psywave [psy] / Weather Ball (Fire) [fir]; Turns: 8.75; Damage: 1694
-Plusle: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1691 (both normal)
-Hippowdon: Sand Attack [grd] / Weather Ball (Rock) [rck]; Turns: 8.75; Damage: 1687
-Buneary: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1645 (both normal)
-Quilladin: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 1642
-Pancham: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1631
-Barbaracle: Fury Cutter [bug] / Cross Chop [fig]; Turns: 8.75; Damage: 1616
-Hawlucha: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1593 (both fighting)
-Hippowdon: Sand Attack [grd] / Body Slam [nrm]; Turns: 8.75; Damage: 1584
-Beedrill*: Infestation [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 1570 (both bug)
-Fomantis: Leafage [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 1570 (both grass)
-Samurott (Hisuian)*: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1565
-Dewott: Fury Cutter [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1549
-Gligar: Wing Attack [fly] / Night Slash [drk]; Turns: 8.75; Damage: 1535
-Goodra: Dragon Breath [drg] / Muddy Water [wtr]; Turns: 8.75; Damage: 1530
-Goldeen*: Peck [fly] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1529
-Samurott: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1522
-Skrelp: Acid [poi] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1502
-Minun: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1488 (both normal)
-Grimmsnarl: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1484 (both fighting)
-Sandshrew (Alolan): Powder Snow [ice] / Night Slash [drk]; Turns: 8.75; Damage: 1482
-Quilladin: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1478
-Cetoddle: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1472
-Dragonair: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1468
-Dragonair: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1468
-Riolu: Quick Attack [nrm] / Cross Chop [fig]; Turns: 8.75; Damage: 1465
-Gliscor: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1446
-Sliggoo: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1432
-Zweilous: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1432
-Parasect: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1401
-Pawniard: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1401
-Barbaracle: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1392
-Staryu: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1387 (both normal)
-Vulpix (Alolan): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1384 (both ice)
-Gliscor: Sand Attack [grd] / Night Slash [drk]; Turns: 8.75; Damage: 1363
-Aron: Metal Sound [stl] / Body Slam [nrm]; Turns: 8.75; Damage: 1361
-Sandslash*: Sand Attack [grd] / Night Slash [drk]; Turns: 8.75; Damage: 1341
-Drapion*: Infestation [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 1338 (both bug)
-Buizel: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1336 (both normal)
-Pidgeotto: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1331 (both flying)
-Eevee: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 1316 (both normal)
-Eevee: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1316 (both normal)
-Fletchling: Peck [fly] / Swift [nrm]; Turns: 8.75; Damage: 1309
-Rattata: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 1304 (both normal)
-Linoone: Sand Attack [grd] / Swift [nrm]; Turns: 8.75; Damage: 1256
-Electrike: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1245 (both normal)
-Chespin: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 1237
-Meowth (Galarian): Metal Sound [stl] / Night Slash [drk]; Turns: 8.75; Damage: 1234
-Corviknight: Sand Attack [grd] / Air Cutter [fly]; Turns: 8.75; Damage: 1232
-Farfetch'd: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1224
-Skorupi*: Infestation [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1222
-Fletchling: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1202 (both normal)
-Kangaskhan: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1183 (both fighting)
-Vulpix*: Quick Attack [nrm] / Weather Ball (Fire) [fir]; Turns: 8.75; Damage: 1169
-Fomantis: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1166
-Goldeen*: Peck [fly] / Horn Attack [nrm]; Turns: 8.75; Damage: 1166
-Nidoran Male*: Peck [fly] / Body Slam [nrm]; Turns: 8.75; Damage: 1157
-Inkay: Peck [fly] / Night Slash [drk]; Turns: 8.75; Damage: 1155
-Skorupi*: Infestation [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1150
-Gligar: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1118
-Pidove: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 1115
-Swinub: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1113
-Sliggoo: Dragon Breath [drg] / Muddy Water [wtr]; Turns: 8.75; Damage: 1105
-Wingull: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 1087
-Poipole: Peck [fly] / Fell Stinger [bug]; Turns: 8.75; Damage: 1078
-Dratini: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1071
-Farfetch'd: Fury Cutter [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 1049
-Deino: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1044
-Chikorita: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 1035
-Nidoran Male*: Peck [fly] / Horn Attack [nrm]; Turns: 8.75; Damage: 996
-Hippopotas: Sand Attack [grd] / Body Slam [nrm]; Turns: 8.75; Damage: 977
-Vulpix*: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 972 (both normal)
-Pidgey: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 967
-Inkay: Psywave [psy] / Night Slash [drk]; Turns: 8.75; Damage: 958
-Noibat: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 944 (both flying)
-Nickit*: Quick Attack [nrm] / Night Slash [drk]; Turns: 8.75; Damage: 926
-Shelmet: Infestation [bug] / Body Slam [nrm]; Turns: 8.75; Damage: 890
-Vespiquen*: Fury Cutter [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 883 (both bug)
-Toxel: Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 851
-Zubat: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 851
-Zubat: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 840 (both normal)
-Shelmet: Acid [poi] / Body Slam [nrm]; Turns: 8.75; Damage: 793
+Blacephalon: Incinerate [fir] / Mind Blown [fir]; Turns: 8.75; Damage: 4653 (both fire)
+Kartana: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 3698
+Keldeo (Resolute): Low Kick [fig] / Secret Sword [fig]; Turns: 8.75; Damage: 2935 (both fighting)
+Palkia (Origin): Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2931
+Palkia (Origin): Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2931
+Palkia: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2870
+Palkia: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2870
+Zeraora: Volt Switch [elc] / Plasma Fists [elc]; Turns: 8.75; Damage: 2824 (both electric)
+Kartana: Fury Cutter [bug] / Sacred Sword [fig]; Turns: 8.75; Damage: 2810
+Terrakion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 2730 (both fighting)
+Hydreigon: Dragon Breath [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 2624
+Keldeo (Ordinary): Low Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 2620 (both fighting)
+Gengar*: Shadow Claw [gho] / Shadow Punch [gho]; Turns: 8.75; Damage: 2620 (both ghost)
+Sceptile*: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2553
+Kartana: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 2487
+Salamence: Dragon Tail [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 2458
+Victreebel: Acid [poi] / Leaf Blade [grs]; Turns: 8.75; Damage: 2453
+Sirfetch'd: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2405
+Tyranitar: Dragon Breath [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 2403
+Haxorus: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 2378
+Drampa: Dragon Breath [drg] / Swift [nrm]; Turns: 8.75; Damage: 2367
+Leafeon*: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 2316
+Leavanny: Shadow Claw [gho] / Leaf Blade [grs]; Turns: 8.75; Damage: 2291
+Lurantis: Leafage [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 2276 (both grass)
+Gallade*: Low Kick [fig] / Leaf Blade [grs]; Turns: 8.75; Damage: 2274
+Gyarados: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2269
+Gyarados: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 2269
+Virizion: Double Kick [fig] / Leaf Blade [grs]; Turns: 8.75; Damage: 2256
+Haunter: Shadow Claw [gho] / Shadow Punch [gho]; Turns: 8.75; Damage: 2238 (both ghost)
+Gogoat: Vine Whip [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 2212 (both grass)
+Ursaring: Shadow Claw [gho] / Swift [nrm]; Turns: 8.75; Damage: 2209
+Meowscarada: Leafage [grs] / Night Slash [drk]; Turns: 8.75; Damage: 2198
+Lurantis: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 2198
+Mienshao: Low Kick [fig] / Brutal Swing [drk]; Turns: 8.75; Damage: 2101
+Cyclizar: Dragon Tail [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 2101
+Virizion: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 2059
+Dhelmise: Shadow Claw [gho] / Brutal Swing [drk]; Turns: 8.75; Damage: 2029
+Cobalion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 2016 (both fighting)
+Virizion: Double Kick [fig] / Sacred Sword [fig]; Turns: 8.75; Damage: 2016 (both fighting)
+Pangoro*: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 2004
+Incineroar*: Double Kick [fig] / Brutal Swing [drk]; Turns: 8.75; Damage: 1984
+Aurorus: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1980 (both ice)
+Scizor: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1976
+Primeape*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 1961 (both fighting)
+Ampharos: Volt Switch [elc] / Brutal Swing [drk]; Turns: 8.75; Damage: 1956
+Goodra: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1952
+Annihilape: Low Kick [fig] / Rage Fist [gho]; Turns: 8.75; Damage: 1951
+Magnezone: Volt Switch [elc] / Mirror Shot [stl]; Turns: 8.75; Damage: 1948
+Guzzlord*: Dragon Tail [drg] / Brutal Swing [drk]; Turns: 8.75; Damage: 1927
+Dodrio: Peck [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1925 (both flying)
+Sirfetch'd: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1909
+Samurott (Hisuian)*: Fury Cutter [bug] / Sacred Sword [fig]; Turns: 8.75; Damage: 1896
+Abomasnow: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1894 (both ice)
+Abomasnow: Leafage [grs] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1894
+Bellossom*: Acid [poi] / Leaf Blade [grs]; Turns: 8.75; Damage: 1888
+Sawk: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1881
+Fraxure: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1881
+Armaldo: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1859
+Charizard*: Dragon Breath [drg] / Air Cutter [fly]; Turns: 8.75; Damage: 1856
+Grovyle*: Quick Attack [nrm] / Leaf Blade [grs]; Turns: 8.75; Damage: 1844
+Charizard*: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1843 (both flying)
+Eiscue (Noice): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1841 (both ice)
+Milotic: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1838
+Virizion: Quick Attack [nrm] / Sacred Sword [fig]; Turns: 8.75; Damage: 1827
+Scyther: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1825
+Cetitan: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1811
+Ninetales (Alolan): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1809 (both ice)
+Dudunsparce*: Dragon Tail [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1800
+Druddigon: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 1783
+Fraxure: Dragon Tail [drg] / Night Slash [drk]; Turns: 8.75; Damage: 1775
+Galvantula: Volt Switch [elc] / Cross Poison [poi]; Turns: 8.75; Damage: 1766
+Dhelmise: Metal Sound [stl] / Brutal Swing [drk]; Turns: 8.75; Damage: 1766
+Pelipper: Wing Attack [fly] / Weather Ball (Water) [wtr]; Turns: 8.75; Damage: 1764
+Doublade*: Shadow Claw [gho] / Sacred Sword [fig]; Turns: 8.75; Damage: 1728
+Kingdra: Dragon Breath [drg] / Swift [nrm]; Turns: 8.75; Damage: 1721
+Zangoose: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1709
+Golisopod: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1689
+Golisopod: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1689
+Farfetch'd (Galarian): Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1687
+Annihilape: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 1685
+Galvantula: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1683
+Magnezone: Metal Sound [stl] / Mirror Shot [stl]; Turns: 8.75; Damage: 1679 (both steel)
+Machoke*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 1677 (both fighting)
+Zangoose: Shadow Claw [gho] / Night Slash [drk]; Turns: 8.75; Damage: 1675
+Lunatone: Psywave [psy] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1668
+Solrock: Psywave [psy] / Weather Ball (Fire) [fir]; Turns: 8.75; Damage: 1668
+Hippowdon: Sand Attack [grd] / Weather Ball (Rock) [rck]; Turns: 8.75; Damage: 1658
+Meowscarada: Leafage [grs] / Flower Trick [grs]; Turns: 8.75; Damage: 1634 (both grass)
+Barbaracle: Fury Cutter [bug] / Cross Chop [fig]; Turns: 8.75; Damage: 1590
+Doduo: Peck [fly] / Swift [nrm]; Turns: 8.75; Damage: 1586
+Primeape*: Low Kick [fig] / Night Slash [drk]; Turns: 8.75; Damage: 1585
+Primeape*: Low Kick [fig] / Rage Fist [gho]; Turns: 8.75; Damage: 1585
+Eiscue: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1575 (both ice)
+Eiscue (Ice): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1575 (both ice)
+Turtonator*: Incinerate [fir] / Brutal Swing [drk]; Turns: 8.75; Damage: 1575
+Dragalge: Dragon Tail [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1570
+Rapidash (Galarian)*: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1569
+Hippowdon: Sand Attack [grd] / Body Slam [nrm]; Turns: 8.75; Damage: 1557
+Farigiraf: Double Kick [fig] / Psychic Fangs [psy]; Turns: 8.75; Damage: 1546
+Samurott (Hisuian)*: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1542
+Dragalge: Acid [poi] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1541
+Dewott: Fury Cutter [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1522
+Golisopod: Shadow Claw [gho] / Razor Shell [wtr]; Turns: 8.75; Damage: 1513
+Golisopod: Shadow Claw [gho] / Razor Shell [wtr]; Turns: 8.75; Damage: 1513
+Goodra: Dragon Breath [drg] / Muddy Water [wtr]; Turns: 8.75; Damage: 1512
+Masquerain: Infestation [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 1512
+Samurott: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1499
+Doduo: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1497 (both normal)
+Beautifly: Infestation [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 1488
+Castform (Snowy): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1479 (both ice)
+Dubwool: Double Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1474
+Dragonair: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1446
+Dragonair: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1446
+Thievul*: Quick Attack [nrm] / Night Slash [drk]; Turns: 8.75; Damage: 1428
+Gliscor: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1424
+Runerigus: Shadow Claw [gho] / Brutal Swing [drk]; Turns: 8.75; Damage: 1419
+Gliscor: Wing Attack [fly] / Night Slash [drk]; Turns: 8.75; Damage: 1417
+Sliggoo: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1411
+Zweilous: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1411
+Klinklang*: Metal Sound [stl] / Mirror Shot [stl]; Turns: 8.75; Damage: 1404 (both steel)
+Furret: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1402 (both normal)
+Throh: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1400
+Bronzong: Metal Sound [stl] / Weather Ball (Water) [wtr]; Turns: 8.75; Damage: 1389
+Parasect: Fury Cutter [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1381
+Pawniard: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1378
+Barbaracle: Fury Cutter [bug] / Razor Shell [wtr]; Turns: 8.75; Damage: 1372
+Pidgeot: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1372 (both flying)
+Ariados*: Infestation [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 1368
+Girafarig: Double Kick [fig] / Psychic Fangs [psy]; Turns: 8.75; Damage: 1346
+Gliscor: Sand Attack [grd] / Night Slash [drk]; Turns: 8.75; Damage: 1341
+Golbat: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 1330 (both flying)
+Linoone: Shadow Claw [gho] / Swift [nrm]; Turns: 8.75; Damage: 1329
+Garbodor: Infestation [bug] / Body Slam [nrm]; Turns: 8.75; Damage: 1321
+Amaura: Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1320 (both ice)
+Sandslash*: Sand Attack [grd] / Night Slash [drk]; Turns: 8.75; Damage: 1319
+Drapion*: Infestation [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1314
+Machop*: Low Kick [fig] / Cross Chop [fig]; Turns: 8.75; Damage: 1298 (both fighting)
+Ponyta (Galarian)*: Low Kick [fig] / Swift [nrm]; Turns: 8.75; Damage: 1288
+Lairon: Metal Sound [stl] / Body Slam [nrm]; Turns: 8.75; Damage: 1286
+Plusle: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1265 (both normal)
+Buneary: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1231 (both normal)
+Linoone: Sand Attack [grd] / Swift [nrm]; Turns: 8.75; Damage: 1231
+Corviknight: Sand Attack [grd] / Air Cutter [fly]; Turns: 8.75; Damage: 1210
+Farfetch'd: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1202
+Sealeo: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1193
+Toxtricity: Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1192
+Toxtricity (Amped): Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1192
+Toxtricity (Low Key): Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1192
+Forretress: Volt Switch [elc] / Mirror Shot [stl]; Turns: 8.75; Damage: 1190
+Quilladin: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 1189
+Fomantis: Leafage [grs] / Leaf Blade [grs]; Turns: 8.75; Damage: 1185 (both grass)
+Pancham: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1181
+Goldeen*: Peck [fly] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1151
+Fomantis: Fury Cutter [bug] / Leaf Blade [grs]; Turns: 8.75; Damage: 1145
+Riolu: Quick Attack [nrm] / Cross Chop [fig]; Turns: 8.75; Damage: 1131
+Minun: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1114 (both normal)
+Quilladin: Low Kick [fig] / Body Slam [nrm]; Turns: 8.75; Damage: 1106
+Gligar: Fury Cutter [bug] / Night Slash [drk]; Turns: 8.75; Damage: 1101
+Gligar: Wing Attack [fly] / Night Slash [drk]; Turns: 8.75; Damage: 1095
+Skrelp: Acid [poi] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1094
+Sliggoo: Dragon Breath [drg] / Muddy Water [wtr]; Turns: 8.75; Damage: 1093
+Dratini: Dragon Breath [drg] / Aqua Tail [wtr]; Turns: 8.75; Damage: 1056
+Staryu: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1038 (both normal)
+Cetoddle: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 1036
+Farfetch'd: Fury Cutter [bug] / Air Cutter [fly]; Turns: 8.75; Damage: 1032
+Deino: Dragon Breath [drg] / Body Slam [nrm]; Turns: 8.75; Damage: 1029
+Sandshrew (Alolan): Powder Snow [ice] / Night Slash [drk]; Turns: 8.75; Damage: 1028
+Hawlucha: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 1022 (both fighting)
+Vulpix (Alolan): Powder Snow [ice] / Weather Ball (Ice) [ice]; Turns: 8.75; Damage: 1021 (both ice)
+Buizel: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 1000 (both normal)
+Steelix: Dragon Tail [drg] / Psychic Fangs [psy]; Turns: 8.75; Damage: 991
+Aron: Metal Sound [stl] / Body Slam [nrm]; Turns: 8.75; Damage: 985
+Eevee: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 985 (both normal)
+Eevee: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 985 (both normal)
+Rattata: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 976 (both normal)
+Pidgeotto: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 967 (both flying)
+Hippopotas: Sand Attack [grd] / Body Slam [nrm]; Turns: 8.75; Damage: 961
+Fletchling: Peck [fly] / Swift [nrm]; Turns: 8.75; Damage: 953
+Grimmsnarl: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 951 (both fighting)
+Inkay: Psywave [psy] / Night Slash [drk]; Turns: 8.75; Damage: 943
+Electrike: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 932 (both normal)
+Vulpix*: Quick Attack [nrm] / Weather Ball (Fire) [fir]; Turns: 8.75; Damage: 913
+Fletchling: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 900 (both normal)
+Chespin: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 895
+Meowth (Galarian): Metal Sound [stl] / Night Slash [drk]; Turns: 8.75; Damage: 881
+Vespiquen*: Fury Cutter [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 875 (both bug)
+Inkay: Peck [fly] / Night Slash [drk]; Turns: 8.75; Damage: 858
+Nidoran Male*: Peck [fly] / Body Slam [nrm]; Turns: 8.75; Damage: 843
+Wingull: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 816
+Pidove: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 810
+Goldeen*: Peck [fly] / Horn Attack [nrm]; Turns: 8.75; Damage: 809
+Beedrill*: Infestation [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 802 (both bug)
+Skorupi*: Infestation [bug] / Cross Poison [poi]; Turns: 8.75; Damage: 790
+Swinub: Powder Snow [ice] / Body Slam [nrm]; Turns: 8.75; Damage: 783
+Kangaskhan: Low Kick [fig] / Power-Up Punch [fig]; Turns: 8.75; Damage: 759 (both fighting)
+Chikorita: Vine Whip [grs] / Body Slam [nrm]; Turns: 8.75; Damage: 749
+Vulpix*: Quick Attack [nrm] / Body Slam [nrm]; Turns: 8.75; Damage: 727 (both normal)
+Skorupi*: Infestation [bug] / Aqua Tail [wtr]; Turns: 8.75; Damage: 720
+Nickit*: Quick Attack [nrm] / Night Slash [drk]; Turns: 8.75; Damage: 706
+Pidgey: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 702
+Nidoran Male*: Peck [fly] / Horn Attack [nrm]; Turns: 8.75; Damage: 690
+Noibat: Wing Attack [fly] / Air Cutter [fly]; Turns: 8.75; Damage: 686 (both flying)
+Drapion*: Infestation [bug] / Fell Stinger [bug]; Turns: 8.75; Damage: 684 (both bug)
+Poipole: Peck [fly] / Fell Stinger [bug]; Turns: 8.75; Damage: 673
+Zubat: Quick Attack [nrm] / Air Cutter [fly]; Turns: 8.75; Damage: 639
+Zubat: Quick Attack [nrm] / Swift [nrm]; Turns: 8.75; Damage: 629 (both normal)
+Shelmet: Acid [poi] / Body Slam [nrm]; Turns: 8.75; Damage: 578
+Shelmet: Infestation [bug] / Body Slam [nrm]; Turns: 8.75; Damage: 558
+Toxel: Acid [poi] / Power-Up Punch [fig]; Turns: 8.75; Damage: 516
 
 TURNS: 8.89
 
-Xurkitree: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 3777 (both electric)
-Blaziken: Ember [fir] / Aura Sphere [fig]; Turns: 8.89; Damage: 3505
-Landorus (Therian): Mud Shot [grd] / Superpower [fig]; Turns: 8.89; Damage: 3458
-Zapdos: Thunder Shock [elc] / Drill Peck [fly]; Turns: 8.89; Damage: 3375
-Flareon: Ember [fir] / Superpower [fig]; Turns: 8.89; Damage: 3220
-Thundurus (Incarnate): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 3212 (both electric)
-Garchomp: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 3189
-Hatterene: Psycho Cut [psy] / Psyshock [psy]; Turns: 8.89; Damage: 3162 (both psychic)
-Armarouge: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 3122
-Excadrill: Mud Shot [grd] / Drill Run [grd]; Turns: 8.89; Damage: 3115 (both ground)
-Raikou: Thunder Shock [elc] / Aura Sphere [fig]; Turns: 8.89; Damage: 3032
-Regieleki*: Thunder Shock [elc] / Thunder Cage [elc]; Turns: 8.89; Damage: 3019 (both electric)
-Electivire: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 3007 (both electric)
-Magmortar: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 2983
-Decidueye (Hisuian): Psycho Cut [psy] / Aura Sphere [fig]; Turns: 8.89; Damage: 2919
-Blaziken: Ember [fir] / Blaze Kick [fir]; Turns: 8.89; Damage: 2898 (both fire)
-Typhlosion (Hisuian): Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 2874 (both fire)
-Alakazam: Psycho Cut [psy] / Fire Punch [fir]; Turns: 8.89; Damage: 2862
-Swampert*: Mud Shot [grd] / Hydro Cannon [wtr]; Turns: 8.89; Damage: 2804
-Pawmot: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2802 (both electric)
-Melmetal*: Thunder Shock [elc] / Superpower [fig]; Turns: 8.89; Damage: 2755
-Raichu (Alolan): Thunder Shock [elc] / Psyshock [psy]; Turns: 8.89; Damage: 2681
-Jolteon: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2655 (both electric)
-Pawmot: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2655 (both electric)
-Electivire: Thunder Shock [elc] / Ice Punch [ice]; Turns: 8.89; Damage: 2629
-Scolipede*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 2580
-Magneton: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2552 (both electric)
-Groudon: Mud Shot [grd] / Fire Punch [fir]; Turns: 8.89; Damage: 2548
-Thundurus (Incarnate): Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 2540
-Kabutops: Mud Shot [grd] / Aqua Jet [wtr]; Turns: 8.89; Damage: 2539
-Pawmot: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 2508
-Flygon: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 2504
-Magmar: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 2488 (both fire)
-Magmar: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 2488
-Raichu (Alolan): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2427 (both electric)
-Primeape*: Karate Chop [fig] / Ice Punch [ice]; Turns: 8.89; Damage: 2418
-Rapidash: Ember [fir] / Drill Run [grd]; Turns: 8.89; Damage: 2395
-Electabuzz: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2391 (both electric)
-Magmortar: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 2358 (both fighting)
-Typhlosion: Ember [fir] / Thunder Punch [elc]; Turns: 8.89; Damage: 2355
-Sylveon: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 2349
-Kingler*: Mud Shot [grd] / Vise Grip [nrm]; Turns: 8.89; Damage: 2346
-Raichu: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2331 (both electric)
-Weezing (Galarian)*: Fairy Wind [fai] / Sludge [poi]; Turns: 8.89; Damage: 2321
-Malamar: Psycho Cut [psy] / Superpower [fig]; Turns: 8.89; Damage: 2316
-Malamar: Psycho Cut [psy] / Foul Play [drk]; Turns: 8.89; Damage: 2249
-Dracozolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2232 (both electric)
-Kingler*: Mud Shot [grd] / X-Scissor [bug]; Turns: 8.89; Damage: 2224
-Primeape*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 2209 (both fighting)
-Garchomp: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 2199 (both ground)
-Arctozolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2174 (both electric)
-Swampert*: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 2173
-Beedrill*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 2148
-Shelgon: Ember [fir] / Twister [drg]; Turns: 8.89; Damage: 2140
-Machoke*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 2113 (both fighting)
-Bellibolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2106 (both electric)
-Gabite: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 2101
-Orbeetle: Psycho Cut [psy] / Psyshock [psy]; Turns: 8.89; Damage: 2081 (both psychic)
-Golem: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 2044
-Toxicroak: Poison Sting [poi] / Drain Punch [fig]; Turns: 8.89; Damage: 2015
-Pincurchin: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2014 (both electric)
-Aromatisse: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 2002
-Braixen: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1978
-Beedrill*: Poison Sting [poi] / Drill Run [grd]; Turns: 8.89; Damage: 1955
-Ninetales*: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1955
-Nidoking: Poison Sting [poi] / Sand Tomb [grd]; Turns: 8.89; Damage: 1948
-Morpeko (Full Belly)*: Thunder Shock [elc] / Seed Bomb [grs]; Turns: 8.89; Damage: 1930
-Morpeko (Hangry)*: Thunder Shock [elc] / Seed Bomb [grs]; Turns: 8.89; Damage: 1930
-Charmeleon: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 1908 (both fire)
-Magnemite: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1888 (both electric)
-Bouffalant: Mud Shot [grd] / Stomp [nrm]; Turns: 8.89; Damage: 1881
-Dedenne: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1877 (both electric)
-Whimsicott: Fairy Wind [fai] / Seed Bomb [grs]; Turns: 8.89; Damage: 1877
-Omastar: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1866
-Raichu: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 1843
-Nidoqueen: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 1832 (both poison)
-Magby: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 1823 (both fire)
-Magby: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 1823
-Emolga: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1808 (both electric)
-Mawile*: Fairy Wind [fai] / Vise Grip [nrm]; Turns: 8.89; Damage: 1793
-Pikachu (Horizons): Thunder Shock [elc] / Volt Tackle [elc]; Turns: 8.89; Damage: 1777 (both electric)
-Pawmo: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1775 (both electric)
-Krabby*: Mud Shot [grd] / Vise Grip [nrm]; Turns: 8.89; Damage: 1769
-Mankey*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1766 (both fighting)
-Vespiquen*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 1759
-Flygon: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1727 (both ground)
-Toedscruel: Mud Shot [grd] / Seed Bomb [grs]; Turns: 8.89; Damage: 1713
-Ponyta: Ember [fir] / Stomp [nrm]; Turns: 8.89; Damage: 1709
-Kabuto: Mud Shot [grd] / Aqua Jet [wtr]; Turns: 8.89; Damage: 1708
-Pawmo: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1682 (both electric)
-Bagon: Ember [fir] / Twister [drg]; Turns: 8.89; Damage: 1667
-Stunfisk*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1648 (both electric)
-Cacnea: Poison Sting [poi] / Seed Bomb [grs]; Turns: 8.89; Damage: 1645
-Machop*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1635 (both fighting)
-Toxicroak: Mud Shot [grd] / Drain Punch [fig]; Turns: 8.89; Damage: 1635
-Elekid: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1630 (both electric)
-Marshtomp: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 1630
-Swalot: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 1616
-Togetic: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 1608
-Klang: Thunder Shock [elc] / Vise Grip [nrm]; Turns: 8.89; Damage: 1601
-Poliwrath*: Mud Shot [grd] / Ice Punch [ice]; Turns: 8.89; Damage: 1595
-Graveler: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1589
-Mankey*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 1579 (both fighting)
-Elekid: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1545 (both electric)
-Garganacl: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1541
-Pikachu (Libre): Thunder Shock [elc] / Flying Press [fig]; Turns: 8.89; Damage: 1522
-Gible*: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 1515
-Monferno: Ember [fir] / Low Sweep [fig]; Turns: 8.89; Damage: 1508
-Palossand: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1500 (both ground)
-Stunfisk*: Mud Shot [grd] / Discharge [elc]; Turns: 8.89; Damage: 1486
-Machop*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 1462 (both fighting)
-Magby: Ember [fir] / Brick Break [fig]; Turns: 8.89; Damage: 1442
-Magby: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1442 (both fighting)
-Omanyte: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1397
-Salandit: Ember [fir] / Poison Fang [poi]; Turns: 8.89; Damage: 1384
-Trapinch: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1365 (both ground)
-Pikachu (Libre): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1352 (both electric)
-Pikachu (Pop Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1352 (both electric)
-Pikachu (Rock Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1352 (both electric)
-Cacnea: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 1349
-Fennekin: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1342
-Mareep*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1304 (both electric)
-Elekid: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 1289
-Pikachu: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Pikachu (5th Anniversary): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Pikachu (Flying): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Pikachu (Horizons): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Pikachu (Kariyushi): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Pikachu (Shaymin Scarf): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1282 (both electric)
-Medicham*: Psycho Cut [psy] / Ice Punch [ice]; Turns: 8.89; Damage: 1277
-Croagunk: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 1254
-Pincurchin: Thunder Shock [elc] / Bubble Beam [wtr]; Turns: 8.89; Damage: 1235
-Numel: Ember [fir] / Stomp [nrm]; Turns: 8.89; Damage: 1196
-Nidorina: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 1191 (both poison)
-Tadbulb: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1190 (both electric)
-Vibrava: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1129 (both ground)
-Quagsire*: Mud Shot [grd] / Drain Punch [fig]; Turns: 8.89; Damage: 1127
-Ekans: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 1120 (both poison)
-Croagunk: Poison Sting [poi] / Low Sweep [fig]; Turns: 8.89; Damage: 1107
-Pawmi: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1087 (both electric)
-Sandshrew: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1061 (both ground)
-Krabby*: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 1060
-Diggersby: Mud Shot [grd] / Fire Punch [fir]; Turns: 8.89; Damage: 1057
-Croagunk: Mud Shot [grd] / Brick Break [fig]; Turns: 8.89; Damage: 1045
-Sandygast: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1011 (both ground)
-Toedscool: Mud Shot [grd] / Seed Bomb [grs]; Turns: 8.89; Damage: 1001
-Remoraid: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 984
-Naclstack: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 946
-Pichu: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 930 (both electric)
-Omanyte: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 907
-Croagunk: Mud Shot [grd] / Low Sweep [fig]; Turns: 8.89; Damage: 899
-Nidoran Female*: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 875 (both poison)
-Nacli: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 856
-Poliwhirl: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 761
-Tentacool: Poison Sting [poi] / Bubble Beam [wtr]; Turns: 8.89; Damage: 742
-Poliwag*: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 591
+Xurkitree: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2940 (both electric)
+Landorus (Therian): Mud Shot [grd] / Superpower [fig]; Turns: 8.89; Damage: 2866
+Blaziken: Ember [fir] / Aura Sphere [fig]; Turns: 8.89; Damage: 2864
+Zapdos: Thunder Shock [elc] / Drill Peck [fly]; Turns: 8.89; Damage: 2713
+Garchomp: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 2652
+Excadrill: Mud Shot [grd] / Drill Run [grd]; Turns: 8.89; Damage: 2591 (both ground)
+Flareon: Ember [fir] / Superpower [fig]; Turns: 8.89; Damage: 2579
+Hatterene: Psycho Cut [psy] / Psyshock [psy]; Turns: 8.89; Damage: 2542 (both psychic)
+Thundurus (Incarnate): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2531 (both electric)
+Armarouge: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 2509
+Decidueye (Hisuian): Psycho Cut [psy] / Aura Sphere [fig]; Turns: 8.89; Damage: 2446
+Raikou: Thunder Shock [elc] / Aura Sphere [fig]; Turns: 8.89; Damage: 2410
+Regieleki*: Thunder Shock [elc] / Thunder Cage [elc]; Turns: 8.89; Damage: 2379 (both electric)
+Electivire: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2369 (both electric)
+Swampert*: Mud Shot [grd] / Hydro Cannon [wtr]; Turns: 8.89; Damage: 2365
+Magmortar: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 2350
+Blaziken: Ember [fir] / Blaze Kick [fir]; Turns: 8.89; Damage: 2283 (both fire)
+Melmetal*: Thunder Shock [elc] / Superpower [fig]; Turns: 8.89; Damage: 2267
+Typhlosion (Hisuian): Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 2264 (both fire)
+Pawmot: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 2207 (both electric)
+Alakazam: Psycho Cut [psy] / Fire Punch [fir]; Turns: 8.89; Damage: 2185
+Kabutops: Mud Shot [grd] / Aqua Jet [wtr]; Turns: 8.89; Damage: 2160
+Raichu (Alolan): Thunder Shock [elc] / Psyshock [psy]; Turns: 8.89; Damage: 2155
+Flygon: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 2083
+Jolteon: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2067 (both electric)
+Pawmot: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 2067 (both electric)
+Scolipede*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 2054
+Groudon: Mud Shot [grd] / Fire Punch [fir]; Turns: 8.89; Damage: 2025
+Electivire: Thunder Shock [elc] / Ice Punch [ice]; Turns: 8.89; Damage: 2008
+Magneton: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1987 (both electric)
+Magmar: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 1960 (both fire)
+Magmar: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 1960
+Kingler*: Mud Shot [grd] / Vise Grip [nrm]; Turns: 8.89; Damage: 1950
+Pawmot: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 1927
+Raichu (Alolan): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1912 (both electric)
+Thundurus (Incarnate): Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 1887
+Electabuzz: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1884 (both electric)
+Rapidash: Ember [fir] / Drill Run [grd]; Turns: 8.89; Damage: 1869
+Weezing (Galarian)*: Fairy Wind [fai] / Sludge [poi]; Turns: 8.89; Damage: 1866
+Malamar: Psycho Cut [psy] / Superpower [fig]; Turns: 8.89; Damage: 1855
+Raichu: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1836 (both electric)
+Kingler*: Mud Shot [grd] / X-Scissor [bug]; Turns: 8.89; Damage: 1834
+Sylveon: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 1833
+Typhlosion: Ember [fir] / Thunder Punch [elc]; Turns: 8.89; Damage: 1798
+Malamar: Psycho Cut [psy] / Foul Play [drk]; Turns: 8.89; Damage: 1791
+Primeape*: Karate Chop [fig] / Ice Punch [ice]; Turns: 8.89; Damage: 1786
+Shelgon: Ember [fir] / Twister [drg]; Turns: 8.89; Damage: 1767
+Swampert*: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 1761
+Magmortar: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1752 (both fighting)
+Gabite: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 1747
+Dracozolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1737 (both electric)
+Beedrill*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 1710
+Garchomp: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1704 (both ground)
+Arctozolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1693 (both electric)
+Orbeetle: Psycho Cut [psy] / Psyshock [psy]; Turns: 8.89; Damage: 1673 (both psychic)
+Bellibolt: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1639 (both electric)
+Golem: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1633
+Primeape*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 1585 (both fighting)
+Machoke*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1570 (both fighting)
+Pincurchin: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1568 (both electric)
+Aromatisse: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 1562
+Bouffalant: Mud Shot [grd] / Stomp [nrm]; Turns: 8.89; Damage: 1561
+Braixen: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1544
+Omastar: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1532
+Beedrill*: Poison Sting [poi] / Drill Run [grd]; Turns: 8.89; Damage: 1526
+Ninetales*: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1526
+Charmeleon: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 1503 (both fire)
+Toxicroak: Poison Sting [poi] / Drain Punch [fig]; Turns: 8.89; Damage: 1497
+Pikachu (Horizons): Thunder Shock [elc] / Volt Tackle [elc]; Turns: 8.89; Damage: 1472 (both electric)
+Krabby*: Mud Shot [grd] / Vise Grip [nrm]; Turns: 8.89; Damage: 1471
+Magnemite: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1470 (both electric)
+Dedenne: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1461 (both electric)
+Whimsicott: Fairy Wind [fai] / Seed Bomb [grs]; Turns: 8.89; Damage: 1461
+Morpeko (Full Belly)*: Thunder Shock [elc] / Seed Bomb [grs]; Turns: 8.89; Damage: 1455
+Morpeko (Hangry)*: Thunder Shock [elc] / Seed Bomb [grs]; Turns: 8.89; Damage: 1455
+Kabuto: Mud Shot [grd] / Aqua Jet [wtr]; Turns: 8.89; Damage: 1453
+Nidoking: Poison Sting [poi] / Sand Tomb [grd]; Turns: 8.89; Damage: 1447
+Vespiquen*: Poison Sting [poi] / X-Scissor [bug]; Turns: 8.89; Damage: 1440
+Magby: Ember [fir] / Fire Punch [fir]; Turns: 8.89; Damage: 1436 (both fire)
+Magby: Karate Chop [fig] / Fire Punch [fir]; Turns: 8.89; Damage: 1436
+Emolga: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1407 (both electric)
+Mawile*: Fairy Wind [fai] / Vise Grip [nrm]; Turns: 8.89; Damage: 1400
+Pawmo: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1398 (both electric)
+Nidoqueen: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 1386 (both poison)
+Toedscruel: Mud Shot [grd] / Seed Bomb [grs]; Turns: 8.89; Damage: 1385
+Bagon: Ember [fir] / Twister [drg]; Turns: 8.89; Damage: 1376
+Swalot: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 1375
+Raichu: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 1369
+Flygon: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1339 (both ground)
+Marshtomp: Mud Shot [grd] / Sludge [poi]; Turns: 8.89; Damage: 1320
+Cacnea: Poison Sting [poi] / Seed Bomb [grs]; Turns: 8.89; Damage: 1319
+Mankey*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1312 (both fighting)
+Pawmo: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1309 (both electric)
+Toxicroak: Mud Shot [grd] / Drain Punch [fig]; Turns: 8.89; Damage: 1306
+Poliwrath*: Mud Shot [grd] / Ice Punch [ice]; Turns: 8.89; Damage: 1303
+Ponyta: Ember [fir] / Stomp [nrm]; Turns: 8.89; Damage: 1288
+Klang: Thunder Shock [elc] / Vise Grip [nrm]; Turns: 8.89; Damage: 1287
+Elekid: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1284 (both electric)
+Stunfisk*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1283 (both electric)
+Graveler: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1269
+Garganacl: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1265
+Gible*: Mud Shot [grd] / Twister [drg]; Turns: 8.89; Damage: 1260
+Togetic: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 1255
+Pikachu (Libre): Thunder Shock [elc] / Flying Press [fig]; Turns: 8.89; Damage: 1228
+Machop*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1215 (both fighting)
+Elekid: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1203 (both electric)
+Stunfisk*: Mud Shot [grd] / Discharge [elc]; Turns: 8.89; Damage: 1201
+Palossand: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1162 (both ground)
+Omanyte: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 1147
+Mankey*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 1133 (both fighting)
+Monferno: Ember [fir] / Low Sweep [fig]; Turns: 8.89; Damage: 1121
+Magby: Ember [fir] / Brick Break [fig]; Turns: 8.89; Damage: 1071
+Magby: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 1071 (both fighting)
+Pikachu (Libre): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1065 (both electric)
+Pikachu (Pop Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1065 (both electric)
+Pikachu (Rock Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 1065 (both electric)
+Trapinch: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 1058 (both ground)
+Machop*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 1049 (both fighting)
+Fennekin: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 1047
+Salandit: Ember [fir] / Poison Fang [poi]; Turns: 8.89; Damage: 1047
+Cacnea: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 1036
+Mareep*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 1015 (both electric)
+Pikachu: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Pikachu (5th Anniversary): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Pikachu (Flying): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Pikachu (Horizons): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Pikachu (Kariyushi): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Pikachu (Shaymin Scarf): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 998 (both electric)
+Medicham*: Psycho Cut [psy] / Ice Punch [ice]; Turns: 8.89; Damage: 975
+Croagunk: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 963
+Elekid: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 958
+Tadbulb: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 926 (both electric)
+Numel: Ember [fir] / Stomp [nrm]; Turns: 8.89; Damage: 902
+Nidorina: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 901 (both poison)
+Vibrava: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 875 (both ground)
+Croagunk: Mud Shot [grd] / Brick Break [fig]; Turns: 8.89; Damage: 858
+Ekans: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 847 (both poison)
+Pawmi: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 846 (both electric)
+Quagsire*: Mud Shot [grd] / Drain Punch [fig]; Turns: 8.89; Damage: 845
+Diggersby: Mud Shot [grd] / Fire Punch [fir]; Turns: 8.89; Damage: 840
+Croagunk: Poison Sting [poi] / Low Sweep [fig]; Turns: 8.89; Damage: 823
+Pincurchin: Thunder Shock [elc] / Bubble Beam [wtr]; Turns: 8.89; Damage: 823
+Sandshrew: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 823 (both ground)
+Toedscool: Mud Shot [grd] / Seed Bomb [grs]; Turns: 8.89; Damage: 809
+Krabby*: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 792
+Remoraid: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 786
+Sandygast: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 783 (both ground)
+Naclstack: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 777
+Pichu: Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 732 (both electric)
+Croagunk: Mud Shot [grd] / Low Sweep [fig]; Turns: 8.89; Damage: 718
+Nacli: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 703
+Omanyte: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 678
+Nidoran Female*: Poison Sting [poi] / Poison Fang [poi]; Turns: 8.89; Damage: 662 (both poison)
+Poliwhirl: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 569
+Tentacool: Poison Sting [poi] / Bubble Beam [wtr]; Turns: 8.89; Damage: 512
+Poliwag*: Mud Shot [grd] / Bubble Beam [wtr]; Turns: 8.89; Damage: 442
 
 TURNS: 9.0
 
@@ -512,766 +512,766 @@ Octillery: Lock On [nrm] / Acid Spray [poi]; Turns: 9.0; Damage: 571
 
 TURNS: 9.23
 
-Typhlosion (Hisuian)*: Hex [gho] / Fire Punch [fir]; Turns: 9.23; Damage: 3623
-Zoroark: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 3395 (both dark)
-Weavile: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 3300 (both dark)
-Kingambit: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 3232 (both dark)
-Gengar*: Hex [gho] / Drain Punch [fig]; Turns: 9.23; Damage: 3080
-Houndoom: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 3042 (both dark)
-Breloom: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2978 (both grass)
-Golem (Alolan): Rollout [rck] / Rock Blast [rck]; Turns: 9.23; Damage: 2954 (both rock)
-Lilligant (Hisuian): Bullet Seed [grs] / Upper Hand [fig]; Turns: 9.23; Damage: 2951
-Toucannon: Bullet Seed [grs] / Drill Peck [fly]; Turns: 9.23; Damage: 2900
-Exeggutor: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2879 (both grass)
-Kingambit: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 2854
-Exeggutor (Alolan): Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2842 (both grass)
-Zoroark (Hisuian): Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2835 (both dark)
-Slowking (Galarian): Hex [gho] / Psyshock [psy]; Turns: 9.23; Damage: 2825
-Hydrapple: Rollout [rck] / Seed Bomb [grs]; Turns: 9.23; Damage: 2815
-Crawdaunt*: Snarl [drk] / Vise Grip [nrm]; Turns: 9.23; Damage: 2795
-Bisharp: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 2782
-Incineroar*: Snarl [drk] / Blaze Kick [fir]; Turns: 9.23; Damage: 2775
-Blastoise: Rollout [rck] / Hydro Cannon [wtr]; Turns: 9.23; Damage: 2751
-Mew: Snarl [drk] / Psyshock [psy]; Turns: 9.23; Damage: 2743
-Shiftry*: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2716 (both dark)
-Shiftry*: Bullet Seed [grs] / Foul Play [drk]; Turns: 9.23; Damage: 2716
-Hydrapple: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2669 (both grass)
-Gourgeist (Super): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 2659
-Flapple: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2644 (both grass)
-Gourgeist (Large): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 2616
-Samurott (Hisuian)*: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 2614
-Gourgeist (Super): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 2593
-Gourgeist (Average): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 2557
-Gourgeist (Large): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 2550
-Gourgeist (Small): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 2499
-Gourgeist (Average): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 2493
-Dudunsparce*: Rollout [rck] / Drill Run [grd]; Turns: 9.23; Damage: 2473
-Gourgeist (Small): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 2436
-Carvanha: Snarl [drk] / Aqua Jet [wtr]; Turns: 9.23; Damage: 2426
-Krookodile: Snarl [drk] / Brick Break [fig]; Turns: 9.23; Damage: 2410
-Krookodile: Snarl [drk] / Sand Tomb [grd]; Turns: 9.23; Damage: 2410
-Scrafty*: Snarl [drk] / Upper Hand [fig]; Turns: 9.23; Damage: 2313
-Dipplin: Rollout [rck] / Seed Bomb [grs]; Turns: 9.23; Damage: 2255
-Shiftry*: Snarl [drk] / Leaf Tornado [grs]; Turns: 9.23; Damage: 2227
-Shiftry*: Bullet Seed [grs] / Leaf Tornado [grs]; Turns: 9.23; Damage: 2227 (both grass)
-Scrafty*: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2213 (both dark)
-Appletun: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2199 (both grass)
-Dipplin: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2138 (both grass)
-Weepinbell: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 2125 (both grass)
-Toucannon: Bullet Seed [grs] / Rock Blast [rck]; Turns: 9.23; Damage: 2086
-Miltank*: Rollout [rck] / Stomp [nrm]; Turns: 9.23; Damage: 2046
-Incineroar*: Snarl [drk] / Drain Punch [fig]; Turns: 9.23; Damage: 2043
-Crawdaunt*: Snarl [drk] / Bubble Beam [wtr]; Turns: 9.23; Damage: 1947
-Scrafty*: Snarl [drk] / Thunder Punch [elc]; Turns: 9.23; Damage: 1875
-Mew: Snarl [drk] / Low Sweep [fig]; Turns: 9.23; Damage: 1768
-Zorua (Hisuian): Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1760 (both dark)
-Mandibuzz: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1751 (both dark)
-Jellicent: Hex [gho] / Bubble Beam [wtr]; Turns: 9.23; Damage: 1740
-Dunsparce: Rollout [rck] / Drill Run [grd]; Turns: 9.23; Damage: 1723
-Carvanha: Snarl [drk] / Poison Fang [poi]; Turns: 9.23; Damage: 1716
-Umbreon: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1711 (both dark)
-Dusclops*: Hex [gho] / Fire Punch [fir]; Turns: 9.23; Damage: 1706
-Dusclops*: Hex [gho] / Ice Punch [ice]; Turns: 9.23; Damage: 1706
-Mantine: Bullet Seed [grs] / Twister [drg]; Turns: 9.23; Damage: 1680
-Suicune: Snarl [drk] / Bubble Beam [wtr]; Turns: 9.23; Damage: 1361
-Cherubi: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1334 (both grass)
-Exeggcute: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1322 (both grass)
-Mantine: Bullet Seed [grs] / Bubble Beam [wtr]; Turns: 9.23; Damage: 1119
-Poochyena: Snarl [drk] / Poison Fang [poi]; Turns: 9.23; Damage: 963
-Shroomish: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 914 (both grass)
-Seedot: Bullet Seed [grs] / Foul Play [drk]; Turns: 9.23; Damage: 851
-Hoppip: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 828 (both grass)
+Zoroark: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2320 (both dark)
+Weavile: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2255 (both dark)
+Typhlosion (Hisuian)*: Hex [gho] / Fire Punch [fir]; Turns: 9.23; Damage: 2253
+Kingambit: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2208 (both dark)
+Toucannon: Bullet Seed [grs] / Drill Peck [fly]; Turns: 9.23; Damage: 2102
+Houndoom: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 2078 (both dark)
+Lilligant (Hisuian): Bullet Seed [grs] / Upper Hand [fig]; Turns: 9.23; Damage: 2048
+Mew: Snarl [drk] / Psyshock [psy]; Turns: 9.23; Damage: 1988
+Breloom: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1962 (both grass)
+Zoroark (Hisuian): Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1937 (both dark)
+Blastoise: Rollout [rck] / Hydro Cannon [wtr]; Turns: 9.23; Damage: 1917
+Slowking (Galarian): Hex [gho] / Psyshock [psy]; Turns: 9.23; Damage: 1914
+Exeggutor: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1897 (both grass)
+Exeggutor (Alolan): Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1873 (both grass)
+Incineroar*: Snarl [drk] / Blaze Kick [fir]; Turns: 9.23; Damage: 1864
+Kingambit: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 1857
+Shiftry*: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1856 (both dark)
+Shiftry*: Bullet Seed [grs] / Foul Play [drk]; Turns: 9.23; Damage: 1856
+Crawdaunt*: Snarl [drk] / Vise Grip [nrm]; Turns: 9.23; Damage: 1849
+Bisharp: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 1810
+Hydrapple: Rollout [rck] / Seed Bomb [grs]; Turns: 9.23; Damage: 1808
+Hydrapple: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1759 (both grass)
+Golem (Alolan): Rollout [rck] / Rock Blast [rck]; Turns: 9.23; Damage: 1758 (both rock)
+Flapple: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1742 (both grass)
+Samurott (Hisuian)*: Snarl [drk] / X-Scissor [bug]; Turns: 9.23; Damage: 1701
+Carvanha: Snarl [drk] / Aqua Jet [wtr]; Turns: 9.23; Damage: 1684
+Gengar*: Hex [gho] / Drain Punch [fig]; Turns: 9.23; Damage: 1641
+Gourgeist (Super): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 1620
+Scrafty*: Snarl [drk] / Upper Hand [fig]; Turns: 9.23; Damage: 1605
+Dudunsparce*: Rollout [rck] / Drill Run [grd]; Turns: 9.23; Damage: 1595
+Gourgeist (Large): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 1593
+Gourgeist (Super): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 1558
+Gourgeist (Average): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 1557
+Gourgeist (Large): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 1532
+Gourgeist (Small): Hex [gho] / Seed Bomb [grs]; Turns: 9.23; Damage: 1522
+Scrafty*: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1512 (both dark)
+Gourgeist (Average): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 1498
+Krookodile: Snarl [drk] / Brick Break [fig]; Turns: 9.23; Damage: 1474
+Krookodile: Snarl [drk] / Sand Tomb [grd]; Turns: 9.23; Damage: 1474
+Gourgeist (Small): Hex [gho] / Foul Play [drk]; Turns: 9.23; Damage: 1463
+Appletun: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1449 (both grass)
+Dipplin: Rollout [rck] / Seed Bomb [grs]; Turns: 9.23; Damage: 1448
+Dipplin: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1408 (both grass)
+Shiftry*: Snarl [drk] / Leaf Tornado [grs]; Turns: 9.23; Damage: 1401
+Shiftry*: Bullet Seed [grs] / Leaf Tornado [grs]; Turns: 9.23; Damage: 1401 (both grass)
+Weepinbell: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 1400 (both grass)
+Toucannon: Bullet Seed [grs] / Rock Blast [rck]; Turns: 9.23; Damage: 1345
+Miltank*: Rollout [rck] / Stomp [nrm]; Turns: 9.23; Damage: 1314
+Zorua (Hisuian): Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1202 (both dark)
+Scrafty*: Snarl [drk] / Thunder Punch [elc]; Turns: 9.23; Damage: 1197
+Mandibuzz: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1197 (both dark)
+Incineroar*: Snarl [drk] / Drain Punch [fig]; Turns: 9.23; Damage: 1183
+Umbreon: Snarl [drk] / Foul Play [drk]; Turns: 9.23; Damage: 1169 (both dark)
+Mantine: Bullet Seed [grs] / Twister [drg]; Turns: 9.23; Damage: 1166
+Dunsparce: Rollout [rck] / Drill Run [grd]; Turns: 9.23; Damage: 1111
+Mew: Snarl [drk] / Low Sweep [fig]; Turns: 9.23; Damage: 1081
+Crawdaunt*: Snarl [drk] / Bubble Beam [wtr]; Turns: 9.23; Damage: 1060
+Carvanha: Snarl [drk] / Poison Fang [poi]; Turns: 9.23; Damage: 1023
+Dusclops*: Hex [gho] / Fire Punch [fir]; Turns: 9.23; Damage: 1005
+Dusclops*: Hex [gho] / Ice Punch [ice]; Turns: 9.23; Damage: 1005
+Cherubi: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 879 (both grass)
+Jellicent: Hex [gho] / Bubble Beam [wtr]; Turns: 9.23; Damage: 873
+Exeggcute: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 871 (both grass)
+Suicune: Snarl [drk] / Bubble Beam [wtr]; Turns: 9.23; Damage: 784
+Mantine: Bullet Seed [grs] / Bubble Beam [wtr]; Turns: 9.23; Damage: 644
+Shroomish: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 602 (both grass)
+Poochyena: Snarl [drk] / Poison Fang [poi]; Turns: 9.23; Damage: 574
+Seedot: Bullet Seed [grs] / Foul Play [drk]; Turns: 9.23; Damage: 554
+Hoppip: Bullet Seed [grs] / Seed Bomb [grs]; Turns: 9.23; Damage: 545 (both grass)
 
 TURNS: 9.55
 
-Deoxys: Charge Beam [elc] / Psycho Boost [psy]; Turns: 9.55; Damage: 4424
-Greninja*: Bubble [wtr] / Night Slash [drk]; Turns: 9.55; Damage: 3340
-Kingler*: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 3168 (both water)
-Deoxys (Speed): Charge Beam [elc] / Psycho Boost [psy]; Turns: 9.55; Damage: 2949
-Politoed*: Bubble [wtr] / Weather Ball (Water) [wtr]; Turns: 9.55; Damage: 2812 (both water)
-Ludicolo: Bubble [wtr] / Weather Ball (Water) [wtr]; Turns: 9.55; Damage: 2796 (both water)
-Seismitoad*: Bubble [wtr] / Muddy Water [wtr]; Turns: 9.55; Damage: 2481 (both water)
-Krabby*: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 2389 (both water)
-Magnezone*: Charge Beam [elc] / Mirror Shot [stl]; Turns: 9.55; Damage: 2333
-Ampharos*: Charge Beam [elc] / Brutal Swing [drk]; Turns: 9.55; Damage: 2294
-Deoxys (Speed): Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 2240
-Crabominable: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 2220
-Poliwrath*: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 2078
-Manectric*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 2031
-Corphish: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 1861 (both water)
-Morpeko (Full Belly)*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 1814
-Morpeko (Hangry)*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 1814
-Clefable*: Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 1733
-Klinklang*: Charge Beam [elc] / Mirror Shot [stl]; Turns: 9.55; Damage: 1726
-Squirtle: Bubble [wtr] / Aqua Tail [wtr]; Turns: 9.55; Damage: 1463 (both water)
-Crabrawler: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 1441
-Poliwag*: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 1440
-Voltorb (Hisuian): Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 1185
-Joltik: Charge Beam [elc] / Cross Poison [poi]; Turns: 9.55; Damage: 1143
-Marill: Bubble [wtr] / Aqua Tail [wtr]; Turns: 9.55; Damage: 576 (both water)
-Marill: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 527
-Azurill: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 495
+Deoxys: Charge Beam [elc] / Psycho Boost [psy]; Turns: 9.55; Damage: 3267
+Deoxys (Speed): Charge Beam [elc] / Psycho Boost [psy]; Turns: 9.55; Damage: 2178
+Greninja*: Bubble [wtr] / Night Slash [drk]; Turns: 9.55; Damage: 1942
+Politoed*: Bubble [wtr] / Weather Ball (Water) [wtr]; Turns: 9.55; Damage: 1713 (both water)
+Ludicolo: Bubble [wtr] / Weather Ball (Water) [wtr]; Turns: 9.55; Damage: 1703 (both water)
+Kingler*: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 1681 (both water)
+Deoxys (Speed): Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 1498
+Ampharos*: Charge Beam [elc] / Brutal Swing [drk]; Turns: 9.55; Damage: 1454
+Magnezone*: Charge Beam [elc] / Mirror Shot [stl]; Turns: 9.55; Damage: 1397
+Seismitoad*: Bubble [wtr] / Muddy Water [wtr]; Turns: 9.55; Damage: 1317 (both water)
+Krabby*: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 1268 (both water)
+Manectric*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 1189
+Clefable*: Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 1159
+Klinklang*: Charge Beam [elc] / Mirror Shot [stl]; Turns: 9.55; Damage: 1092
+Crabominable: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 1085
+Morpeko (Full Belly)*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 1061
+Morpeko (Hangry)*: Charge Beam [elc] / Psychic Fangs [psy]; Turns: 9.55; Damage: 1061
+Corphish: Bubble [wtr] / Razor Shell [wtr]; Turns: 9.55; Damage: 988 (both water)
+Poliwrath*: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 965
+Squirtle: Bubble [wtr] / Aqua Tail [wtr]; Turns: 9.55; Damage: 872 (both water)
+Poliwag*: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 811
+Voltorb (Hisuian): Charge Beam [elc] / Swift [nrm]; Turns: 9.55; Damage: 751
+Joltik: Charge Beam [elc] / Cross Poison [poi]; Turns: 9.55; Damage: 708
+Crabrawler: Bubble [wtr] / Power-Up Punch [fig]; Turns: 9.55; Damage: 704
+Marill: Bubble [wtr] / Aqua Tail [wtr]; Turns: 9.55; Damage: 343 (both water)
+Azurill: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 312
+Marill: Bubble [wtr] / Body Slam [nrm]; Turns: 9.55; Damage: 297
 
 TURNS: 9.64
 
-Greninja*: Water Shuriken [wtr] / Surf [wtr]; Turns: 9.64; Damage: 3479 (both water)
-Accelgor: Water Shuriken [wtr] / Energy Ball [grs]; Turns: 9.64; Damage: 2849
-Greninja*: Water Shuriken [wtr] / Aerial Ace [fly]; Turns: 9.64; Damage: 2772
-Accelgor: Water Shuriken [wtr] / Acid Spray [poi]; Turns: 9.64; Damage: 1609
+Greninja*: Water Shuriken [wtr] / Surf [wtr]; Turns: 9.64; Damage: 2407 (both water)
+Accelgor: Water Shuriken [wtr] / Energy Ball [grs]; Turns: 9.64; Damage: 2000
+Greninja*: Water Shuriken [wtr] / Aerial Ace [fly]; Turns: 9.64; Damage: 1723
+Accelgor: Water Shuriken [wtr] / Acid Spray [poi]; Turns: 9.64; Damage: 800
 
 TURNS: 10.0
 
-Armarouge*: Incinerate [fir] / Psyshock [psy]; Turns: 10.0; Damage: 7179
-Salazzle: Incinerate [fir] / Poison Fang [poi]; Turns: 10.0; Damage: 6347
-Typhlosion*: Incinerate [fir] / Thunder Punch [elc]; Turns: 10.0; Damage: 6284
-Azelf: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 6259
-Rapidash*: Incinerate [fir] / Drill Run [grd]; Turns: 10.0; Damage: 6021
-Espeon: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 5931 (both psychic)
-Deoxys (Attack): Poison Jab [poi] / Psycho Boost [psy]; Turns: 10.0; Damage: 5927
-Vikavolt: Volt Switch [elc] / X-Scissor [bug]; Turns: 10.0; Damage: 5917
-Gallade*: Confusion [psy] / Leaf Blade [grs]; Turns: 10.0; Damage: 5817
-Zeraora*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 5727 (both electric)
-Regieleki*: Volt Switch [elc] / Thunder Cage [elc]; Turns: 10.0; Damage: 5681 (both electric)
-Vikavolt: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 5628 (both electric)
-Raikou*: Volt Switch [elc] / Aura Sphere [fig]; Turns: 10.0; Damage: 5586
-Zeraora*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 5584 (both electric)
-Jolteon*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 5140 (both electric)
-Bruxish: Confusion [psy] / Aqua Tail [wtr]; Turns: 10.0; Damage: 5081
-Magneton*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 4941 (both electric)
-Mesprit: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 4914
-Raichu (Alolan)*: Volt Switch [elc] / Psyshock [psy]; Turns: 10.0; Damage: 4796
-Ampharos*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 4795 (both electric)
-Farigiraf*: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 4750 (both psychic)
-Garchomp*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 4745 (both dragon)
-Bruxish: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 4727 (both psychic)
-Dragonite: Dragon Tail [drg] / Superpower [fig]; Turns: 10.0; Damage: 4722
-Raichu (Alolan)*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 4568 (both electric)
-Golem (Alolan)*: Volt Switch [elc] / Rock Blast [rck]; Turns: 10.0; Damage: 4555
-Galvantula*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 4453 (both electric)
-Gourgeist (Super)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 4446
-Mewtwo: Psycho Cut [psy] / Psystrike [psy]; Turns: 10.0; Damage: 4431 (both psychic)
-Raichu*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 4386 (both electric)
-Gourgeist (Super)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 4384
-Gourgeist (Large)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 4373
-Mew*: Volt Switch [elc] / Psyshock [psy]; Turns: 10.0; Damage: 4343
-Gourgeist (Large)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 4312
-Gourgeist (Average)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 4275
-Slowbro (Galarian): Confusion [psy] / Brutal Swing [drk]; Turns: 10.0; Damage: 4219
-Gourgeist (Average)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 4215
-Lunatone*: Confusion [psy] / Weather Ball (Ice) [ice]; Turns: 10.0; Damage: 4207
-Solrock*: Confusion [psy] / Weather Ball (Fire) [fir]; Turns: 10.0; Damage: 4207
-Gourgeist (Small)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 4177
-Girafarig*: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 4136 (both psychic)
-Dragonite: Dragon Tail [drg] / Thunder Punch [elc]; Turns: 10.0; Damage: 4124
-Gourgeist (Small)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 4119
-Kommo-o: Dragon Tail [drg] / Upper Hand [fig]; Turns: 10.0; Damage: 4036
-Machamp*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 3988 (both fighting)
-Electivire*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3961 (both electric)
-Raichu*: Volt Switch [elc] / Brick Break [fig]; Turns: 10.0; Damage: 3947
-Oranguru: Confusion [psy] / Brutal Swing [drk]; Turns: 10.0; Damage: 3894
-Flamigo: Double Kick [fig] / Upper Hand [fig]; Turns: 10.0; Damage: 3869 (both fighting)
-Pidgeot*: Gust [fly] / Air Cutter [fly]; Turns: 10.0; Damage: 3867 (both flying)
-Garchomp*: Dragon Tail [drg] / Sand Tomb [grd]; Turns: 10.0; Damage: 3855
-Pangoro*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 3852 (both fighting)
-Raikou*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3834 (both electric)
-Electrode: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 3833 (both electric)
-Enamorus (Incarnate): Fairy Wind [fai] / Fly [fly]; Turns: 10.0; Damage: 3831
-Bronzong*: Confusion [psy] / Weather Ball (Water) [wtr]; Turns: 10.0; Damage: 3805
-Exeggutor (Alolan)*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 3789
-Electrode: Volt Switch [elc] / Foul Play [drk]; Turns: 10.0; Damage: 3774
-Gallade*: Psycho Cut [psy] / Close Combat [fig]; Turns: 10.0; Damage: 3770
-Golduck: Confusion [psy] / Cross Chop [fig]; Turns: 10.0; Damage: 3733
-Flygon*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 3727 (both dragon)
-Keldeo (Resolute)*: Poison Jab [poi] / Secret Sword [fig]; Turns: 10.0; Damage: 3722
-Machamp*: Karate Chop [fig] / Dynamic Punch [fig]; Turns: 10.0; Damage: 3722 (both fighting)
-Pawmot*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3690 (both electric)
-Pawmot*: Thunder Shock [elc] / Close Combat [fig]; Turns: 10.0; Damage: 3690
-Groudon*: Dragon Tail [drg] / Fire Punch [fir]; Turns: 10.0; Damage: 3681
-Swoobat: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 3659 (both psychic)
-Magnemite*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 3656 (both electric)
-Mamoswine: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 3648 (both ice)
-Uxie: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 3616
-Tauros (Aqua): Double Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 3579
-Hydrapple*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 3559
-Keldeo (Ordinary)*: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 3545
-Keldeo (Resolute)*: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 3545
-Graveler (Alolan): Volt Switch [elc] / Rock Blast [rck]; Turns: 10.0; Damage: 3540
-Kommo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 3531
-Gengar*: Sucker Punch [drk] / Shadow Punch [gho]; Turns: 10.0; Damage: 3529
-Primeape*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 3528 (both fighting)
-Quaquaval: Low Kick [fig] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 3486
-Bewear: Low Kick [fig] / Superpower [fig]; Turns: 10.0; Damage: 3467 (both fighting)
+Deoxys (Attack): Poison Jab [poi] / Psycho Boost [psy]; Turns: 10.0; Damage: 4610
+Mewtwo: Psycho Cut [psy] / Psystrike [psy]; Turns: 10.0; Damage: 3750 (both psychic)
 Baxcalibur: Dragon Breath [drg] / Glaive Rush [drg]; Turns: 10.0; Damage: 3463 (both dragon)
-Barraskewda: Peck [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 3459
-Gyarados*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 3447 (both dragon)
-Mew*: Volt Switch [elc] / Low Sweep [fig]; Turns: 10.0; Damage: 3436
-Keldeo (Ordinary)*: Poison Jab [poi] / Sacred Sword [fig]; Turns: 10.0; Damage: 3427
-Bewear: Shadow Claw [gho] / Superpower [fig]; Turns: 10.0; Damage: 3415
-Articuno (Galarian): Psycho Cut [psy] / Fly [fly]; Turns: 10.0; Damage: 3409
-Enamorus (Therian): Fairy Wind [fai] / Fly [fly]; Turns: 10.0; Damage: 3409
-Meloetta (Aria): Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 3409
-Mew*: Dragon Tail [drg] / Psyshock [psy]; Turns: 10.0; Damage: 3388
-Charjabug: Volt Switch [elc] / X-Scissor [bug]; Turns: 10.0; Damage: 3377
-Zoroark (Hisuian)*: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 3321
-Hitmonlee: Double Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 3309 (both fighting)
-Toucannon*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 3279 (both flying)
-Hitmonlee: Double Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 3258
-Roserade*: Poison Jab [poi] / Weather Ball (Fire) [fir]; Turns: 10.0; Damage: 3258
-Marshadow: Shadow Claw [gho] / Fire Punch [fir]; Turns: 10.0; Damage: 3252
-Marshadow: Shadow Claw [gho] / Thunder Punch [elc]; Turns: 10.0; Damage: 3252
-Marshadow: Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 3252
-Typhlosion (Hisuian)*: Ember [fir] / Wild Charge [elc]; Turns: 10.0; Damage: 3245
-Victini: Quick Attack [nrm] / V-Create [fir]; Turns: 10.0; Damage: 3221
-Dodrio*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 3220 (both flying)
-Quaquaval: Wing Attack [fly] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 3218
-Quaquaval: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 3218
-Flareon*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 3214 (both fire)
-Charjabug: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 3213 (both electric)
-Dracozolt*: Dragon Tail [drg] / Discharge [elc]; Turns: 10.0; Damage: 3213
-Zoroark*: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 3210
-Raichu (Alolan)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3197 (both electric)
-Beartic: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 3177 (both ice)
-Togekiss: Peck [fly] / Aura Sphere [fig]; Turns: 10.0; Damage: 3170
-Hitmonlee: Double Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 3156
-Zeraora*: Spark [elc] / Plasma Fists [elc]; Turns: 10.0; Damage: 3150 (both electric)
-Ceruledge: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 3123 (both fire)
-Toxicroak*: Poison Sting [poi] / Dynamic Punch [fig]; Turns: 10.0; Damage: 3117
-Kingambit*: Metal Sound [stl] / Foul Play [drk]; Turns: 10.0; Damage: 3110
-Empoleon: Metal Sound [stl] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 3102
-Hawlucha*: Low Kick [fig] / Flying Press [fig]; Turns: 10.0; Damage: 3102 (both fighting)
-Flamigo: Wing Attack [fly] / Upper Hand [fig]; Turns: 10.0; Damage: 3095
-Chesnaught: Low Kick [fig] / Superpower [fig]; Turns: 10.0; Damage: 3083 (both fighting)
-Chesnaught: Vine Whip [grs] / Superpower [fig]; Turns: 10.0; Damage: 3083
-Cetitan*: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 3072 (both ice)
-Emboar: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 3071 (both fire)
-Raichu*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3070 (both electric)
-Armarouge*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 3057 (both fire)
-Hitmonlee: Double Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 3054 (both fighting)
-Morpeko (Full Belly)*: Thunder Shock [elc] / Aura Wheel [elc]; Turns: 10.0; Damage: 3054 (both electric)
-Morpeko (Hangry)*: Thunder Shock [elc] / Aura Wheel [drk]; Turns: 10.0; Damage: 3054
-Flygon*: Dragon Tail [drg] / Sand Tomb [grd]; Turns: 10.0; Damage: 3028
-Cetitan*: Powder Snow [ice] / Superpower [fig]; Turns: 10.0; Damage: 3025
-Togedemaru*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3022 (both electric)
-Kleavor: Quick Attack [nrm] / X-Scissor [bug]; Turns: 10.0; Damage: 3018
-Incineroar*: Double Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 3015
-Keldeo (Ordinary)*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 3013
-Keldeo (Resolute)*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 3013
-Meloetta (Pirouette): Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 2995
-Meloetta (Pirouette): Quick Attack [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 2995
-Meloetta (Pirouette): Low Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 2995
-Meloetta (Pirouette): Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 2995
-Feraligatr: Shadow Claw [gho] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2981
-Typhlosion (Hisuian)*: Ember [fir] / Night Shade [gho]; Turns: 10.0; Damage: 2975
-Togekiss: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2965
-Landorus (Therian)*: Mud Shot [grd] / Sandsear Storm [grd]; Turns: 10.0; Damage: 2955 (both ground)
-Lumineon: Gust [fly] / Aqua Tail [wtr]; Turns: 10.0; Damage: 2952
-Machamp*: Bullet Punch [stl] / Cross Chop [fig]; Turns: 10.0; Damage: 2951
-Quaquaval: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2950
-Scizor*: Bullet Punch [stl] / Night Slash [drk]; Turns: 10.0; Damage: 2950
-Sneasler: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2943
-Mienshao*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2931 (both fighting)
-Mienshao*: Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 2931
+Electivire*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3395 (both electric)
+Machamp*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 3323 (both fighting)
+Raikou*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3286 (both electric)
+Gallade*: Psycho Cut [psy] / Close Combat [fig]; Turns: 10.0; Damage: 3231
+Pangoro*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 3210 (both fighting)
+Enamorus (Incarnate): Fairy Wind [fai] / Fly [fly]; Turns: 10.0; Damage: 3193
+Pawmot*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 3163 (both electric)
+Pawmot*: Thunder Shock [elc] / Close Combat [fig]; Turns: 10.0; Damage: 3163
+Machamp*: Karate Chop [fig] / Dynamic Punch [fig]; Turns: 10.0; Damage: 3057 (both fighting)
+Garchomp*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 2965 (both dragon)
+Primeape*: Karate Chop [fig] / Close Combat [fig]; Turns: 10.0; Damage: 2940 (both fighting)
 Dragonite: Dragon Breath [drg] / Superpower [fig]; Turns: 10.0; Damage: 2928
-Toxtricity*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2927
-Toxtricity (Amped)*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2927
-Toxtricity (Low Key)*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2927
-Machamp*: Karate Chop [fig] / Rock Slide [rck]; Turns: 10.0; Damage: 2925
-Golisopod*: Shadow Claw [gho] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2923
-Golisopod*: Shadow Claw [gho] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2923
-Thundurus (Incarnate)*: Thunder Shock [elc] / Crunch [drk]; Turns: 10.0; Damage: 2901
-Pawmot*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2900
-Overqwil*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 2875
-Centiskorch: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2875 (both fire)
-Zapdos*: Thunder Shock [elc] / Heat Wave [fir]; Turns: 10.0; Damage: 2875
-Mienshao*: Low Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 2873
+Dragonite: Dragon Tail [drg] / Superpower [fig]; Turns: 10.0; Damage: 2928
+Armarouge*: Incinerate [fir] / Psyshock [psy]; Turns: 10.0; Damage: 2925
+Keldeo (Resolute)*: Poison Jab [poi] / Secret Sword [fig]; Turns: 10.0; Damage: 2895
 Latios: Dragon Breath [drg] / Aura Sphere [fig]; Turns: 10.0; Damage: 2862
-Dipplin*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 2850
-Xatu: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2836
-Electivire*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2829
-Pangoro*: Karate Chop [fig] / Rock Slide [rck]; Turns: 10.0; Damage: 2825
-Rapidash*: Ember [fir] / Wild Charge [elc]; Turns: 10.0; Damage: 2822
-Rapidash (Galarian)*: Psycho Cut [psy] / Wild Charge [elc]; Turns: 10.0; Damage: 2822
-Rapidash (Galarian)*: Fairy Wind [fai] / Wild Charge [elc]; Turns: 10.0; Damage: 2822
-Machoke*: Karate Chop [fig] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2815 (both fighting)
-Mew*: Infestation [bug] / Psyshock [psy]; Turns: 10.0; Damage: 2815
-Mew*: Shadow Claw [gho] / Psyshock [psy]; Turns: 10.0; Damage: 2815
-Quaquaval: Low Kick [fig] / Aqua Step [wtr]; Turns: 10.0; Damage: 2815
-Arctozolt*: Thunder Shock [elc] / Avalanche [ice]; Turns: 10.0; Damage: 2806
-Slowking (Galarian)*: Acid [poi] / Psyshock [psy]; Turns: 10.0; Damage: 2806
-Electrode (Hisuian)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2800 (both electric)
-Golisopod*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2799
-Golisopod*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2799
-Lurantis*: Leafage [grs] / Superpower [fig]; Turns: 10.0; Damage: 2792
+Articuno (Galarian): Psycho Cut [psy] / Fly [fly]; Turns: 10.0; Damage: 2840
+Enamorus (Therian): Fairy Wind [fai] / Fly [fly]; Turns: 10.0; Damage: 2840
+Bewear: Low Kick [fig] / Superpower [fig]; Turns: 10.0; Damage: 2825 (both fighting)
+Quaquaval: Low Kick [fig] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2815
+Keldeo (Ordinary)*: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2806
+Keldeo (Resolute)*: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2806
+Mamoswine: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2806 (both ice)
+Bewear: Shadow Claw [gho] / Superpower [fig]; Turns: 10.0; Damage: 2799
 Kartana*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2789 (both bug)
-Magneton*: Thunder Shock [elc] / Magnet Bomb [stl]; Turns: 10.0; Damage: 2787
-Kommo-o: Metal Sound [stl] / Upper Hand [fig]; Turns: 10.0; Damage: 2775
-Pawmot*: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 2768
-Conkeldurr: Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 2761
-Kingambit*: Metal Sound [stl] / X-Scissor [bug]; Turns: 10.0; Damage: 2758
-Haunter*: Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 2736
-Espathra: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2735
-Dudunsparce*: Dragon Tail [drg] / Drill Run [grd]; Turns: 10.0; Damage: 2734
-Toxicroak*: Mud Shot [grd] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2733
+Vikavolt: Volt Switch [elc] / X-Scissor [bug]; Turns: 10.0; Damage: 2784
+Barraskewda: Peck [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2755
+Victini: Quick Attack [nrm] / V-Create [fir]; Turns: 10.0; Damage: 2744
+Raichu (Alolan)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2740 (both electric)
 Kleavor: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2731 (both bug)
-Gengar*: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 2728
-Pangoro*: Bullet Punch [stl] / Night Slash [drk]; Turns: 10.0; Damage: 2722
 Genesect: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2720 (both bug)
 Genesect (Burn): Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2720 (both bug)
 Genesect (Chill): Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2720 (both bug)
 Genesect (Douse): Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2720 (both bug)
 Genesect (Shock): Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2720 (both bug)
-Decidueye (Hisuian)*: Psycho Cut [psy] / Energy Ball [grs]; Turns: 10.0; Damage: 2710
-Grimmsnarl*: Low Kick [fig] / Foul Play [drk]; Turns: 10.0; Damage: 2708
-Rapidash*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2705 (both fire)
-Venusaur: Vine Whip [grs] / Sludge [poi]; Turns: 10.0; Damage: 2700
-Bewear: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 2696
-Fearow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2688 (both flying)
-Walrein: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2688 (both ice)
-Piloswine: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2673 (both ice)
-Emboar: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 2670
-Melmetal*: Thunder Shock [elc] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2670
-Landorus (Incarnate): Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2669
-Magneton*: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 2660
+Typhlosion (Hisuian)*: Ember [fir] / Wild Charge [elc]; Turns: 10.0; Damage: 2704
+Meloetta (Aria): Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 2698
+Quaquaval: Wing Attack [fly] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2681
 Heracross: Fury Cutter [bug] / Upper Hand [fig]; Turns: 10.0; Damage: 2659
+Flareon*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2655 (both fire)
 Pinsir: Fury Cutter [bug] / Superpower [fig]; Turns: 10.0; Damage: 2650
-Florges: Fairy Wind [fai] / Disarming Voice [fai]; Turns: 10.0; Damage: 2650 (both fairy)
-Bewear: Shadow Claw [gho] / Stomp [nrm]; Turns: 10.0; Damage: 2645
-Mienshao*: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 2638 (both fighting)
-Pawmot*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2636 (both fighting)
-Forretress*: Volt Switch [elc] / Sand Tomb [grd]; Turns: 10.0; Damage: 2634
-Leavanny*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2632
-Scolipede*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 2629
-Trevenant: Shadow Claw [gho] / Seed Bomb [grs]; Turns: 10.0; Damage: 2626
-Decidueye: Leafage [grs] / Spirit Shackle [gho]; Turns: 10.0; Damage: 2625
-Sawk*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2625 (both fighting)
-Sawk*: Poison Jab [poi] / Body Slam [nrm]; Turns: 10.0; Damage: 2625
-Starmie: Quick Attack [nrm] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2625
-Victini: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 2625
-Excadrill*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2607
-Murkrow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2585 (both flying)
-Naganadel: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 2570
+Toxicroak*: Poison Sting [poi] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2637
+Raichu*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2631 (both electric)
+Zeraora*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 2628 (both electric)
+Morpeko (Full Belly)*: Thunder Shock [elc] / Aura Wheel [elc]; Turns: 10.0; Damage: 2618 (both electric)
+Morpeko (Hangry)*: Thunder Shock [elc] / Aura Wheel [drk]; Turns: 10.0; Damage: 2618
+Raikou*: Volt Switch [elc] / Aura Sphere [fig]; Turns: 10.0; Damage: 2616
+Regieleki*: Volt Switch [elc] / Thunder Cage [elc]; Turns: 10.0; Damage: 2607 (both electric)
+Keldeo (Ordinary)*: Poison Jab [poi] / Sacred Sword [fig]; Turns: 10.0; Damage: 2600
+Togedemaru*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2590 (both electric)
+Gengar*: Sucker Punch [drk] / Shadow Punch [gho]; Turns: 10.0; Damage: 2580
+Ceruledge: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2580 (both fire)
 Pinsir: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2569 (both bug)
-Trevenant: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 2558
-Quaquaval: Wing Attack [fly] / Aqua Step [wtr]; Turns: 10.0; Damage: 2547
+Hawlucha*: Low Kick [fig] / Flying Press [fig]; Turns: 10.0; Damage: 2548 (both fighting)
+Quaquaval: Low Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2547
 Scizor*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2547 (both bug)
-Ursaring*: Metal Claw [stl] / Swift [nrm]; Turns: 10.0; Damage: 2547
-Hitmonlee: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2545 (both fighting)
-Thievul*: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 2540 (both dark)
-Empoleon: Metal Sound [stl] / Drill Peck [fly]; Turns: 10.0; Damage: 2529
-Zapdos*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 2530
-Toucannon*: Peck [fly] / Rock Blast [rck]; Turns: 10.0; Damage: 2522
+Emboar: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2536 (both fire)
+Zoroark*: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 2528
+Armarouge*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2526 (both fire)
+Kommo-o: Dragon Tail [drg] / Upper Hand [fig]; Turns: 10.0; Damage: 2522
+Toucannon*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2522 (both flying)
 Kyurem: Dragon Breath [drg] / Glaciate [ice]; Turns: 10.0; Damage: 2515
-Kilowattrel: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 2511
+Vikavolt: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 2512 (both electric)
+Chesnaught: Low Kick [fig] / Superpower [fig]; Turns: 10.0; Damage: 2512 (both fighting)
+Chesnaught: Vine Whip [grs] / Superpower [fig]; Turns: 10.0; Damage: 2512
+Azelf: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 2507
+Empoleon: Metal Sound [stl] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2505
 Samurott*: Fury Cutter [bug] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2505
-Articuno (Galarian): Psycho Cut [psy] / Ancient Power [rck]; Turns: 10.0; Damage: 2500
-Centiskorch: Ember [fir] / Lunge [bug]; Turns: 10.0; Damage: 2500
-Enamorus (Therian): Fairy Wind [fai] / Mystical Fire [fir]; Turns: 10.0; Damage: 2500
-Hitmonlee: Low Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 2494
-Woobat: Confusion [psy] / Air Cutter [fly]; Turns: 10.0; Damage: 2492
-Electivire*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 2490
-Murkrow: Peck [fly] / Foul Play [drk]; Turns: 10.0; Damage: 2485
-Arctozolt*: Powder Snow [ice] / Discharge [elc]; Turns: 10.0; Damage: 2482
-Mew*: Dragon Tail [drg] / Low Sweep [fig]; Turns: 10.0; Damage: 2481
-Swampert*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 2481
+Gallade*: Confusion [psy] / Leaf Blade [grs]; Turns: 10.0; Damage: 2505
+Flamigo: Double Kick [fig] / Upper Hand [fig]; Turns: 10.0; Damage: 2493 (both fighting)
+Zeraora*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 2493 (both electric)
+Dodrio*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2477 (both flying)
 Golisopod*: Fury Cutter [bug] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2477
 Golisopod*: Fury Cutter [bug] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2477
-Grimmsnarl*: Sucker Punch [drk] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2476
-Victreebel*: Acid [poi] / Leaf Tornado [grs]; Turns: 10.0; Damage: 2469
-Landorus (Therian)*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 2463 (both ground)
-Annihilape*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 2450
-Lurantis*: Leafage [grs] / X-Scissor [bug]; Turns: 10.0; Damage: 2443
+Landorus (Therian)*: Mud Shot [grd] / Sandsear Storm [grd]; Turns: 10.0; Damage: 2463 (both ground)
+Flamigo: Wing Attack [fly] / Upper Hand [fig]; Turns: 10.0; Damage: 2450
+Toxicroak*: Mud Shot [grd] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2445
+Kleavor: Quick Attack [nrm] / X-Scissor [bug]; Turns: 10.0; Damage: 2443
 Latias: Dragon Breath [drg] / Aura Sphere [fig]; Turns: 10.0; Damage: 2435
-Typhlosion*: Shadow Claw [gho] / Thunder Punch [elc]; Turns: 10.0; Damage: 2432
-Clefable*: Fairy Wind [fai] / Meteor Mash [stl]; Turns: 10.0; Damage: 2427
-Lucario: Bullet Punch [stl] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2413
-Sandslash (Alolan): Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 2413 (both ice)
-Nidoking*: Double Kick [fig] / Sand Tomb [grd]; Turns: 10.0; Damage: 2410
-Tyrunt: Dragon Tail [drg] / Stomp [nrm]; Turns: 10.0; Damage: 2405
-Beedrill*: Infestation [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2400 (both bug)
-Centiskorch: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 2400
-Cobalion*: Metal Claw [stl] / Sacred Sword [fig]; Turns: 10.0; Damage: 2400
-Electrode (Hisuian)*: Thunder Shock [elc] / Energy Ball [grs]; Turns: 10.0; Damage: 2399
-Fearow: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 2399
-Fearow: Peck [fly] / Twister [drg]; Turns: 10.0; Damage: 2399
-Hitmonlee: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 2392
+Kingambit*: Metal Sound [stl] / Foul Play [drk]; Turns: 10.0; Damage: 2434
+Typhlosion (Hisuian)*: Ember [fir] / Night Shade [gho]; Turns: 10.0; Damage: 2434
+Zeraora*: Spark [elc] / Plasma Fists [elc]; Turns: 10.0; Damage: 2434 (both electric)
+Zoroark (Hisuian)*: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 2432
+Feraligatr: Shadow Claw [gho] / Hydro Cannon [wtr]; Turns: 10.0; Damage: 2422
+Quaquaval: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2413
+Togekiss: Peck [fly] / Aura Sphere [fig]; Turns: 10.0; Damage: 2403
+Electrode (Hisuian)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2400 (both electric)
 Starmie: Psywave [psy] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2386
-Qwilfish (Hisuian)*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 2383
-Melmetal*: Thunder Shock [elc] / Rock Slide [rck]; Turns: 10.0; Damage: 2362
-Sawk*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 2362 (both fighting)
-Poliwrath*: Mud Shot [grd] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2357
-Slowbro (Galarian): Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 2357
+Beartic: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 2382 (both ice)
+Arctozolt*: Thunder Shock [elc] / Avalanche [ice]; Turns: 10.0; Damage: 2375
+Centiskorch: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2375 (both fire)
+Cetitan*: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2363 (both ice)
 Golisopod*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2353 (both bug)
 Golisopod*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2353 (both bug)
 Scyther*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2353 (both bug)
+Rapidash*: Ember [fir] / Wild Charge [elc]; Turns: 10.0; Damage: 2352
+Rapidash (Galarian)*: Psycho Cut [psy] / Wild Charge [elc]; Turns: 10.0; Damage: 2352
+Rapidash (Galarian)*: Fairy Wind [fai] / Wild Charge [elc]; Turns: 10.0; Damage: 2352
 Kabutops*: Fury Cutter [bug] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2350
-Trumbeak: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2348 (both flying)
-Decidueye (Hisuian)*: Psycho Cut [psy] / Trailblaze [grs]; Turns: 10.0; Damage: 2347
-Gogoat*: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 2338 (both grass)
-Pawmo*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2338 (both electric)
-Doduo*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2334 (both flying)
-Incineroar*: Double Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 2334 (both fighting)
-Malamar*: Peck [fly] / Superpower [fig]; Turns: 10.0; Damage: 2333
-Sandslash (Alolan): Powder Snow [ice] / Drill Run [grd]; Turns: 10.0; Damage: 2333
+Marshadow: Shadow Claw [gho] / Fire Punch [fir]; Turns: 10.0; Damage: 2348
+Marshadow: Shadow Claw [gho] / Thunder Punch [elc]; Turns: 10.0; Damage: 2348
+Marshadow: Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 2348
 Dragonite: Dragon Breath [drg] / Thunder Punch [elc]; Turns: 10.0; Damage: 2331
-Muk: Acid [poi] / Thunder Punch [elc]; Turns: 10.0; Damage: 2331
-Omastar*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2328
+Dragonite: Dragon Tail [drg] / Thunder Punch [elc]; Turns: 10.0; Damage: 2331
+Flygon*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 2329 (both dragon)
+Golisopod*: Shadow Claw [gho] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2328
+Golisopod*: Shadow Claw [gho] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2328
 Pinsir: Fury Cutter [bug] / Vise Grip [nrm]; Turns: 10.0; Damage: 2325
-Ponyta*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 2318 (both fire)
-Bewear: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 2311 (both fighting)
-Hakamo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 2306
-Primeape*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 2305
-Magnezone*: Spark [elc] / Mirror Shot [stl]; Turns: 10.0; Damage: 2298
-Hitmonlee: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 2290 (both fighting)
-Raichu (Alolan)*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 2284
-Zebstrika: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 2277
-Malamar*: Peck [fly] / Foul Play [drk]; Turns: 10.0; Damage: 2272
-Kommo-o: Metal Sound [stl] / Brick Break [fig]; Turns: 10.0; Damage: 2270
-Hawlucha*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 2260
-Perrserker: Metal Sound [stl] / Foul Play [drk]; Turns: 10.0; Damage: 2260
-Smoochum: Powder Snow [ice] / Psyshock [psy]; Turns: 10.0; Damage: 2260
-Bewear: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 2260
-Rapidash*: Low Kick [fig] / Drill Run [grd]; Turns: 10.0; Damage: 2258
-Annihilape*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 2250 (both fighting)
-Drapion*: Poison Sting [poi] / Crunch [drk]; Turns: 10.0; Damage: 2250
-Electabuzz*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2250
+Decidueye (Hisuian)*: Psycho Cut [psy] / Energy Ball [grs]; Turns: 10.0; Damage: 2323
+Cetitan*: Powder Snow [ice] / Superpower [fig]; Turns: 10.0; Damage: 2316
+Machoke*: Karate Chop [fig] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2313 (both fighting)
+Espeon: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 2311 (both psychic)
+Raichu (Alolan)*: Volt Switch [elc] / Psyshock [psy]; Turns: 10.0; Damage: 2311
+Tauros (Aqua): Double Kick [fig] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2306
+Zapdos*: Thunder Shock [elc] / Heat Wave [fir]; Turns: 10.0; Damage: 2300
+Thundurus (Incarnate)*: Thunder Shock [elc] / Crunch [drk]; Turns: 10.0; Damage: 2297
+Jolteon*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 2295 (both electric)
+Roserade*: Poison Jab [poi] / Weather Ball (Fire) [fir]; Turns: 10.0; Damage: 2291
+Magneton*: Thunder Shock [elc] / Magnet Bomb [stl]; Turns: 10.0; Damage: 2280
+Keldeo (Ordinary)*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 2275
+Keldeo (Resolute)*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 2275
+Kommo-o: Metal Sound [stl] / Upper Hand [fig]; Turns: 10.0; Damage: 2270
+Electivire*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2263
+Machamp*: Karate Chop [fig] / Rock Slide [rck]; Turns: 10.0; Damage: 2260
+Melmetal*: Thunder Shock [elc] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2260
+Rapidash*: Incinerate [fir] / Drill Run [grd]; Turns: 10.0; Damage: 2258
 Porygon-Z: Lock On [nrm] / Tri Attack [nrm]; Turns: 10.0; Damage: 2250 (both normal)
-Weepinbell*: Acid [poi] / Seed Bomb [grs]; Turns: 10.0; Damage: 2247
-Ninetales (Alolan)*: Powder Snow [ice] / Psyshock [psy]; Turns: 10.0; Damage: 2240
-Chesnaught: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2238
-Chesnaught: Vine Whip [grs] / Thunder Punch [elc]; Turns: 10.0; Damage: 2238
-Beedrill*: Infestation [bug] / Drill Run [grd]; Turns: 10.0; Damage: 2227
-Florges: Fairy Wind [fai] / Trailblaze [grs]; Turns: 10.0; Damage: 2216
-Perrserker: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 2215
-Sylveon*: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 2214
-Lampent: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2208 (both fire)
-Ninetales*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2208 (both fire)
-Toxicroak*: Poison Sting [poi] / Mud Bomb [grd]; Turns: 10.0; Damage: 2205
-Bronzong*: Metal Sound [stl] / Psyshock [psy]; Turns: 10.0; Damage: 2195
-Raichu*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 2193
-Toxtricity*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2189
-Toxtricity (Amped)*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2189
-Toxtricity (Low Key)*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2189
-Sandslash (Alolan): Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 2172
-Cramorant: Peck [fly] / Dive [wtr]; Turns: 10.0; Damage: 2162
-Luxray*: Spark [elc] / Psychic Fangs [psy]; Turns: 10.0; Damage: 2161
-Golem*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 2157
-Doduo*: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 2154
+Mew*: Volt Switch [elc] / Psyshock [psy]; Turns: 10.0; Damage: 2247
+Mew*: Dragon Tail [drg] / Psyshock [psy]; Turns: 10.0; Damage: 2243
+Mew*: Shadow Claw [gho] / Psyshock [psy]; Turns: 10.0; Damage: 2243
+Pawmot*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 2240
+Sneasler: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2236
+Rapidash*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 2234 (both fire)
+Meloetta (Pirouette): Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 2231
+Meloetta (Pirouette): Quick Attack [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 2231
+Meloetta (Pirouette): Low Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 2231
+Meloetta (Pirouette): Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 2231
+Typhlosion*: Incinerate [fir] / Thunder Punch [elc]; Turns: 10.0; Damage: 2230
+Landorus (Incarnate): Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2224
+Exeggutor (Alolan)*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 2221
+Groudon*: Dragon Tail [drg] / Fire Punch [fir]; Turns: 10.0; Damage: 2209
+Machamp*: Bullet Punch [stl] / Cross Chop [fig]; Turns: 10.0; Damage: 2207
+Magneton*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 2206 (both electric)
+Golisopod*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2204
+Golisopod*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2204
+Salazzle: Incinerate [fir] / Poison Fang [poi]; Turns: 10.0; Damage: 2202
+Ampharos*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 2200 (both electric)
+Mienshao*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2198 (both fighting)
+Togekiss: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2198
+Grimmsnarl*: Low Kick [fig] / Foul Play [drk]; Turns: 10.0; Damage: 2192
+Pangoro*: Karate Chop [fig] / Rock Slide [rck]; Turns: 10.0; Damage: 2182
+Xatu: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2181
+Espathra: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 2179
+Bruxish: Confusion [psy] / Aqua Tail [wtr]; Turns: 10.0; Damage: 2176
+Excadrill*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2173
+Florges: Fairy Wind [fai] / Disarming Voice [fai]; Turns: 10.0; Damage: 2168 (both fairy)
+Toxtricity*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2163
+Toxtricity (Amped)*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2163
+Toxtricity (Low Key)*: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 2163
+Slowking (Galarian)*: Acid [poi] / Psyshock [psy]; Turns: 10.0; Damage: 2159
 Gyarados*: Dragon Breath [drg] / Twister [drg]; Turns: 10.0; Damage: 2154 (both dragon)
-Monferno*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 2154 (both fire)
-Pachirisu: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 2136 (both electric)
-Venomoth: Infestation [bug] / Poison Fang [poi]; Turns: 10.0; Damage: 2135
-Decidueye (Hisuian)*: Psycho Cut [psy] / Night Shade [gho]; Turns: 10.0; Damage: 2130
-Larvesta: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 2127 (both fire)
-Florges: Fairy Wind [fai] / Chilling Water [wtr]; Turns: 10.0; Damage: 2120
-Primeape*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 2117 (both fighting)
-Raichu (Alolan)*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 2101
-Kabutops*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 2100
+Gyarados*: Dragon Tail [drg] / Twister [drg]; Turns: 10.0; Damage: 2154 (both dragon)
+Starmie: Quick Attack [nrm] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2147
+Victini: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 2147
+Quaquaval: Low Kick [fig] / Aqua Step [wtr]; Turns: 10.0; Damage: 2145
+Mienshao*: Low Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 2140
+Lurantis*: Leafage [grs] / Superpower [fig]; Turns: 10.0; Damage: 2138
+Venusaur: Vine Whip [grs] / Sludge [poi]; Turns: 10.0; Damage: 2137
+Emboar: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 2136
+Swampert*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 2127
+Mienshao*: Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 2110
+Poliwrath*: Mud Shot [grd] / Dynamic Punch [fig]; Turns: 10.0; Damage: 2109
+Pawmot*: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 2109
 Flygon*: Sand Attack [grd] / Twister [drg]; Turns: 10.0; Damage: 2096
-Sandslash (Alolan): Shadow Claw [gho] / Drill Run [grd]; Turns: 10.0; Damage: 2091
-Smoochum: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 2086 (both ice)
-Muk: Infestation [bug] / Thunder Punch [elc]; Turns: 10.0; Damage: 2072
-Seaking: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 2068
+Raichu (Alolan)*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 2096 (both electric)
+Hydrapple*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 2086
+Kingambit*: Metal Sound [stl] / X-Scissor [bug]; Turns: 10.0; Damage: 2082
+Garchomp*: Dragon Tail [drg] / Sand Tomb [grd]; Turns: 10.0; Damage: 2076
+Leavanny*: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 2073
+Fearow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2068 (both flying)
+Walrein: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2068 (both ice)
 Flapple*: Dragon Breath [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 2067
-Magnemite*: Thunder Shock [elc] / Magnet Bomb [stl]; Turns: 10.0; Damage: 2062
-Torkoal: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 2059 (both fire)
-Gurdurr: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2045 (both fighting)
-Kingler*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 2045
-Buzzwole: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 2038
-Buzzwole: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 2038
+Piloswine: Powder Snow [ice] / Icicle Spear [ice]; Turns: 10.0; Damage: 2056 (both ice)
+Bewear: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 2054
+Mew*: Infestation [bug] / Psyshock [psy]; Turns: 10.0; Damage: 2052
+Omastar*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 2046
 Crustle: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 2029 (both bug)
-Quaxwell: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 2025
+Bewear: Shadow Claw [gho] / Stomp [nrm]; Turns: 10.0; Damage: 2028
+Magneton*: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 2027
+Clefable*: Fairy Wind [fai] / Meteor Mash [stl]; Turns: 10.0; Damage: 2022
 Armaldo*: Fury Cutter [bug] / Rock Blast [rck]; Turns: 10.0; Damage: 2018
-Raichu*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 2017
-Machoke*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 2011 (both fighting)
-Pikipek: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 2009 (both flying)
+Kommo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 2018
+Raichu*: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 2012 (both electric)
+Quaquaval: Wing Attack [fly] / Aqua Step [wtr]; Turns: 10.0; Damage: 2011
+Scizor*: Bullet Punch [stl] / Night Slash [drk]; Turns: 10.0; Damage: 2011
+Ursaring*: Metal Claw [stl] / Swift [nrm]; Turns: 10.0; Damage: 2011
+Kilowattrel: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 2009
 Lurantis*: Fury Cutter [bug] / Superpower [fig]; Turns: 10.0; Damage: 2007
-Gogoat*: Vine Whip [grs] / Brick Break [fig]; Turns: 10.0; Damage: 2004
-Sableye: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 2002
-Furret*: Sucker Punch [drk] / Swift [nrm]; Turns: 10.0; Damage: 2001
-Pidgeot*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1999
-Lampent: Ember [fir] / Energy Ball [grs]; Turns: 10.0; Damage: 1997
-Ninetales*: Ember [fir] / Energy Ball [grs]; Turns: 10.0; Damage: 1997
-Grimer: Acid [poi] / Sludge [poi]; Turns: 10.0; Damage: 1994 (both poison)
-Lopunny: Double Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 1985
-Lopunny: Double Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1985
-Slurpuff: Fairy Wind [fai] / Energy Ball [grs]; Turns: 10.0; Damage: 1985
-Natu: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1979 (both flying)
-Natu: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 1979
-Fletchinder: Ember [fir] / Fly [fly]; Turns: 10.0; Damage: 1977
-Omastar*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1975
+Pawmo*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 2004 (both electric)
+Pangoro*: Bullet Punch [stl] / Night Slash [drk]; Turns: 10.0; Damage: 2003
+Centiskorch: Ember [fir] / Lunge [bug]; Turns: 10.0; Damage: 2000
+Electrode (Hisuian)*: Thunder Shock [elc] / Energy Ball [grs]; Turns: 10.0; Damage: 2000
+Overqwil*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 1992
+Murkrow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1988 (both flying)
+Galvantula*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 1988 (both electric)
+Conkeldurr: Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 1988
+Incineroar*: Double Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 1977
+Pawmot*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1977 (both fighting)
+Haunter*: Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 1976
+Golem (Alolan)*: Volt Switch [elc] / Rock Blast [rck]; Turns: 10.0; Damage: 1974
 Regidrago: Dragon Breath [drg] / Vise Grip [nrm]; Turns: 10.0; Damage: 1974
-Sandaconda: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 1974
 Malamar*: Psywave [psy] / Superpower [fig]; Turns: 10.0; Damage: 1971
-Octillery*: Lock On [nrm] / Water Pulse [wtr]; Turns: 10.0; Damage: 1969
-Magnemite*: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 1968
-Politoed*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 1957
-Graveler*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1956
+Landorus (Therian)*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1970 (both ground)
+Octillery*: Lock On [nrm] / Water Pulse [wtr]; Turns: 10.0; Damage: 1970
+Sawk*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1968 (both fighting)
+Mesprit: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 1968
+Decidueye (Hisuian)*: Psycho Cut [psy] / Trailblaze [grs]; Turns: 10.0; Damage: 1960
+Zapdos*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 1955
 Shelgon*: Dragon Breath [drg] / Twister [drg]; Turns: 10.0; Damage: 1954 (both dragon)
-Throh*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1954 (both fighting)
-Kangaskhan*: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 1953
-Dracozolt*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 1950
+Melmetal*: Thunder Shock [elc] / Rock Slide [rck]; Turns: 10.0; Damage: 1951
+Hitmonlee: Double Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1951 (both fighting)
 Goodra*: Dragon Breath [drg] / Thunder Punch [elc]; Turns: 10.0; Damage: 1950
 Galvantula*: Fury Cutter [bug] / Discharge [elc]; Turns: 10.0; Damage: 1941
-Decidueye (Hisuian)*: Psycho Cut [psy] / Aerial Ace [fly]; Turns: 10.0; Damage: 1936
+Trevenant: Shadow Claw [gho] / Seed Bomb [grs]; Turns: 10.0; Damage: 1941
+Empoleon: Metal Sound [stl] / Drill Peck [fly]; Turns: 10.0; Damage: 1932
+Articuno (Galarian): Psycho Cut [psy] / Ancient Power [rck]; Turns: 10.0; Damage: 1931
+Enamorus (Therian): Fairy Wind [fai] / Mystical Fire [fir]; Turns: 10.0; Damage: 1931
+Ponyta*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1931 (both fire)
+Electivire*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 1924
 Malamar*: Psywave [psy] / Foul Play [drk]; Turns: 10.0; Damage: 1910
-Mew*: Infestation [bug] / Low Sweep [fig]; Turns: 10.0; Damage: 1909
-Mew*: Shadow Claw [gho] / Low Sweep [fig]; Turns: 10.0; Damage: 1909
-Arctozolt*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 1900
-Houndour: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1900
-Torracat: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1898
-Fletchinder: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1894 (both fire)
-Garbodor*: Infestation [bug] / Seed Bomb [grs]; Turns: 10.0; Damage: 1892
-Gliscor*: Wing Attack [fly] / Sand Tomb [grd]; Turns: 10.0; Damage: 1892
+Decidueye: Leafage [grs] / Spirit Shackle [gho]; Turns: 10.0; Damage: 1909
+Hitmonlee: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1909 (both fighting)
+Mienshao*: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 1905 (both fighting)
+Hitmonlee: Double Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 1900
+Centiskorch: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1900
+Sawk*: Poison Jab [poi] / Body Slam [nrm]; Turns: 10.0; Damage: 1890
+Murkrow: Peck [fly] / Foul Play [drk]; Turns: 10.0; Damage: 1889
+Dracozolt*: Dragon Tail [drg] / Discharge [elc]; Turns: 10.0; Damage: 1883
 Samurott (Hisuian)*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1882 (both bug)
-Swalot*: Infestation [bug] / Sludge [poi]; Turns: 10.0; Damage: 1877
-Klink: Volt Switch [elc] / Vise Grip [nrm]; Turns: 10.0; Damage: 1870
+Trevenant: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 1872
 Heracross: Fury Cutter [bug] / Rock Blast [rck]; Turns: 10.0; Damage: 1861
-Marshtomp*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 1861
-Golisopod*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 1857
-Golisopod*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 1857
-Dartrix: Peck [fly] / Seed Bomb [grs]; Turns: 10.0; Damage: 1855
-Dartrix: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1855 (both grass)
-Growlithe (Hisuian): Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1855
-Growlithe*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1854 (both fire)
-Combusken: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1852
-Runerigus*: Shadow Claw [gho] / Sand Tomb [grd]; Turns: 10.0; Damage: 1852
-Gurdurr: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1840 (both fighting)
-Ariados*: Poison Sting [poi] / Lunge [bug]; Turns: 10.0; Damage: 1829
-Eelektrik: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 1825
-Toxicroak*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1822 (both ground)
-Mienfoo: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1818 (both fighting)
-Magcargo: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1816 (both fire)
-Klang*: Metal Sound [stl] / Vise Grip [nrm]; Turns: 10.0; Damage: 1806
-Trumbeak: Peck [fly] / Rock Blast [rck]; Turns: 10.0; Damage: 1806
-Dugtrio: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1802 (both ground)
-Plusle*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1802
-Emolga*: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 1795
-Medicham*: Psycho Cut [psy] / Dynamic Punch [fig]; Turns: 10.0; Damage: 1787
-Rotom: Thunder Shock [elc] / Ominous Wind [gho]; Turns: 10.0; Damage: 1786
-Spidops: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 1784
-Plusle*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1783
-Mantine*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1782
+Hitmonlee: Low Kick [fig] / Blaze Kick [fir]; Turns: 10.0; Damage: 1858
+Cobalion*: Metal Claw [stl] / Sacred Sword [fig]; Turns: 10.0; Damage: 1854
+Farigiraf*: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 1851 (both psychic)
+Malamar*: Peck [fly] / Superpower [fig]; Turns: 10.0; Damage: 1850
+Bruxish: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 1842 (both psychic)
+Drapion*: Poison Sting [poi] / Crunch [drk]; Turns: 10.0; Damage: 1840
+Gengar*: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 1838
+Arctozolt*: Powder Snow [ice] / Discharge [elc]; Turns: 10.0; Damage: 1835
+Raichu (Alolan)*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1827
+Annihilape*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 1825
+Typhlosion*: Shadow Claw [gho] / Thunder Punch [elc]; Turns: 10.0; Damage: 1824
+Lampent: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1824 (both fire)
+Ninetales*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1824 (both fire)
+Scolipede*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 1822
+Sandslash (Alolan): Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 1810 (both ice)
+Trumbeak: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1806 (both flying)
+Electabuzz*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1800
+Kabutops*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1800
+Gourgeist (Super)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 1799
+Hitmonlee: Double Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 1798
+Golem*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1798
+Zebstrika: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 1798
+Doduo*: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1795 (both flying)
+Monferno*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1795 (both fire)
+Malamar*: Peck [fly] / Foul Play [drk]; Turns: 10.0; Damage: 1790
+Lurantis*: Leafage [grs] / X-Scissor [bug]; Turns: 10.0; Damage: 1789
+Rapidash*: Low Kick [fig] / Drill Run [grd]; Turns: 10.0; Damage: 1787
+Gogoat*: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1781 (both grass)
 Parasect*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1781 (both bug)
-Pikachu*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Pikachu (5th Anniversary)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Pikachu (Flying)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Pikachu (Horizons)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Pikachu (Kariyushi)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1781 (both electric)
-Rotom (Mow): Thunder Shock [elc] / Ominous Wind [gho]; Turns: 10.0; Damage: 1761
-Karrablast: Peck [fly] / X-Scissor [bug]; Turns: 10.0; Damage: 1759
-Throh*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1759 (both fighting)
-Koffing: Acid [poi] / Sludge [poi]; Turns: 10.0; Damage: 1757 (both poison)
-Cubchoo: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 1745 (both ice)
-Masquerain*: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 1745
-Golbat*: Wing Attack [fly] / Poison Fang [poi]; Turns: 10.0; Damage: 1738
-Serperior: Vine Whip [grs] / Leaf Tornado [grs]; Turns: 10.0; Damage: 1738 (both grass)
-Klink: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 1737 (both electric)
-Beedrill*: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 1728
+Fearow: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 1778
+Fearow: Peck [fly] / Twister [drg]; Turns: 10.0; Damage: 1778
+Larvesta: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1772 (both fire)
+Gourgeist (Large)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 1769
+Kommo-o: Metal Sound [stl] / Brick Break [fig]; Turns: 10.0; Damage: 1765
+Toucannon*: Peck [fly] / Rock Blast [rck]; Turns: 10.0; Damage: 1765
+Victreebel*: Acid [poi] / Leaf Tornado [grs]; Turns: 10.0; Damage: 1764
+Thievul*: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 1759 (both dark)
+Hitmonlee: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 1756
+Raichu*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1754
+Sylveon*: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 1753
+Decidueye (Hisuian)*: Psycho Cut [psy] / Night Shade [gho]; Turns: 10.0; Damage: 1742
+Smoochum: Powder Snow [ice] / Psyshock [psy]; Turns: 10.0; Damage: 1738
+Bronzong*: Metal Sound [stl] / Psyshock [psy]; Turns: 10.0; Damage: 1738
+Gourgeist (Super)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 1737
+Florges: Fairy Wind [fai] / Trailblaze [grs]; Turns: 10.0; Damage: 1734
+Gourgeist (Average)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 1730
+Sandslash (Alolan): Powder Snow [ice] / Drill Run [grd]; Turns: 10.0; Damage: 1729
+Lunatone*: Confusion [psy] / Weather Ball (Ice) [ice]; Turns: 10.0; Damage: 1729
+Solrock*: Confusion [psy] / Weather Ball (Fire) [fir]; Turns: 10.0; Damage: 1729
 Kricketune: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1727 (both bug)
-Sandaconda: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1721 (both ground)
-Cacnea*: Poison Sting [poi] / Trailblaze [grs]; Turns: 10.0; Damage: 1719
-Shelgon*: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1720
-Stunfisk*: Thunder Shock [elc] / Mud Bomb [grd]; Turns: 10.0; Damage: 1718
-Oddish: Acid [poi] / Seed Bomb [grs]; Turns: 10.0; Damage: 1711
+Toxicroak*: Poison Sting [poi] / Mud Bomb [grd]; Turns: 10.0; Damage: 1726
+Politoed*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 1720
+Primeape*: Low Kick [fig] / Ice Punch [ice]; Turns: 10.0; Damage: 1717
+Torkoal: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1715 (both fire)
+Electrode: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 1711 (both electric)
 Crustle: Fury Cutter [bug] / Rock Blast [rck]; Turns: 10.0; Damage: 1709
-Emolga*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1705
-Beedrill*: Poison Sting [poi] / Aerial Ace [fly]; Turns: 10.0; Damage: 1690
-Lairon*: Metal Claw [stl] / Body Slam [nrm]; Turns: 10.0; Damage: 1687
+Dudunsparce*: Dragon Tail [drg] / Drill Run [grd]; Turns: 10.0; Damage: 1709
+Gourgeist (Large)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 1708
+Hawlucha*: Low Kick [fig] / X-Scissor [bug]; Turns: 10.0; Damage: 1706
+Perrserker: Metal Sound [stl] / Foul Play [drk]; Turns: 10.0; Damage: 1706
+Sawk*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1706 (both fighting)
+Doduo*: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 1705
+Hitmonlee: Double Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1696 (both fighting)
+Omastar*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1693
+Gourgeist (Small)*: Incinerate [fir] / Seed Bomb [grs]; Turns: 10.0; Damage: 1690
+Slowbro (Galarian): Confusion [psy] / Brutal Swing [drk]; Turns: 10.0; Damage: 1690
+Sandslash (Alolan): Shadow Claw [gho] / Ice Punch [ice]; Turns: 10.0; Damage: 1689
+Magnemite*: Thunder Shock [elc] / Magnet Bomb [stl]; Turns: 10.0; Damage: 1687
 Porygon2: Lock On [nrm] / Tri Attack [nrm]; Turns: 10.0; Damage: 1687 (both normal)
-Hawlucha*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1684
-Marshtomp*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1684 (both ground)
-Ariados*: Poison Sting [poi] / Trailblaze [grs]; Turns: 10.0; Damage: 1683
-Toxtricity*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1680
-Toxtricity (Amped)*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1680
-Toxtricity (Low Key)*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1680
-Natu: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 1675
-Natu: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 1675
-Hitmonchan: Bullet Punch [stl] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1666
-Seismitoad*: Mud Shot [grd] / Icy Wind [ice]; Turns: 10.0; Damage: 1666
+Muk: Acid [poi] / Thunder Punch [elc]; Turns: 10.0; Damage: 1684
+Perrserker: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 1684
+Graveler*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1677
+Dipplin*: Dragon Tail [drg] / Seed Bomb [grs]; Turns: 10.0; Damage: 1671
+Gourgeist (Average)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 1670
+Bewear: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 1669 (both fighting)
+Chesnaught: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1667
+Chesnaught: Vine Whip [grs] / Thunder Punch [elc]; Turns: 10.0; Damage: 1667
+Ninetales (Alolan)*: Powder Snow [ice] / Psyshock [psy]; Turns: 10.0; Damage: 1661
+Weepinbell*: Acid [poi] / Seed Bomb [grs]; Turns: 10.0; Damage: 1661
 Lurantis*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1658 (both bug)
-Pikachu (Horizons)*: Quick Attack [nrm] / Volt Tackle [elc]; Turns: 10.0; Damage: 1654
-Sandslash*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 1654
-Spearow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1654 (both flying)
-Ting-Lu: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1653 (both ground)
-Buizel*: Quick Attack [nrm] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1650
-Fletchinder: Ember [fir] / Aerial Ace [fly]; Turns: 10.0; Damage: 1647
-Kangaskhan*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1645 (both fighting)
+Quaxwell: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1656
+Electrode: Volt Switch [elc] / Foul Play [drk]; Turns: 10.0; Damage: 1655
+Hitmonlee: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1654 (both fighting)
+Qwilfish (Hisuian)*: Poison Jab [poi] / Aqua Tail [wtr]; Turns: 10.0; Damage: 1651
+Fletchinder: Ember [fir] / Fly [fly]; Turns: 10.0; Damage: 1647
+Raichu (Alolan)*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 1644
+Bewear: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 1643
 Gigalith*: Lock On [nrm] / Heavy Slam [stl]; Turns: 10.0; Damage: 1643
-Quagsire*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1640 (both ground)
-Mienfoo: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1636 (both fighting)
-Mienfoo: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 1636 (both fighting)
-Porygon: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1634
-Garganacl*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1632
-Whiscash: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1630 (both ground)
-Toedscruel*: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 1622
-Karrablast: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 1619
+Florges: Fairy Wind [fai] / Chilling Water [wtr]; Turns: 10.0; Damage: 1638
+Slowbro (Galarian): Poison Jab [poi] / Brutal Swing [drk]; Turns: 10.0; Damage: 1633
+Beedrill*: Infestation [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1632 (both bug)
+Magnemite*: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 1632 (both electric)
+Gourgeist (Small)*: Incinerate [fir] / Foul Play [drk]; Turns: 10.0; Damage: 1632
+Flygon*: Dragon Tail [drg] / Sand Tomb [grd]; Turns: 10.0; Damage: 1630
+Sandaconda: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 1629
+Annihilape*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1625 (both fighting)
+Magnezone*: Spark [elc] / Mirror Shot [stl]; Turns: 10.0; Damage: 1622
+Lampent: Ember [fir] / Energy Ball [grs]; Turns: 10.0; Damage: 1613
+Ninetales*: Ember [fir] / Energy Ball [grs]; Turns: 10.0; Damage: 1613
+Girafarig*: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 1612 (both psychic)
+Sandslash (Alolan): Shadow Claw [gho] / Drill Run [grd]; Turns: 10.0; Damage: 1609
 Vespiquen*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1608 (both bug)
-Koffing: Infestation [bug] / Sludge [poi]; Turns: 10.0; Damage: 1595
-Nidorino*: Poison Jab [poi] / Horn Attack [nrm]; Turns: 10.0; Damage: 1587
-Minun*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1586
-Trapinch*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1583
-Arrokuda: Peck [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1582
-Togetic*: Fairy Wind [fai] / Aerial Ace [fly]; Turns: 10.0; Damage: 1579
-Togetic*: Fairy Wind [fai] / Heat Wave [fir]; Turns: 10.0; Damage: 1579
-Minun*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1570
-Lopunny: Low Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 1560
-Lopunny: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1560
-Machop*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1556 (both fighting)
-Numel*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1555 (both fire)
-Stunfisk*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1554 (both ground)
-Sandslash*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1551 (both ground)
-Growlithe (Hisuian): Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1549
-Capsakid: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1542 (both grass)
-Sizzlipede: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1542 (both fire)
-Chimchar: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1540 (both fire)
-Elekid*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1534
-Pikachu (Rock Star)*: Thunder Shock [elc] / Meteor Mash [stl]; Turns: 10.0; Damage: 1527
-Spearow: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 1527
-Ferrothorn*: Metal Claw [stl] / Mirror Shot [stl]; Turns: 10.0; Damage: 1526 (both steel)
-Timburr: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1522 (both fighting)
-Litleo: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1516
-Furret*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 1513
-Pawmi*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1511 (both electric)
-Jangmo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 1506
-Jumpluff: Fairy Wind [fai] / Energy Ball [grs]; Turns: 10.0; Damage: 1501
-Quaxly: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1500
-Poliwrath*: Mud Shot [grd] / Icy Wind [ice]; Turns: 10.0; Damage: 1489
+Slurpuff: Fairy Wind [fai] / Energy Ball [grs]; Turns: 10.0; Damage: 1603
+Raichu*: Volt Switch [elc] / Brick Break [fig]; Turns: 10.0; Damage: 1599
+Golduck: Confusion [psy] / Cross Chop [fig]; Turns: 10.0; Damage: 1598
+Marshtomp*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 1595
+Seaking: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 1590
+Charjabug: Volt Switch [elc] / X-Scissor [bug]; Turns: 10.0; Damage: 1589
+Raichu*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 1579
+Cramorant: Peck [fly] / Dive [wtr]; Turns: 10.0; Damage: 1572
+Fletchinder: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1565 (both fire)
+Smoochum: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 1564 (both ice)
+Bronzong*: Confusion [psy] / Weather Ball (Water) [wtr]; Turns: 10.0; Damage: 1564
+Oranguru: Confusion [psy] / Brutal Swing [drk]; Turns: 10.0; Damage: 1560
+Pidgeot*: Gust [fly] / Air Cutter [fly]; Turns: 10.0; Damage: 1559 (both flying)
+Houndour: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1554
+Decidueye (Hisuian)*: Psycho Cut [psy] / Aerial Ace [fly]; Turns: 10.0; Damage: 1549
+Growlithe*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1545 (both fire)
+Pikipek: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1545 (both flying)
+Kangaskhan*: Low Kick [fig] / Stomp [nrm]; Turns: 10.0; Damage: 1542
+Graveler (Alolan): Volt Switch [elc] / Rock Blast [rck]; Turns: 10.0; Damage: 1534
+Toxicroak*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1534 (both ground)
+Grimer: Acid [poi] / Sludge [poi]; Turns: 10.0; Damage: 1534 (both poison)
+Gurdurr: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1534 (both fighting)
+Growlithe (Hisuian): Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1532
+Primeape*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1528 (both fighting)
+Pidgeot*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1527
+Pikachu*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Pikachu (5th Anniversary)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Pikachu (Flying)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Pikachu (Horizons)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Pikachu (Kariyushi)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1527 (both electric)
+Naganadel: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 1524
+Natu: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1522 (both flying)
+Natu: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 1522
+Sableye: Shadow Claw [gho] / Foul Play [drk]; Turns: 10.0; Damage: 1522
+Dugtrio: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1518 (both ground)
+Medicham*: Psycho Cut [psy] / Dynamic Punch [fig]; Turns: 10.0; Damage: 1512
+Machoke*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1508 (both fighting)
+Dracozolt*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 1506
+Luxray*: Spark [elc] / Psychic Fangs [psy]; Turns: 10.0; Damage: 1502
+Torracat: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1502
+Magcargo: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1500 (both fire)
+Kingler*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 1500
+Magnemite*: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 1500
 Nidoking*: Fury Cutter [bug] / Sand Tomb [grd]; Turns: 10.0; Damage: 1483
-Pancham*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1482 (both fighting)
-Omanyte*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1479
+Combusken: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1481
 Karrablast: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1478 (both bug)
-Spearow: Peck [fly] / Twister [drg]; Turns: 10.0; Damage: 1476
+Lucario: Bullet Punch [stl] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1475
 Metang: Fury Cutter [bug] / Psyshock [psy]; Turns: 10.0; Damage: 1474
-Sableye: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 1474
-Stunfisk (Galarian)*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1472
+Arctozolt*: Thunder Shock [elc] / Ancient Power [rck]; Turns: 10.0; Damage: 1468
+Throh*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1465 (both fighting)
+Ariados*: Poison Sting [poi] / Lunge [bug]; Turns: 10.0; Damage: 1463
 Farfetch'd (Galarian)*: Fury Cutter [bug] / Brick Break [fig]; Turns: 10.0; Damage: 1463
-Elekid*: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 1457
-Delibird: Quick Attack [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 1454
-Greedent*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1454
-Buneary*: Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 1447
-Purrloin: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 1447 (both dark)
-Maushold*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1445
-Maushold_family_of_four*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1445
-Maushold_family_of_three*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1445
-Skrelp*: Acid [poi] / Twister [drg]; Turns: 10.0; Damage: 1436
-Togedemaru*: Spark [elc] / Fell Stinger [bug]; Turns: 10.0; Damage: 1425
-Poipole*: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 1417
-Kabuto*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1412
-Litwick: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1411 (both fire)
-Pidgeotto*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1409
-Bulbasaur: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1407 (both grass)
-Flittle: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 1407
+Furret*: Sucker Punch [drk] / Swift [nrm]; Turns: 10.0; Damage: 1463
+Beedrill*: Infestation [bug] / Drill Run [grd]; Turns: 10.0; Damage: 1459
+Uxie: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 1448
+Gogoat*: Vine Whip [grs] / Brick Break [fig]; Turns: 10.0; Damage: 1447
+Grimmsnarl*: Sucker Punch [drk] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1444
+Emolga*: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 1436
+Cacnea*: Poison Sting [poi] / Trailblaze [grs]; Turns: 10.0; Damage: 1435
+Charjabug: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 1434 (both electric)
+Swoobat: Confusion [psy] / Psychic Fangs [psy]; Turns: 10.0; Damage: 1426 (both psychic)
+Plusle*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1423
+Nidoking*: Double Kick [fig] / Sand Tomb [grd]; Turns: 10.0; Damage: 1421
+Marshtomp*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1418 (both ground)
+Shelgon*: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1407
+Spidops: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 1405
 Venomoth: Psywave [psy] / Poison Fang [poi]; Turns: 10.0; Damage: 1403
-Machop*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1401 (both fighting)
+Eelektrik: Acid [poi] / Discharge [elc]; Turns: 10.0; Damage: 1400
+Pikachu (Horizons)*: Quick Attack [nrm] / Volt Tackle [elc]; Turns: 10.0; Damage: 1400
+Garganacl*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1399
 Flygon*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 1397 (both ground)
-Litten: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1396
-Togetic*: Fairy Wind [fai] / Ancient Power [rck]; Turns: 10.0; Damage: 1390
-Greedent*: Mud Shot [grd] / Trailblaze [grs]; Turns: 10.0; Damage: 1381
+Mew*: Volt Switch [elc] / Low Sweep [fig]; Turns: 10.0; Damage: 1392
+Stunfisk*: Thunder Shock [elc] / Mud Bomb [grd]; Turns: 10.0; Damage: 1390
+Karrablast: Peck [fly] / X-Scissor [bug]; Turns: 10.0; Damage: 1385
+Muk: Infestation [bug] / Thunder Punch [elc]; Turns: 10.0; Damage: 1381
+Quagsire*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1381 (both ground)
+Klang*: Metal Sound [stl] / Vise Grip [nrm]; Turns: 10.0; Damage: 1380
+Sandaconda: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1377 (both ground)
 Dewott*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1373 (both bug)
-Timburr: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1370 (both fighting)
-Snover: Powder Snow [ice] / Stomp [nrm]; Turns: 10.0; Damage: 1359
-Snover: Leafage [grs] / Stomp [nrm]; Turns: 10.0; Damage: 1359
+Whiscash: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1372 (both ground)
+Dartrix: Peck [fly] / Seed Bomb [grs]; Turns: 10.0; Damage: 1371
+Dartrix: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1371 (both grass)
+Natu: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 1370
+Natu: Quick Attack [nrm] / Psyshock [psy]; Turns: 10.0; Damage: 1370
+Swalot*: Infestation [bug] / Sludge [poi]; Turns: 10.0; Damage: 1368
+Gliscor*: Wing Attack [fly] / Sand Tomb [grd]; Turns: 10.0; Damage: 1366
+Rotom: Thunder Shock [elc] / Ominous Wind [gho]; Turns: 10.0; Damage: 1366
+Mienfoo: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1363 (both fighting)
+Golisopod*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 1362
+Golisopod*: Metal Claw [stl] / Razor Shell [wtr]; Turns: 10.0; Damage: 1362
+Mantine*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1362
+Lumineon: Gust [fly] / Aqua Tail [wtr]; Turns: 10.0; Damage: 1356
 Dratini*: Dragon Breath [drg] / Twister [drg]; Turns: 10.0; Damage: 1352 (both dragon)
-Spearow: Quick Attack [nrm] / Twister [drg]; Turns: 10.0; Damage: 1349
+Koffing: Acid [poi] / Sludge [poi]; Turns: 10.0; Damage: 1352 (both poison)
+Buizel*: Quick Attack [nrm] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1350
+Emolga*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1346
+Seismitoad*: Mud Shot [grd] / Icy Wind [ice]; Turns: 10.0; Damage: 1345
 Gliscor*: Fury Cutter [bug] / Sand Tomb [grd]; Turns: 10.0; Damage: 1345
-Slugma: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1340
-Bagon*: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1340
+Toedscruel*: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 1339
 Karrablast: Fury Cutter [bug] / Drill Run [grd]; Turns: 10.0; Damage: 1338
-Tinkaton: Fairy Wind [fai] / Bulldoze [grd]; Turns: 10.0; Damage: 1338
-Rowlet: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1332 (both grass)
+Mew*: Dragon Tail [drg] / Low Sweep [fig]; Turns: 10.0; Damage: 1336
+Mew*: Shadow Claw [gho] / Low Sweep [fig]; Turns: 10.0; Damage: 1336
 Pawniard*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 1330 (both bug)
-Electrike*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1327
-Pikachu (5th Anniversary)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 1323
-Pikachu (Flying)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 1323
-Servine: Vine Whip [grs] / Leaf Tornado [grs]; Turns: 10.0; Damage: 1317 (both grass)
-Electrike*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1313
-Chespin*: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1312 (both grass)
-Ekans*: Acid [poi] / Poison Fang [poi]; Turns: 10.0; Damage: 1312 (both poison)
-Joltik*: Sucker Punch [drk] / Cross Poison [poi]; Turns: 10.0; Damage: 1300
+Gurdurr: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1329 (both fighting)
+Tyrunt: Dragon Tail [drg] / Stomp [nrm]; Turns: 10.0; Damage: 1328
+Ting-Lu: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1322 (both ground)
+Venomoth: Infestation [bug] / Poison Fang [poi]; Turns: 10.0; Damage: 1322
+Fletchinder: Ember [fir] / Aerial Ace [fly]; Turns: 10.0; Damage: 1318
+Hakamo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 1318
+Ariados*: Poison Sting [poi] / Trailblaze [grs]; Turns: 10.0; Damage: 1317
+Plusle*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1309
+Cubchoo: Powder Snow [ice] / Ice Punch [ice]; Turns: 10.0; Damage: 1309 (both ice)
+Stunfisk*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1309 (both ground)
+Trapinch*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1307
+Beedrill*: Poison Sting [poi] / Aerial Ace [fly]; Turns: 10.0; Damage: 1305
 Octillery*: Lock On [nrm] / Octazooka [wtr]; Turns: 10.0; Damage: 1298
-Riolu*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 1298
-Aron*: Metal Claw [stl] / Body Slam [nrm]; Turns: 10.0; Damage: 1292
-Sandshrew*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1288
-Sizzlipede: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1287
-Sandshrew (Alolan)*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 1278
-Stunfisk (Galarian)*: Metal Claw [stl] / Muddy Water [wtr]; Turns: 10.0; Damage: 1276
-Blitzle: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1273
-Pikachu*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1272
-Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1272
-Riolu*: Quick Attack [nrm] / Blaze Kick [fir]; Turns: 10.0; Damage: 1270
-Riolu*: Quick Attack [nrm] / Thunder Punch [elc]; Turns: 10.0; Damage: 1270
+Rotom (Mow): Thunder Shock [elc] / Ominous Wind [gho]; Turns: 10.0; Damage: 1298
+Toxtricity*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1298
+Toxtricity (Amped)*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1298
+Toxtricity (Low Key)*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1298
+Incineroar*: Double Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 1296 (both fighting)
+Runerigus*: Shadow Claw [gho] / Sand Tomb [grd]; Turns: 10.0; Damage: 1296
+Pawmi*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 1295 (both electric)
+Buzzwole: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1287
+Buzzwole: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 1287
+Jumpluff: Fairy Wind [fai] / Energy Ball [grs]; Turns: 10.0; Damage: 1287
+Numel*: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1284 (both fire)
+Chimchar: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 1284 (both fire)
+Golbat*: Wing Attack [fly] / Poison Fang [poi]; Turns: 10.0; Damage: 1280
+Serperior: Vine Whip [grs] / Leaf Tornado [grs]; Turns: 10.0; Damage: 1280 (both grass)
+Sizzlipede: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1273 (both fire)
+Pikachu (Rock Star)*: Thunder Shock [elc] / Meteor Mash [stl]; Turns: 10.0; Damage: 1272
+Spearow: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 1272 (both flying)
+Throh*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1270 (both fighting)
+Omanyte*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1268
+Oddish: Acid [poi] / Seed Bomb [grs]; Turns: 10.0; Damage: 1265
+Trumbeak: Peck [fly] / Rock Blast [rck]; Turns: 10.0; Damage: 1264
+Togetic*: Fairy Wind [fai] / Aerial Ace [fly]; Turns: 10.0; Damage: 1263
+Togetic*: Fairy Wind [fai] / Heat Wave [fir]; Turns: 10.0; Damage: 1263
 Gliscor*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 1261 (both ground)
-Mantine*: Wing Attack [fly] / Bubble Beam [wtr]; Turns: 10.0; Damage: 1261
+Arrokuda: Peck [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1260
 Cacnea*: Sand Attack [grd] / Seed Bomb [grs]; Turns: 10.0; Damage: 1258
-Nickit*: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 1255 (both dark)
-Qwilfish*: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 1254 (both poison)
-Shinx: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1249
-Diggersby*: Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 1247
-Pansage: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1240 (both grass)
-Jumpluff: Fairy Wind [fai] / Aerial Ace [fly]; Turns: 10.0; Damage: 1233
-Elekid*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1227 (both fighting)
-Litwick: Ember [fir] / Mystical Fire [fir]; Turns: 10.0; Damage: 1227 (both fire)
-Delibird: Present [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 1221
-Araquanid: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 1217
+Minun*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1252
+Karrablast: Peck [fly] / Drill Run [grd]; Turns: 10.0; Damage: 1245
+Poliwrath*: Mud Shot [grd] / Icy Wind [ice]; Turns: 10.0; Damage: 1240
+Sandslash*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 1240
+Sandslash*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1240 (both ground)
+Lairon*: Metal Claw [stl] / Body Slam [nrm]; Turns: 10.0; Damage: 1238
+Greedent*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1236
+Garbodor*: Infestation [bug] / Seed Bomb [grs]; Turns: 10.0; Damage: 1234
+Kangaskhan*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1234 (both fighting)
+Lopunny: Double Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 1229
+Lopunny: Double Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1229
+Maushold*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1228
+Maushold_family_of_four*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1228
+Maushold_family_of_three*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 1228
+Elekid*: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1227
+Quaxly: Wing Attack [fly] / Aqua Jet [wtr]; Turns: 10.0; Damage: 1227
+Stunfisk (Galarian)*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1227
+Growlithe (Hisuian): Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1226
 Palossand*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 1213 (both ground)
-Pikachu*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Pikachu (5th Anniversary)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Pikachu (Flying)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Pikachu (Horizons)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Pikachu (Kariyushi)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Pikachu (Shaymin Scarf)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1209
-Charcadet: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1202 (both fire)
-Ekans*: Poison Sting [poi] / Wrap [nrm]; Turns: 10.0; Damage: 1200
-Wattrel: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 1193
-Mareep*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 1191
-Klink: Metal Sound [stl] / Vise Grip [nrm]; Turns: 10.0; Damage: 1180
-Diglett: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1176 (both ground)
-Meowth (Galarian)*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 1176
-Riolu*: Quick Attack [nrm] / Low Sweep [fig]; Turns: 10.0; Damage: 1154
-Numel*: Ember [fir] / Bulldoze [grd]; Turns: 10.0; Damage: 1149
-Vibrava*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 1142 (both ground)
-Arbok: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 1138 (both poison)
-Tentacruel: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 1131 (both poison)
-Poliwhirl*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1122 (both ground)
+Kabuto*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1210
+Spearow: Quick Attack [nrm] / Drill Peck [fly]; Turns: 10.0; Damage: 1209
+Lopunny: Low Kick [fig] / Fire Punch [fir]; Turns: 10.0; Damage: 1205
+Lopunny: Low Kick [fig] / Thunder Punch [elc]; Turns: 10.0; Damage: 1205
+Litleo: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1200
+Porygon: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1199
+Mienfoo: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1181 (both fighting)
+Mienfoo: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 1181 (both fighting)
+Machop*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1167 (both fighting)
+Litwick: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 1165 (both fire)
+Delibird: Quick Attack [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 1163
+Greedent*: Mud Shot [grd] / Trailblaze [grs]; Turns: 10.0; Damage: 1163
+Koffing: Infestation [bug] / Sludge [poi]; Turns: 10.0; Damage: 1162
+Minun*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 1152
+Elekid*: Low Kick [fig] / Discharge [elc]; Turns: 10.0; Damage: 1150
+Mew*: Infestation [bug] / Low Sweep [fig]; Turns: 10.0; Damage: 1145
+Timburr: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 1142 (both fighting)
+Capsakid: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1139 (both grass)
+Flittle: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 1121
+Litten: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1105
 Trapinch*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 1104 (both ground)
+Bagon*: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1096
+Spearow: Peck [fly] / Twister [drg]; Turns: 10.0; Damage: 1094
+Furret*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 1093
+Buneary*: Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 1078
+Ferrothorn*: Metal Claw [stl] / Mirror Shot [stl]; Turns: 10.0; Damage: 1077 (both steel)
+Pidgeotto*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 1076
+Togetic*: Fairy Wind [fai] / Ancient Power [rck]; Turns: 10.0; Damage: 1074
+Sandshrew*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 1073
+Bulbasaur: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1072 (both grass)
+Slugma: Ember [fir] / Rock Slide [rck]; Turns: 10.0; Damage: 1072
+Pancham*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1071 (both fighting)
+Pikachu (5th Anniversary)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 1069
+Pikachu (Flying)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 1069
+Forretress*: Volt Switch [elc] / Sand Tomb [grd]; Turns: 10.0; Damage: 1067
 Vibrava*: Dragon Breath [drg] / Sand Tomb [grd]; Turns: 10.0; Damage: 1065
-Tentacool*: Poison Sting [poi] / Wrap [nrm]; Turns: 10.0; Damage: 1058
-Spinda: Psycho Cut [psy] / Icy Wind [ice]; Turns: 10.0; Damage: 1054
-Snivy: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1050 (both grass)
-Klink: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 1046
-Pidgey*: Quick Attack [nrm] / Twister [drg]; Turns: 10.0; Damage: 1023
-Staryu*: Quick Attack [nrm] / Bubble Beam [wtr]; Turns: 10.0; Damage: 1011
-Silicobra: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 1006
-Pikachu*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1005
-Pikachu (5th Anniversary)*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1005
-Pikachu (Shaymin Scarf)*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1005
-Barboach*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 1003 (both ground)
-Naclstack*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 1002
-Helioptile: Thunder Shock [elc] / Bulldoze [grd]; Turns: 10.0; Damage: 993
+Skrelp*: Acid [poi] / Twister [drg]; Turns: 10.0; Damage: 1065
+Hawlucha*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1063
+Beedrill*: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 1056
+Hitmonchan: Bullet Punch [stl] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1052
+Electrike*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1048
+Toxtricity*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1043
+Toxtricity (Amped)*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1043
+Toxtricity (Low Key)*: Spark [elc] / Power-Up Punch [fig]; Turns: 10.0; Damage: 1043
+Nidorino*: Poison Jab [poi] / Horn Attack [nrm]; Turns: 10.0; Damage: 1043
+Spearow: Quick Attack [nrm] / Twister [drg]; Turns: 10.0; Damage: 1030
+Jumpluff: Fairy Wind [fai] / Aerial Ace [fly]; Turns: 10.0; Damage: 1019
+Sizzlipede: Ember [fir] / Crunch [drk]; Turns: 10.0; Damage: 1019
+Pikachu*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1018
+Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / Surf [wtr]; Turns: 10.0; Damage: 1018
+Machop*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 1011 (both fighting)
+Riolu*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 1010
+Blitzle: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 1005
+Woobat: Confusion [psy] / Air Cutter [fly]; Turns: 10.0; Damage: 1005
+Purrloin: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 1002 (both dark)
+Chespin*: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 1000 (both grass)
+Sableye: Shadow Claw [gho] / Drain Punch [fig]; Turns: 10.0; Damage: 993
+Charcadet: Ember [fir] / Heat Wave [fir]; Turns: 10.0; Damage: 993 (both fire)
 Cacnea*: Sand Attack [grd] / Brick Break [fig]; Turns: 10.0; Damage: 992
-Wooper (Paldean)*: Poison Jab [poi] / Body Slam [nrm]; Turns: 10.0; Damage: 971
-Toedscool*: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 947
+Diglett: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 990 (both ground)
+Timburr: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 989 (both fighting)
+Delibird: Present [nrm] / Ice Punch [ice]; Turns: 10.0; Damage: 989
+Tinkaton: Fairy Wind [fai] / Bulldoze [grd]; Turns: 10.0; Damage: 986
+Rowlet: Leafage [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 985 (both grass)
+Litwick: Ember [fir] / Mystical Fire [fir]; Turns: 10.0; Damage: 981 (both fire)
+Riolu*: Quick Attack [nrm] / Blaze Kick [fir]; Turns: 10.0; Damage: 981
+Riolu*: Quick Attack [nrm] / Thunder Punch [elc]; Turns: 10.0; Damage: 981
+Pachirisu: Volt Switch [elc] / Thunder Punch [elc]; Turns: 10.0; Damage: 980 (both electric)
+Servine: Vine Whip [grs] / Leaf Tornado [grs]; Turns: 10.0; Damage: 970 (both grass)
+Snover: Powder Snow [ice] / Stomp [nrm]; Turns: 10.0; Damage: 967
+Snover: Leafage [grs] / Stomp [nrm]; Turns: 10.0; Damage: 967
+Electrike*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 964
+Pikachu*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Pikachu (5th Anniversary)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Pikachu (Flying)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Pikachu (Horizons)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Pikachu (Kariyushi)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Pikachu (Shaymin Scarf)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 954
+Wattrel: Thunder Shock [elc] / Aerial Ace [fly]; Turns: 10.0; Damage: 954
+Ekans*: Poison Sting [poi] / Wrap [nrm]; Turns: 10.0; Damage: 950
+Aron*: Metal Claw [stl] / Body Slam [nrm]; Turns: 10.0; Damage: 948
+Pansage: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 945 (both grass)
+Poliwhirl*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 945 (both ground)
+Ekans*: Acid [poi] / Poison Fang [poi]; Turns: 10.0; Damage: 937 (both poison)
+Mareep*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 932
+Diggersby*: Quick Attack [nrm] / Fire Punch [fir]; Turns: 10.0; Damage: 929
+Sandshrew (Alolan)*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 923
+Elekid*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 920 (both fighting)
+Shinx: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 917
+Vibrava*: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 913 (both ground)
 Vibrava*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 913 (both ground)
-Nacli*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 906
-Octillery*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 895
-Tandemaus*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 890
-Silicobra: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 877 (both ground)
-Pichu*: Quick Attack [nrm] / Thunder Punch [elc]; Turns: 10.0; Damage: 875
-Poliwag*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 872 (both ground)
-Toedscruel*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 867
-Clodsire: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 865 (both poison)
+Klink: Metal Sound [stl] / Vise Grip [nrm]; Turns: 10.0; Damage: 902
+Klink: Volt Switch [elc] / Vise Grip [nrm]; Turns: 10.0; Damage: 901
+Joltik*: Sucker Punch [drk] / Cross Poison [poi]; Turns: 10.0; Damage: 900
+Togedemaru*: Spark [elc] / Fell Stinger [bug]; Turns: 10.0; Damage: 885
+Numel*: Ember [fir] / Bulldoze [grd]; Turns: 10.0; Damage: 878
+Masquerain*: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 872
+Nickit*: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 869 (both dark)
+Stunfisk (Galarian)*: Metal Claw [stl] / Muddy Water [wtr]; Turns: 10.0; Damage: 867
+Riolu*: Quick Attack [nrm] / Low Sweep [fig]; Turns: 10.0; Damage: 865
+Naclstack*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 859
 Sandshrew*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 859 (both ground)
-Tympole: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 846 (both ground)
-Pichu*: Thunder Shock [elc] / Disarming Voice [fai]; Turns: 10.0; Damage: 839
+Meowth (Galarian)*: Metal Claw [stl] / Night Slash [drk]; Turns: 10.0; Damage: 849
+Barboach*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 845 (both ground)
+Spinda: Psycho Cut [psy] / Icy Wind [ice]; Turns: 10.0; Damage: 843
+Mantine*: Wing Attack [fly] / Bubble Beam [wtr]; Turns: 10.0; Damage: 840
+Poipole*: Poison Jab [poi] / Fell Stinger [bug]; Turns: 10.0; Damage: 840
+Tentacool*: Poison Sting [poi] / Wrap [nrm]; Turns: 10.0; Damage: 837
+Qwilfish*: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 836 (both poison)
+Silicobra: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 831
 Sandygast*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 818 (both ground)
-Wooper*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 809 (both ground)
-Sentret: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 807
-Zubat*: Quick Attack [nrm] / Poison Fang [poi]; Turns: 10.0; Damage: 801
-Quagsire*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 794
-Togepi: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 791
-Seedot*: Quick Attack [nrm] / Foul Play [drk]; Turns: 10.0; Damage: 742
-Clodsire: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 721
-Ducklett: Wing Attack [fly] / Bubble Beam [wtr]; Turns: 10.0; Damage: 715
-Swalot*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 700
-Dewpider: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 695
+Jangmo-o: Dragon Tail [drg] / Brick Break [fig]; Turns: 10.0; Damage: 811
+Pikachu*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 801
+Pikachu (5th Anniversary)*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 801
+Pikachu (Shaymin Scarf)*: Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 801
+Snivy: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 800 (both grass)
+Toedscool*: Mud Shot [grd] / Wrap [nrm]; Turns: 10.0; Damage: 782
+Pidgey*: Quick Attack [nrm] / Twister [drg]; Turns: 10.0; Damage: 782
+Nacli*: Mud Shot [grd] / Ancient Power [rck]; Turns: 10.0; Damage: 777
+Klink: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 775 (both electric)
+Klink: Metal Sound [stl] / Discharge [elc]; Turns: 10.0; Damage: 768
+Arbok: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 759 (both poison)
+Tandemaus*: Mud Shot [grd] / Crunch [drk]; Turns: 10.0; Damage: 757
+Tentacruel: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 754 (both poison)
+Poliwag*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 734 (both ground)
+Helioptile: Thunder Shock [elc] / Bulldoze [grd]; Turns: 10.0; Damage: 731
+Tympole: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 712 (both ground)
+Silicobra: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 702 (both ground)
+Staryu*: Quick Attack [nrm] / Bubble Beam [wtr]; Turns: 10.0; Damage: 700
+Pichu*: Quick Attack [nrm] / Thunder Punch [elc]; Turns: 10.0; Damage: 700
+Wooper*: Mud Shot [grd] / Mud Bomb [grd]; Turns: 10.0; Damage: 681 (both ground)
+Wooper (Paldean)*: Poison Jab [poi] / Body Slam [nrm]; Turns: 10.0; Damage: 673
+Pichu*: Thunder Shock [elc] / Disarming Voice [fai]; Turns: 10.0; Damage: 665
+Araquanid: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 644
+Octillery*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 626
+Zubat*: Quick Attack [nrm] / Poison Fang [poi]; Turns: 10.0; Damage: 613
+Togepi: Peck [fly] / Psyshock [psy]; Turns: 10.0; Damage: 609
+Toedscruel*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 584
+Sentret: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 583
+Seedot*: Quick Attack [nrm] / Foul Play [drk]; Turns: 10.0; Damage: 580
+Clodsire: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 577 (both poison)
+Quagsire*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 535
+Swalot*: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 509
+Clodsire: Mud Shot [grd] / Acid Spray [poi]; Turns: 10.0; Damage: 505
+Ducklett: Wing Attack [fly] / Bubble Beam [wtr]; Turns: 10.0; Damage: 477
+Dewpider: Infestation [bug] / Bubble Beam [wtr]; Turns: 10.0; Damage: 368

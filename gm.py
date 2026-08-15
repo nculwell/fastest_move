@@ -39,7 +39,8 @@ pokemon = {
                 and "mega" not in mon["tags"])
 }
 
-if True:
+# These print statements are exploratory and should be turned off "in production"
+if False:
     print(gm.keys(), file=sys.stderr)
     print(gm["moves"][0].keys(), file=sys.stderr)
 
@@ -54,6 +55,50 @@ if True:
 
 mon_fastest_movesets = []
 
+def do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy):
+    turns = 0
+    energy = residual_energy
+    damage = 0
+    # Apply fast moves until enough energy is generated to fire a charged move
+    while energy < cm["energy"]:
+        turns += fm["turns"]
+        energy += fm["energyGain"]
+        damage += fm["power"] * fm_stab
+    # Apply the charged move
+    damage += cm["power"] * cm_stab
+    turns += 1
+    energy -= cm["energy"]
+    return (turns, damage, energy)
+
+def stab(mon, move):
+    if move["type"] in mon["types"]:
+        return 1.25
+    else:
+        return 1.0
+
+def do_move_cycles(mon, fm, cm, cycle_count):
+    fm_stab = stab(mon, fm)
+    cm_stab = stab(mon, cm)
+    turns = 0
+    damage = 0
+    residual_energy = 0
+    for i in range(cycle_count):
+        (t, d, e) = do_move_cycle(fm, fm_stab, cm, cm_stab, residual_energy)
+        turns += t
+        damage += d
+        residual_energy = e
+    return (turns, damage)
+
+def calc_damage(mon, fm, cm):
+    # We calculate damage across three charged moves. This allows us to account
+    # for different move counts due to residual energy left over from the first
+    # move.
+    (turns, damage) = do_move_cycles(mon, fm, cm, 3)
+    # We calculate damage per turn, then scale it by the attacking mon's attack
+    # stat.
+    attack = mon["baseStats"]["atk"]
+    return attack * damage / turns
+
 for mon in pokemon.values():
     if mon["speciesId"] == "smeargle":
         continue
@@ -61,29 +106,26 @@ for mon in pokemon.values():
     if tags:
         if "shadow" in tags or "mega" in tags:
             continue
-    fms = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
-    cms = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
+    fast_moves = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
+    chrg_moves = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
     movesets = []
-    for fm in fms:
-        for cm in cms:
+    for fm in fast_moves:
+        for cm in chrg_moves:
             try:
                 turns = (cm["energy"] / fm["energyGain"]) * fm["turns"]
             except ZeroDivisionError:
+                # We don't expect this to happen, but if it does we want to see
+                # which pokemon triggered it so we can fix the problem.
                 print("ZeroDivisionError for fm:", fm, file=sys.stderr)
                 sys.exit(1)
             if turns <= TURNS_THRESHOLD:
-                fm_power = fm["power"] * turns / (turns + 1)
-                cm_power = cm["power"] / (turns + 1)
-                if fm["type"] in mon["types"]: fm_power *= 1.25 # STAB
-                if cm["type"] in mon["types"]: cm_power *= 1.25 # STAB
-                power = fm_power + cm_power
-                attack = mon["baseStats"]["atk"]
+                damage = calc_damage(mon, fm, cm)
                 movesets.append({
                     "mon": mon,
                     "turns": turns,
                     "fm": fm,
                     "cm": cm,
-                    "damage": power * attack
+                    "damage": damage,
                     })
     if len(movesets) == 0:
         continue
@@ -94,7 +136,8 @@ for mon in pokemon.values():
     mon_fastest_movesets.extend(movesets)
 
 def sort_key(moveset):
-    return "%05.2f--%d--%s" % (moveset["turns"], 1000000-moveset["damage"], moveset["mon"]["speciesId"])
+    return (moveset["turns"], -moveset["damage"], moveset["mon"]["speciesId"])
+    #return "%05.2f--%d--%s" % (moveset["turns"], 1000000-moveset["damage"], moveset["mon"]["speciesId"])
 mon_fastest_movesets.sort(key=sort_key)
 
 count = 0
