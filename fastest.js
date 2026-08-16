@@ -10,6 +10,8 @@ const CPM_URL = "cpm.txt";
 
 const DEFAULT_TURNS_THRESHOLD = 10;
 
+const EXCLUDED = [ "smeargle", "pikachu" ]
+
 // The CP multiplier for each level, indexed by level - 1. We read this from cpm.txt
 // at runtime the way gm.py does, and fall back to this built-in copy if the file
 // can't be fetched -- opening the page from file:// rather than serving it, say.
@@ -114,16 +116,29 @@ function indexGamemaster(gm) {
     if (move.unlisted !== true) moves.set(move.moveId, move);
   }
 
+  // Here we filter out any Pokemon that we want to exclude.
   const pokemon = [];
   for (const mon of gm.pokemon) {
     if (!mon.released) continue;
     const tags = mon.tags;
     if (tags && (tags.includes("shadow") || tags.includes("mega"))) continue;
-    if (mon.speciesId === "smeargle") continue; // skip Smeargle, it's goofy
     pokemon.push(mon);
   }
 
-  return { moves, pokemon };
+  // EXCLUDED lists species ids, but we exclude by dex number so that every form
+  // of an excluded Pokemon drops out along with it.
+  const byId = new Map(pokemon.map((mon) => [mon.speciesId, mon]));
+  const excludedDex = new Set();
+  for (const speciesId of EXCLUDED) {
+    const mon = byId.get(speciesId);
+    if (mon) excludedDex.add(mon.dex);
+    else console.warn(`EXCLUDED entry "${speciesId}" matched no Pokemon`);
+  }
+
+  return {
+    moves,
+    pokemon: pokemon.filter((mon) => !excludedDex.has(mon.dex)),
+  };
 }
 
 // cpm.txt holds the CP multiplier for each level, one "<level> <cpm>" pair per line.

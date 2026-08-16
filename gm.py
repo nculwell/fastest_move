@@ -5,6 +5,8 @@ from math import floor
 
 TURNS_THRESHOLD = 10
 
+EXCLUDED = ["smeargle", "pikachu"]
+
 GMFILE = "gamemaster.json"
 CPMFILE = "cpm.txt"
 
@@ -67,8 +69,13 @@ pokemon = {
                     and "mega" not in mon["tags"]))
 }
 
+EXCLUDED_DEX_NUMBERS = [
+        pokemon[excl_id]["dex"]
+        for excl_id in EXCLUDED
+        ]
+
 # These print statements are exploratory and should be turned off "in production"
-if False:
+if True:
     print([ mon for mon in gm["pokemon"] if mon["speciesId"].startswith("maushold") ], file=sys.stderr)
 
     print(gm.keys(), file=sys.stderr)
@@ -145,8 +152,8 @@ def calc_damage(mon, fm, cm, block):
     return damage / turns
 
 for mon in pokemon.values():
-    if mon["speciesId"] == "smeargle":
-        continue # skip Smeargle, it's goofy
+    if mon["dex"] in EXCLUDED_DEX_NUMBERS:
+        continue
     fast_moves = [ moves[m] for m in mon["fastMoves"] if m in moves  and moves[m]["energyGain"]>0 ]
     chrg_moves = [ moves[m] for m in mon["chargedMoves"] if m in moves ]
     eliteMoves = mon.get("eliteMoves") or []

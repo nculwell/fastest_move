@@ -397,7 +397,6 @@ Machoke*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 9.55; Dama
 Primeape*: *Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 9.52; Damage (blocks): 5.65; (both fighting)
 Bouffalant: Mud Shot [grd] / Stomp [nrm]; Turns: 8.89; Damage: 9.45; Damage (blocks): 4.42;
 Krabby*: Mud Shot [grd] / Vise Grip [nrm]; Turns: 8.89; Damage: 9.35; Damage (blocks): 4.39;
-Pikachu (Horizons): Thunder Shock [elc] / *Volt Tackle [elc]; Turns: 8.89; Damage: 9.35; Damage (blocks): 4.39; (both electric)
 Beedrill*: Poison Sting [poi] / *Drill Run [grd]; Turns: 8.89; Damage: 9.32; Damage (blocks): 4.68;
 Ninetales*: *Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 9.32; Damage (blocks): 4.68;
 Omastar: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 9.16; Damage (blocks): 4.32;
@@ -428,7 +427,6 @@ Klang: Thunder Shock [elc] / Vise Grip [nrm]; Turns: 8.89; Damage: 8.19; Damage 
 Pawmo: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 8.16; Damage (blocks): 4.29; (both electric)
 Togetic: Fairy Wind [fai] / Psyshock [psy]; Turns: 8.89; Damage: 8.16; Damage (blocks): 4.29;
 Mankey*: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 8.13; Damage (blocks): 4.58; (both fighting)
-Pikachu (Libre): Thunder Shock [elc] / Flying Press [fig]; Turns: 8.89; Damage: 8.10; Damage (blocks): 3.97;
 Flygon: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 8.06; Damage (blocks): 4.26; (both ground)
 Stunfisk*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 8.06; Damage (blocks): 4.26; (both electric)
 Cacnea: Poison Sting [poi] / Seed Bomb [grs]; Turns: 8.89; Damage: 8.00; Damage (blocks): 3.94;
@@ -443,9 +441,6 @@ Mankey*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 7.06; Damage 
 Omanyte: Mud Shot [grd] / Rock Blast [rck]; Turns: 8.89; Damage: 6.97; Damage (blocks): 3.29;
 Palossand: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 6.94; Damage (blocks): 3.58; (both ground)
 Fennekin: Ember [fir] / Psyshock [psy]; Turns: 8.89; Damage: 6.84; Damage (blocks): 3.55;
-Pikachu (Libre): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 6.84; Damage (blocks): 3.55; (both electric)
-Pikachu (Pop Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 6.84; Damage (blocks): 3.55; (both electric)
-Pikachu (Rock Star): Thunder Shock [elc] / Thunder Punch [elc]; Turns: 8.89; Damage: 6.84; Damage (blocks): 3.55; (both electric)
 Magby: Ember [fir] / Brick Break [fig]; Turns: 8.89; Damage: 6.81; Damage (blocks): 3.84;
 Magby: Karate Chop [fig] / Brick Break [fig]; Turns: 8.89; Damage: 6.81; Damage (blocks): 3.84; (both fighting)
 Monferno: Ember [fir] / Low Sweep [fig]; Turns: 8.89; Damage: 6.81; Damage (blocks): 3.84;
@@ -454,12 +449,6 @@ Machop*: Karate Chop [fig] / Low Sweep [fig]; Turns: 8.89; Damage: 6.77; Damage 
 Cacnea: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 6.55; Damage (blocks): 3.45;
 Mareep*: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.55; Damage (blocks): 3.45; (both electric)
 Trapinch: Mud Shot [grd] / Sand Tomb [grd]; Turns: 8.89; Damage: 6.55; Damage (blocks): 3.45; (both ground)
-Pikachu: Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
-Pikachu (5th Anniversary): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
-Pikachu (Flying): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
-Pikachu (Horizons): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
-Pikachu (Kariyushi): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
-Pikachu (Shaymin Scarf): Thunder Shock [elc] / Discharge [elc]; Turns: 8.89; Damage: 6.45; Damage (blocks): 3.42; (both electric)
 Elekid: Thunder Shock [elc] / Brick Break [fig]; Turns: 8.89; Damage: 6.42; Damage (blocks): 3.71;
 Medicham*: Psycho Cut [psy] / Ice Punch [ice]; Turns: 8.89; Damage: 6.35; Damage (blocks): 3.39;
 Croagunk: Poison Sting [poi] / Brick Break [fig]; Turns: 8.89; Damage: 6.16; Damage (blocks): 3.32;
@@ -944,12 +933,6 @@ Grimer: Acid [poi] / Sludge [poi]; Turns: 10.0; Damage: 9.73; Damage (blocks): 5
 Growlithe*: Ember [fir] / Flame Wheel [fir]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.82; (both fire)
 Marshtomp*: Mud Shot [grd] / Surf [wtr]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52;
 Pidgeot*: *Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 9.73; Damage (blocks): 5.42;
-Pikachu*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
-Pikachu (5th Anniversary)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
-Pikachu (Flying)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
-Pikachu (Horizons)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
-Pikachu (Kariyushi)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
-Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / Wild Charge [elc]; Turns: 10.0; Damage: 9.73; Damage (blocks): 4.52; (both electric)
 Pikipek: Peck [fly] / Drill Peck [fly]; Turns: 10.0; Damage: 9.73; Damage (blocks): 5.42; (both flying)
 Raichu*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 9.73; Damage (blocks): 5.12;
 Bronzong*: Confusion [psy] / Weather Ball (Water) [wtr]; Turns: 10.0; Damage: 9.71; Damage (blocks): 6.34;
@@ -994,7 +977,6 @@ Throh*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 9.00; Damage (b
 Uxie: Confusion [psy] / Swift [nrm]; Turns: 10.0; Damage: 8.97; Damage (blocks): 5.94;
 Grimmsnarl*: Sucker Punch [drk] / Power-Up Punch [fig]; Turns: 10.0; Damage: 8.91; Damage (blocks): 7.27;
 Karrablast: Peck [fly] / X-Scissor [bug]; Turns: 10.0; Damage: 8.91; Damage (blocks): 4.85;
-Pikachu (Horizons)*: Quick Attack [nrm] / *Volt Tackle [elc]; Turns: 10.0; Damage: 8.91; Damage (blocks): 4.24;
 Plusle*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 8.91; Damage (blocks): 4.85;
 Spidops: Shadow Claw [gho] / X-Scissor [bug]; Turns: 10.0; Damage: 8.91; Damage (blocks): 4.85;
 Ariados*: Poison Sting [poi] / Lunge [bug]; Turns: 10.0; Damage: 8.82; Damage (blocks): 4.52;
@@ -1029,7 +1011,6 @@ Nidoking*: Double Kick [fig] / Sand Tomb [grd]; Turns: 10.0; Damage: 8.48; Damag
 Jumpluff: Fairy Wind [fai] / Energy Ball [grs]; Turns: 10.0; Damage: 8.45; Damage (blocks): 4.09;
 Pawniard*: Fury Cutter [bug] / X-Scissor [bug]; Turns: 10.0; Damage: 8.45; Damage (blocks): 4.70; (both bug)
 Octillery*: Lock On [nrm] / Octazooka [wtr]; Turns: 10.0; Damage: 8.36; Damage (blocks): 4.06;
-Pikachu (Rock Star)*: Thunder Shock [elc] / Meteor Mash [stl]; Turns: 10.0; Damage: 8.36; Damage (blocks): 4.06;
 Plusle*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 8.36; Damage (blocks): 4.97;
 Rotom: Thunder Shock [elc] / Ominous Wind [gho]; Turns: 10.0; Damage: 8.36; Damage (blocks): 4.67;
 Sandaconda: Mud Shot [grd] / Bulldoze [grd]; Turns: 10.0; Damage: 8.36; Damage (blocks): 4.36; (both ground)
@@ -1113,8 +1094,6 @@ Trapinch*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 7.18; Damag
 Mienfoo: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 7.09; Damage (blocks): 4.24; (both fighting)
 Mienfoo: Low Kick [fig] / Drain Punch [fig]; Turns: 10.0; Damage: 7.09; Damage (blocks): 4.24; (both fighting)
 Pidgeotto*: Wing Attack [fly] / Twister [drg]; Turns: 10.0; Damage: 7.09; Damage (blocks): 3.94;
-Pikachu (5th Anniversary)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 7.09; Damage (blocks): 3.64;
-Pikachu (Flying)*: Thunder Shock [elc] / Fly [fly]; Turns: 10.0; Damage: 7.09; Damage (blocks): 3.64;
 Togetic*: Fairy Wind [fai] / Ancient Power [rck]; Turns: 10.0; Damage: 7.09; Damage (blocks): 3.94;
 Mew*: Infestation [bug] / Low Sweep [fig]; Turns: 10.0; Damage: 7.06; Damage (blocks): 4.03;
 Furret*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 7.00; Damage (blocks): 4.21;
@@ -1129,8 +1108,6 @@ Sandshrew*: Mud Shot [grd] / Rock Slide [rck]; Turns: 10.0; Damage: 6.82; Damage
 Hawlucha*: Poison Jab [poi] / Power-Up Punch [fig]; Turns: 10.0; Damage: 6.73; Damage (blocks): 5.03;
 Hitmonchan: Bullet Punch [stl] / Power-Up Punch [fig]; Turns: 10.0; Damage: 6.73; Damage (blocks): 5.03;
 Pancham*: Low Kick [fig] / Low Sweep [fig]; Turns: 10.0; Damage: 6.73; Damage (blocks): 4.12; (both fighting)
-Pikachu*: Thunder Shock [elc] / *Surf [wtr]; Turns: 10.0; Damage: 6.73; Damage (blocks): 3.52;
-Pikachu (Shaymin Scarf)*: Thunder Shock [elc] / *Surf [wtr]; Turns: 10.0; Damage: 6.73; Damage (blocks): 3.52;
 Purrloin: Sucker Punch [drk] / Night Slash [drk]; Turns: 10.0; Damage: 6.73; Damage (blocks): 4.42; (both dark)
 Riolu*: Quick Attack [nrm] / Brick Break [fig]; Turns: 10.0; Damage: 6.73; Damage (blocks): 3.82;
 Riolu*: Quick Attack [nrm] / Blaze Kick [fir]; Turns: 10.0; Damage: 6.73; Damage (blocks): 3.82;
@@ -1168,12 +1145,6 @@ Aron*: Metal Claw [stl] / Body Slam [nrm]; Turns: 10.0; Damage: 6.18; Damage (bl
 Electrike*: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.64;
 Elekid*: Low Kick [fig] / Brick Break [fig]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.64; (both fighting)
 Mareep*: Thunder Shock [elc] / Trailblaze [grs]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu (5th Anniversary)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu (Flying)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu (Horizons)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu (Kariyushi)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
-Pikachu (Shaymin Scarf)*: Quick Attack [nrm] / Discharge [elc]; Turns: 10.0; Damage: 6.18; Damage (blocks): 3.33;
 Servine: Vine Whip [grs] / Leaf Tornado [grs]; Turns: 10.0; Damage: 6.09; Damage (blocks): 3.61; (both grass)
 Shinx: Spark [elc] / Swift [nrm]; Turns: 10.0; Damage: 6.09; Damage (blocks): 3.61;
 Joltik*: Sucker Punch [drk] / Cross Poison [poi]; Turns: 10.0; Damage: 6.00; Damage (blocks): 3.88;
@@ -1200,9 +1171,6 @@ Sandshrew*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 5.36; Dama
 Snivy: Vine Whip [grs] / Seed Bomb [grs]; Turns: 10.0; Damage: 5.36; Damage (blocks): 3.06; (both grass)
 Togedemaru*: Spark [elc] / Fell Stinger [bug]; Turns: 10.0; Damage: 5.36; Damage (blocks): 3.97;
 Mantine*: Wing Attack [fly] / Bubble Beam [wtr]; Turns: 10.0; Damage: 5.27; Damage (blocks): 3.64;
-Pikachu*: *Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 5.27; Damage (blocks): 2.42;
-Pikachu (5th Anniversary)*: *Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 5.27; Damage (blocks): 2.42;
-Pikachu (Shaymin Scarf)*: *Present [nrm] / Discharge [elc]; Turns: 10.0; Damage: 5.27; Damage (blocks): 2.42;
 Qwilfish*: Poison Sting [poi] / Acid Spray [poi]; Turns: 10.0; Damage: 5.18; Damage (blocks): 3.61; (both poison)
 Sandygast*: Sand Attack [grd] / Sand Tomb [grd]; Turns: 10.0; Damage: 5.18; Damage (blocks): 3.00; (both ground)
 Klink: Volt Switch [elc] / Discharge [elc]; Turns: 10.0; Damage: 5.14; Damage (blocks): 3.14; (both electric)
