@@ -147,6 +147,9 @@ function stab(mon, move) {
   return mon.types.includes(move.type) ? STAB_MULTIPLIER : 1.0;
 }
 
+const attackStat = (mon) => (mon.baseStats.atk + IV) * cpmFor(ATTACKER_LEVEL);
+const defenseStat = () => (DEFENDER_BASE_DEF + IV) * cpmFor(DEFENDER_LEVEL);
+
 function moveDamage(move, moveStab, attack, defense) {
   // The game's damage formula. Type effectiveness is deliberately left out: it's
   // situational, and we show the move types so players can account for it. Note
@@ -175,8 +178,8 @@ function doMoveCycle(fm, fmStab, cm, cmStab, attack, defense, residualEnergy, bl
 function doMoveCycles(mon, fm, cm, cycleCount, block) {
   const fmStab = stab(mon, fm);
   const cmStab = stab(mon, cm);
-  const attack = (mon.baseStats.atk + IV) * cpmFor(ATTACKER_LEVEL);
-  const defense = (DEFENDER_BASE_DEF + IV) * cpmFor(DEFENDER_LEVEL);
+  const attack = attackStat(mon);
+  const defense = defenseStat();
   let turns = 0;
   let damage = 0;
   let residualEnergy = 0;
@@ -215,6 +218,8 @@ function findMovesets({ moves, pokemon }, turnsThreshold) {
       .filter((m) => m && m.energyGain > 0);
     const cms = mon.chargedMoves.map((m) => moves.get(m)).filter((m) => m);
     const eliteMoves = mon.eliteMoves || [];
+    const attack = attackStat(mon);
+    const defense = defenseStat();
 
     const movesets = [];
     for (const fm of fms) {
@@ -229,6 +234,9 @@ function findMovesets({ moves, pokemon }, turnsThreshold) {
           turns,
           fmElite: eliteMoves.includes(fm.moveId),
           cmElite: eliteMoves.includes(cm.moveId),
+          // Damage a single hit of each move does, for the per-move tooltips.
+          fmHit: moveDamage(fm, stab(mon, fm), attack, defense),
+          cmHit: moveDamage(cm, stab(mon, cm), attack, defense),
           damage: calcDamage(mon, fm, cm, false),
           damageWithBlocks: calcDamage(mon, fm, cm, true),
         });
@@ -260,7 +268,6 @@ function typeBadge(type) {
   const span = document.createElement("span");
   span.className = "type";
   span.textContent = TYPE_ABBR[type] || type;
-  span.title = type;
   const color = TYPE_COLORS[type] || "#888";
   span.style.background = color;
   span.style.color = isLight(color) ? "#1a1a1a" : "#fff";
@@ -274,22 +281,37 @@ function isLight(hex) {
   return 0.2126 * r + 0.7152 * g + 0.0722 * b > 150;
 }
 
-function moveCell(move, mon, elite) {
+// Everything about a move goes in one tooltip on the cell. The inner spans
+// deliberately carry no title of their own, so hovering anywhere in the cell --
+// name, type badge or elite marker -- shows the same thing.
+function moveTooltip(move, mon, elite, hit) {
+  const type = move.type.charAt(0).toUpperCase() + move.type.slice(1);
+  const lines = [
+    move.name,
+    mon.types.includes(move.type) ? `${type} · STAB` : type,
+    `Turns: ${move.turns}`,
+    `Damage: ${hit} HP (power ${move.power})`,
+    move.energyGain > 0
+      ? `Energy gain: ${move.energyGain}`
+      : `Energy cost: ${move.energy}`,
+  ];
+  if (elite) lines.push("Needs an Elite TM");
+  return lines.join("\n");
+}
+
+function moveCell(move, mon, elite, hit) {
   const td = document.createElement("td");
   td.className = "move";
+  td.title = moveTooltip(move, mon, elite, hit);
   if (elite) {
     const star = document.createElement("span");
     star.className = "star";
     star.textContent = "*";
-    star.title = "Needs an Elite TM";
     td.append(star);
   }
   const name = document.createElement("span");
   name.textContent = move.name;
-  if (mon.types.includes(move.type)) {
-    name.className = "stab";
-    name.title = "STAB";
-  }
+  if (mon.types.includes(move.type)) name.className = "stab";
   td.append(name, " ", typeBadge(move.type));
   return td;
 }
@@ -350,8 +372,8 @@ function render(movesets, opts) {
 
     tr.append(
       name,
-      moveCell(ms.fm, ms.mon, ms.fmElite),
-      moveCell(ms.cm, ms.mon, ms.cmElite),
+      moveCell(ms.fm, ms.mon, ms.fmElite, ms.fmHit),
+      moveCell(ms.cm, ms.mon, ms.cmElite, ms.cmHit),
       numCell(label),
       numCell(ms.damage.toFixed(2)),
       numCell(ms.damageWithBlocks.toFixed(2))
